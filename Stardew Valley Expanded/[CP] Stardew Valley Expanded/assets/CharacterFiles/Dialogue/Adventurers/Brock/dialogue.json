@@ -1,11 +1,9 @@
 ﻿{
-
-"Mon": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache.",
-"Tue": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache.",
-"Wed": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache.",
-"Thu": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache.",
-"Fri": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache.",
-"Sat": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache.",
-"Sun": "%Brock: Gil is checking over important documentation regarding Castle Village's weapon cache."
-
+    "Mon": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village.",
+    "Tue": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village.",
+    "Wed": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village.",
+    "Thu": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village.",
+    "Fri": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village.",
+    "Sat": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village.",
+    "Sun": "%Brock: Gil vérifie des documents importants concernant la cache d'armes de Castle Village."
 }

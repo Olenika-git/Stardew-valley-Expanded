@@ -1,11 +1,9 @@
 ﻿{
-
-"Mon": "%Brianna: I'm busy. Go away.#$e#%Brianna: Shoo...",
-"Tue": "%Brianna: Ugh. I got stuck with patrol duty.",
-"Wed": "%Brianna: Lance has looked out for me since I joined. He's like a big brother to me.",
-"Thu": "%Brianna: My blue cloak gives me 20 defense!",
-"Fri": "%She continues talking to Drake and ignores you.",
-"Sat": "%Brianna: Can you walk on water too?#$e#%Brianna: It took me months to figure it out.",
-"Sun": "%Brianna: Those golden ocean flowers helped me befriend Drake."
-
+    "Mon": "%Brianna: Je suis occupée. Va-t'en .#$e#%Brianna: tiiir...",
+    "Tue": "%Brianna: Pouah. Je suis resté coincé à cause de mon sens du devoir en patrouille.",
+    "Wed": "%Brianna: Lance s'occupe de moi depuis mon arrivée. Il est comme un grand frère pour moi.",
+    "Thu": "%Brianna: Ma cape bleue me donne 20 pts de défense !",
+    "Fri": "%Elle continue de parler à Drake et vous ignore.",
+    "Sat": "%Brianna: Peux-tu aussi marcher sur l'eau ?#$e#%Brianna: Il m'a fallu des mois pour comprendre .",
+    "Sun": "%Brianna: Ces fleurs dorées de l'océan m'ont aidé à devenir ami avec Drake."
 }

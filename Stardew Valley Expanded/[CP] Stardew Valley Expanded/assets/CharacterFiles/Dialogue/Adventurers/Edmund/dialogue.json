@@ -1,11 +1,9 @@
 ﻿{
-
-"Mon": "%Edmund: There's many mysteries in the world. We've barely scratched the surface.",
-"Tue": "%Edmund: Brianna and Drake started dating recently.#$e#%Edmund: I totally called it.",
-"Wed": "%Edmund: I saw a mermaid once. She had perfect skin and beautiful blue hair...",
-"Thu": "%Edmund: I applied to live in Castle Village. I hope my cover letter convinces Camilla.#$e#%Edmund: The success rate is low. Like... 25 percent. Crazy right?",
-"Fri": "%Edmund: Hey, good to see you.#$e#%Edmund: I plan my leg day workouts to coincide with patrol duty. Ain't I bright?",
-"Sat": "%Edmund: We found another ocean cavern filled with monsters.#$e#%Edmund: *sigh* Now it's our problem.",
-"Sun": "%Edmund: You run around with such determination...#$e#%Edmund: I can't figure you out."
-
+    "Mon": "%Edmund: Il y a beaucoup de mystères en ce monde. Nous avons à peine effleuré sa surface.",
+    "Tue": "%Edmund: Brianna et Drake ont commencé à sortir ensemble récemment.#$e#%Edmund: Je l'ai totalement accepté.",
+    "Wed": "%Edmund: Une fois j'ai vu une sirène. Elle avait une peau parfaite et de magnifique cheveux bleus...",
+    "Thu": "%Edmund: J'ai postulé pour vivre à Castle Village. J'espère que ma lettre de motivation convaincra Camille.#$e#%Edmund: Le taux de réussite est bas. Genre... 25 pourcent. c'est fou hein?",
+    "Fri": "%Edmund: Hé, content de te voir.#$e#%Edmund: Je planifie mes séances d'entraînement quotidiennement, cette fois-ci ce sera les jambes pour qu'elles coïncident avec mes vacations. Ne suis-je pas brillant?",
+    "Sat": "%Edmund: Nous avons trouvé une autre caverne océanique remplie de monstres.#$e#%Edmund: *souffle* Maintenant c'est ton problème.",
+    "Sun": "%Edmund: Tu cours partout avec une telle détermination...#$e#%Edmund: Je n'arrive pas à te comprendre."
 }

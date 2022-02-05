@@ -1,11 +1,9 @@
 ﻿{
-
-"Mon": "%Drake: What kind of magic can you do?#$e#%Drake: Some of us here can walk on water. Brianna is teaching me how.",
-"Tue": "%Drake: We use coral around here for our mana potions.",
-"Wed": "%Drake: Got any platinum on you? I'm two ingots short of upgrading a tool.",
-"Thu": "%Drake: I'll trample anything that comes in my path.#$e#%Drake: I've already destroyed a couple rainbow shells. If you want any of this stuff on the beach you better act fast.",
-"Fri": "%Drake: Lance is a legend around here. He's Jolyne's second in command.#$e#%Drake: He's my role model. I dyed my hair just to match him!",
-"Sat": "%Drake: This place is a great fishing spot. Rare fish are attracted to the coral reefs.#$e#%Drake: There's this thing called a 'torpedo trout'. It's resistant to magic so I've never caught one...",
-"Sun": "%Drake: We still don't know much about the merpeople.#$e#%Drake: I wonder what else is out there beneath the ocean. It harbors many secrets..."
-
+    "Mon": "%Drake: Quel genre de magie peux-tu invoquer ?#$e#%Drake: Certains d'entre nous ici peuvent marcher sur l'eau. Actuellement Brianna m'enseigne ce sort.",
+    "Tue": "%Drake: Nous utilisons du corail ici pour nos potions de mana.",
+    "Wed": "%Drake: Vous avez des lingots de platine sur vous ? Il m'en manque deux pour améliorer un de mes outils.",
+    "Thu": "%Drake: Je piétinerai tous ceux qui se mettront sur mon chemin.#$e#%Drake: J'ai déjà détruit quelques coquillages arc-en-ciel. Si vous en voulez vous feriez mieux d'agir et vite !",
+    "Fri": "%Drake: Lance est une légende ici. Il est le second commandant de Jolyne.#$e#%Drake: C'est mon modèle. J'ai teint mes cheveux juste pour lui ressembler !",
+    "Sat": "%Drake: Cet endroit est un excellent coin de pêche. Des poissons rares sont attirés par les récifs coralliens.#$e#%Drake: Il y en as un appelée 'truite torpille'. Cette espèce est résistante à la magie donc je n'en ai encore jamais attrapé...",
+    "Sun": "%Drake: Nous ne savons toujours pas grand-chose sur les mers.#$e#%Drake: Je me demande ce qu'il y a d'autre sous la surface de l'océan. Il recèle encore de nombreux secrets..."
 }

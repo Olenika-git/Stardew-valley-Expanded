@@ -1,11 +1,9 @@
 ﻿{
-
-"Mon": "%Gale: I got sand in my boot...",
-"Tue": "%Gale: I have a wizard's exam soon. I'm very nervous.",
-"Wed": "%Gale: Our island is well hidden.",
-"Thu": "%Gale: This little island of ours is like a colorful gem in the ocean.",
-"Fri": "%Gale: Some of us are researchers.",
-"Sat": "%Gale: There's plenty of natural forage around here.",
-"Sun": "%Gale: I'm working on a new magic sword. I want it to be fast and agile.",
-
+    "Mon": "%Gale: J'ai du sable dans mes bottes...",
+    "Tue": "%Gale: J'ai bientôt un examen de sorcellerie. je suis très nerveux.",
+    "Wed": "%Gale: Notre île est bien cachée.",
+    "Thu": "%Gale: Cette petite île qui est la nôtre est comme un joyau coloré dans l'océan.",
+    "Fri": "%Gale: Certains d'entre nous sommes des chercheurs.",
+    "Sat": "%Gale: Il y a naturellement beaucoup de fourrage par ici.",
+    "Sun": "%Gale: Je travaille sur une nouvelle épée magique. Je veux qu'elle soit rapide et agile.",
 }

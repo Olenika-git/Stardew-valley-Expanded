@@ -1,8 +1,6 @@
 ﻿{
-
-"Mon": "Surprised to see me?$5#$e#Razzy and I have important matters to discuss today.$0",
-"Thu": "Hello, dear. Have you come to aid Castle Village?$0#$e#There's more monsters than usual loitering around today...$2",
-"Fri": "Beautiful view from here, right? Sand, sand, and more sand.$0#$e#Is it wrong that I think some of the monsters we fight are kind of cute? ...Not enough to take home, or anything.$1",
-"Sun": "We've figured out lots of handy tricks around here to deal with our little monster problem.$0#$e#See that green fire? It's a magical deterrent that *strongly discourages* them from encroaching on this tower.$1#$e#With fire...$5"
-
+    "Mon": "Surpris de me voir?$5#$e#Razzy et moi avons d'importantes choses à discuter aujourd'hui.$0",
+    "Thu": "Bonjour, mon cher. Es-tu venu aider Castle Village?$0#$e#Il y a plus de monstres que d'habitude qui traînent aujourd'hui...$2",
+    "Fri": "Belle vue d'ici,pas vrai? Sable, sable, et encore du sable.$0#$e#Est-ce mal de penser que certains des monstres que nous combattons sont plutôt mignons? ...Biensur pas assez pour le ramener à la maison, ou quoi que ce soit.$1",
+    "Sun": "Nous avons découvert de nombreuses astuces pratiques pour résoudre notre petit problème de monstre.$0#$e#Tu vois ce feu vert? C'est un moyen de dissuasion magique qui les *dissuade fortement* d'approcher de cette tour.$1#$e#Avec du feu...$5"
 }

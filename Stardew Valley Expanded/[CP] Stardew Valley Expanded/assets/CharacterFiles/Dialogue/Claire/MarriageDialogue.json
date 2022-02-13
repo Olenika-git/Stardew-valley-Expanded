@@ -49,7 +49,7 @@
   "Rainy_Day_3": "Oh, bonjour. C'est un temps pluvieux aujourd'hui...$0",
   "Rainy_Day_4": "Mon objectif aujourd'hui est de rester à l'intérieur et d'être productif. Essayez quelque chose de nouveau peut-être...$1",
   //NIGHT DIALOGUE
-  "Indoor_Night_0": "Welcome home! How was your day?$1",
+  "Indoor_Night_0": "Bon retour à la maison! Comment étais ta journée?$1",
   "Indoor_Night_1": "Oh, it's %time? The day went by so fast...$0",
   "Indoor_Night_2": "I washed the dishes and swept the house while you were out.$1#$e#I had a pretty productive day!$5",
   "Indoor_Night_3": "Hello, dear. Welcome back.$1#$e#Oh, mine? My day was gratifying.$5",

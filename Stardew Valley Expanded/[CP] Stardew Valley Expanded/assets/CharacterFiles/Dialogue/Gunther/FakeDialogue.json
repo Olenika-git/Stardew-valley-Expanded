@@ -1,15 +1,15 @@
 ﻿
 { 
   //SPECIAL DIALOGUE
-  "Introduction": "You must be Mr. @. Pleasure to meet you.^You must be Ms. @. Pleasure to meet you.",
+  "Introduction": "Vous devez être Monsieur.. @. C'est un plaisir de vous rencontrer.^Vous devez être Madame.. @. C'est un plaisir de vous rencontrer.",
 
-  "Mon": "Hello there.#$e#Find any interesting artifacts?",
-  "Tue": "Err. Hello.$0",
-  "Wed": "Hello Mr. @.^Hello Ms. @.",
-  "Thu": "Welcome to the Archaeology Office.",
-  "Fri": "Hi.$0",
-  "Sat": "Have plans for the weekend?",
-  "Sun": "Good day, Mr. @.^Good day, Ms. @.",
+  "Mon": "Bonjour.#$e#Vous trouvez des artefacts intéressants?",
+  "Tue": "Euh.Bonjour $0",
+  "Wed": "Bonjour Monsieur. @.^Bonjour Madame. @.",
+  "Thu": "Bienvenue au bureau d'archéologie.",
+  "Fri": "Bonjour.$0",
+  "Sat": "As-tu des projets pour le week-end?",
+  "Sun": "Bonne journée, Monsieur. @.^Bonne journée Madame. @.",
 
 }
 

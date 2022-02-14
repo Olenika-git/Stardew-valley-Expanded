@@ -21366,8 +21366,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "I had a very productive day. How was yours?$1",
-        "funLeave_Victor": "Hey! I'll be at Shearwater Bridge today working on the renovation. I hope you have a nice day!$3",
+        "funReturn_Victor": "J'ai eu une journée très productive. Comment était la tienne?$1",
+        "funLeave_Victor": "Salut! Je serai aux Pont Shearwater aujourd'hui pour travailler sur la rénovation. J'espère que tu passes une bonne journée!$3",
       }
     },
     {
@@ -21379,8 +21379,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "There's a handful of factors to consider when renovating a bridge: function, materials, safety, cost, wildlife, and appearance.$1",
-        "funLeave_Victor": "Good morning, honey. Today will be a tough one. I need to figure out where I can hire some heavy machinery for the bridge renovation.$1",
+        "funReturn_Victor": "Il y a une poignée de facteurs à considérer lors de la rénovation d'un pont : fonction, matériaux, sécurité, coût, faune et apparence..$1",
+        "funLeave_Victor": "Bonjour toi. Aujourd'hui est un jour difficile. Je dois trouver où je peux louer de la machinerie lourde pour la rénovation du pont.$1",
       }
     },
     {
@@ -21392,8 +21392,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "*phew*... my brain hurts from working too hard today.$0",
-        "funLeave_Victor": "There's so much work to do still for the bridge renovation project. It's a little overwhelming at times.$1#$e#%You tell Victor they can do it!#$e#Haha. Thanks. I'll give it my all!$4",
+        "funReturn_Victor": "*phew*... j'ai mal à la tête j'ai du trop travaillé aujourd'hui.$0",
+        "funLeave_Victor": "Il y a encore tellement de travail à faire pour le projet de rénovation du pont. C'est parfois un peu fatiguant.$1#$e#%You tell Victor they can do it!#$e#Haha. Thanks. I'll give it my all!$4",
       }
     },
     {
@@ -21405,8 +21405,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "After a day like that I feel like I could eat two huge plates of spaghetti.$0",
-        "funLeave_Victor": "Should I run any errands while I'm out today?$1",
+        "funReturn_Victor": "Après une journée comme ça j'ai l'impression que je pourrais manger deux énormes assiettes de spaghettis.$0",
+        "funLeave_Victor": "Dois-je faire des courses lors de mon absence aujourd'hui?$1",
       }
     },
     {
@@ -21418,8 +21418,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "Some old engineering books in my mother's library have proven to be quite handy with my renovation work!$3",
-        "funLeave_Victor": "I'm off to work on the bridge renovation. I'll be back tonight.$3",
+        "funReturn_Victor": "Certains vieux livres d'ingénierie dans la bibliothèque de ma mère se sont avérés très utiles pour mes travaux de rénovation !$3",
+        "funLeave_Victor": "Je pars travailler sur la rénovation du pont. je reviens ce soir.$3",
       }
     },
     {
@@ -21431,8 +21431,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "I almost made a costly mistake today with a forces calculation. It just goes to show that you should always double check your work - especially on projects as important as this one.$2",
-        "funLeave_Victor": "Hey, good morning. I think I'll be out later than usual tonight. I have a bunch of work to finish.",
+        "funReturn_Victor": "J'ai failli commettre une erreur coûteuse aujourd'hui avec un calcul des forces. Cela montre simplement que vous devez toujours revérifier votre travail, en particulier sur des projets aussi importants que celui-ci.$2",
+        "funLeave_Victor": "Hé, bonjour. Je pense que je finirai plus tard que d'habitude ce soir. j'ai pas mal de boulot à finir.",
       }
     },
     {
@@ -21444,8 +21444,8 @@
         "HasSeenEvent |contains=2000009": false
       },
       "Entries": {
-        "funReturn_Victor": "I've put a lot of thought into this new bridge design. I hope everyone likes it.$1#$e#I managed to reduce material costs with this new and improved design. That's what I'd call an engineering success!$3",
-        "funLeave_Victor": "I have a lot to get done today at Shearwater Bridge. I'll see you tonight.$3",
+        "funReturn_Victor": "J'ai beaucoup réfléchi aux design du pont. J'espère que tout le monde va l'aimer.$1#$e#J'ai réussi à réduire les coûts de matériel grâce à une nouvelle conception améliorée. C'est ce que j'appelle une réussite technique!$3",
+        "funLeave_Victor": "J'ai beaucoup à faire aujourd'hui aux Pont de Shearwater. Je te vois ce soir.$3",
       }
     },
     {
@@ -21453,70 +21453,70 @@
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
       "Entries": {
-        "2000009/e 2000008/O Victor/u 21 22 23 24 25 26 27 28/t 2000 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationComplete 14/skippable/makeInvisible 7 14 8 1/pause 850/pause 1000/faceDirection Victor 0 true/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/faceDirection Victor 1 true/pause 800/speak Victor  \"Hey! After many tireless nights and more than a few headaches, I'm proud to announce I've finally completed the Shearwater Bridge renovation project.$1#$b#My new design is cost-effective enough that I was well under budget.$3\"/pause 500/emote farmer 20/pause 250/speak Victor \"I have something special planned for us at the newly renovated Shearwater Bridge. Meet me there at 10:00pm tomorrow night.$4#$b#Promise me you won't visit it until then, okay? I want to be there when you see it.$3\"/pause 700/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"Victor has something special planned at Shearwater Bridge at 10:00pm tomorrow. He asked me not to visit it until then!\"/pause 1000/end dialogue Victor \"I can't wait to see the look on your face when you catch your first glimpse of the newly renovated bridge.$3#$e#Oh. Is what I have planned something cheesy? Maybe.$0#$e#Yes.$2#$b#But hey, it's a surprise! You're not getting anything else out of me until then!$1\""
+        "2000009/e 2000008/O Victor/u 21 22 23 24 25 26 27 28/t 2000 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationComplete 14/skippable/makeInvisible 7 14 8 1/pause 850/pause 1000/faceDirection Victor 0 true/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/faceDirection Victor 1 true/pause 800/speak Victor  \"Hey! Après de nombreuses nuits blanches et quelques maux de tête, je suis fier de vous annoncer que j'ai enfin terminé le projet de rénovation du pont de Shearwater.$1#$b#Mon nouveau design est suffisamment rentable pour que je sois bien dessous du budget.$3\"/pause 500/emote farmer 20/pause 250/speak Victor \"J'ai prévu quelque chose de spécial pour nous au Pont de Shearwater. Rendez-vous là-bas à 22h00 demain soir.$4#$b#Promets-moi que tu ne lui rendra pas visite d'ici là, d'accord ? Je veux être là quand tu le verras.$3\"/pause 700/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"Victor a prévu quelque chose de spécial au Pont de Shearwater demain à 22h00. Il m'a demandé de ne pas y aller avant!\"/pause 1000/end dialogue Victor \"J'ai hâte de voir l'expression sur votre visage lorsque vous apercevrez pour la première fois le pont récemment rénové.$3#$e#Oh. Est-ce que j'ai prévu quelque chose de ringard ? Peut-être.$0#$e#Oui.$2#$b#Mais Hey, c'est une surprise! Tu n'obtiens pas d'autres informations de ma part jusque-là!$1\""
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Olivia",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "The bridge renovation is gorgeous. I'm astounded by Victor's creativity!$1"
+        "ShearwaterBridgeRenovationComplete": "La rénovation du pont est magnifique. Je suis stupéfait par la créativité de Victor!$1"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Lewis",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "Ah, @! Shearwater Bridge is now fully renovated thanks to your husband. The townsfolk appreciate his efforts.$0"
+        "ShearwaterBridgeRenovationComplete": "Ah, @! Le Pont de Shearwater est maintenant entièrement rénové grâce à votre mari. Les habitants apprécient ses efforts .$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/MorrisTod",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "Do you have any idea how much money the Shearwater Bridge renovation has cost my operations here? My delivery drivers from Grampleton had to take a detour all the way through Zuzu City!$3#$e#I will say though, the bridge does look quite nice.$0"
+        "ShearwaterBridgeRenovationComplete": "Avez-vous une idée de combien d'argent la rénovation du pont Shearwater a coûté à mes affaçres dans le coin? Mes chauffeurs-livreurs de Grampleton ont dû faire un détour à travers la ville de Zuzu!$3#$e#Je dirai cependant que le pont est assez joli.$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Robin",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "Victor's bridge design is incredible. I wonder where he got his inspiration from.$0"
+        "ShearwaterBridgeRenovationComplete": "La conception du pont de Victor est incroyable. Je me demande où il a puisé son inspiration.$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Demetrius",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "A huge bridge renovation like this can do wonders for a small town's image!$1"
+        "ShearwaterBridgeRenovationComplete": "Une rénovation d'un pont comme celui-ci peut faire des merveilles pour l'image d'une petite ville!$1"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Sophia",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "Do you think the new bridge will attract more puppyfish?$1"
+        "ShearwaterBridgeRenovationComplete": "Pensez-vous que le nouveau pont attirera plus de petits poissons?$1"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Gus",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "With the bridge newly renovated, I wonder if the saloon will get more customers from Grampleton!$1"
+        "ShearwaterBridgeRenovationComplete": "Avec le pont récemment rénové, je me demande si le saloon attirera plus de clients de Grampleton!$1"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Clint",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "Hm. The bridge got renovated.$0#$e#It looks nice. Your husband did a good job.$0"
+        "ShearwaterBridgeRenovationComplete": "Hum. Le pont a été rénové.$0#$e#Ça à l'air bien. Votre mari a fait du bon travail.$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Willy",
       "Entries": {
-        "ShearwaterBridgeRenovationComplete": "Now I can get back to anglin' butterfish!$0"
+        "ShearwaterBridgeRenovationComplete": "Maintenant je peux retourner à la pêche!$0"
       },
     },
     { //Map patches renovated shearwater bridge
@@ -21559,7 +21559,7 @@
         "HasSeenEvent": "2000009"
       },
       "Entries": {
-        "2000010/O Victor/t 2030 2600/w sunny": "none/-500 -500/farmer 9 21 1 Victor 28 21 0/addTemporaryActor VictorSpaghettiDinnerTable 69 45 26 20 2 false/positionOffset VictorSpaghettiDinnerTable -30 32 true/positionOffset Victor 19 0 true/playMusic moonlightJellies/pause 1250/skippable/viewport 29 30 true/viewport move 0 -1 8500 true/move farmer 16 0 1 true/pause 7750/faceDirection Victor 3 true/pause 500/emote Victor 32/pause 300/faceDirection farmer 2 true/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 1100/faceDirection farmer 1 true/pause 500/jump farmer/pause 850/emote farmer 20/pause 300/speak Victor \"I'm glad you like the new design. It was quite the challenge learning new ways to solve problems I had never before considered.$3#$b#I hope this renovation improves the image of Pelican Town and shows the world we're open to anyone curious enough to explore what Stardew Valley has to offer.$1\"/pause 750/faceDirection Victor 0 true/pause 400/speak Victor \"But hey, what's a bridge renovation without a romantic spaghetti dinner on said bridge? Kudos to Gus for catering the food!$1\"/pause 500/move farmer 2 0 0/pause 1750/faceDirection farmer 1 true/pause 750/faceDirection Victor 3 true/pause 650/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/animate Victor true true 9999 28/animate farmer false true 9999 101/playSound dwop/pause 1000/viewport move 0 -1 8000 true/pause 3000/globalFade/viewport -1000 -1000/end dialogue Victor \"I wonder what other large projects I'll work on in the future...$1\""
+        "2000010/O Victor/t 2030 2600/w sunny": "none/-500 -500/farmer 9 21 1 Victor 28 21 0/addTemporaryActor VictorSpaghettiDinnerTable 69 45 26 20 2 false/positionOffset VictorSpaghettiDinnerTable -30 32 true/positionOffset Victor 19 0 true/playMusic moonlightJellies/pause 1250/skippable/viewport 29 30 true/viewport move 0 -1 8500 true/move farmer 16 0 1 true/pause 7750/faceDirection Victor 3 true/pause 500/emote Victor 32/pause 300/faceDirection farmer 2 true/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 1100/faceDirection farmer 1 true/pause 500/jump farmer/pause 850/emote farmer 20/pause 300/speak Victor \"Je suis content que le nouveau design te plaise. C'était tout un défi d'apprendre de nouvelles façons de résoudre des problèmes auxquels je n'avais jamais pensé auparavant..$3#$b#J'espère que cette rénovation améliorera l'image de Pélican Ville et montrera au monde que nous sommes ouverts à tous ceux qui sont assez curieux pour explorer ce que Stardew Valley a à offrir.$1\"/pause 750/faceDirection Victor 0 true/pause 400/speak Victor \"Mais bon, qu'est-ce qu'une rénovation de pont sans un dîner spaghetti romantique sur le dit pont ? Félicitations à Gus pour la restauration du pont!$1\"/pause 500/move farmer 2 0 0/pause 1750/faceDirection farmer 1 true/pause 750/faceDirection Victor 3 true/pause 650/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/animate Victor true true 9999 28/animate farmer false true 9999 101/playSound dwop/pause 1000/viewport move 0 -1 8000 true/pause 3000/globalFade/viewport -1000 -1000/end dialogue Victor \"Je me demande sur quels autres grands projets je vais travailler à l'avenir...$1\""
       }
     },
     {
@@ -21571,7 +21571,7 @@
         "Weather |contains=Rain, Snow": true
       },
       "Entries": {
-        "2000011/e 2000009/k 2000010/O Victor": "continue/-500 -500/farmer 81 17 2 Victor 90 26 2/pause 500/speak Victor \"Ah... the weather today isn't good.$2#$b#We'll try again the next clear night at 10:00pm, okay?$3\"/pause 500/end dialogue Victor \"Promise me you won't sneak a peek at the bridge!$1\""
+        "2000011/e 2000009/k 2000010/O Victor": "continue/-500 -500/farmer 81 17 2 Victor 90 26 2/pause 500/speak Victor \"Ah... la météo aujourd'hui n'est pas bonne.$2#$b#Nous réessayerons la nuit prochaine à 22h00, d'accord?$3\"/pause 500/end dialogue Victor \"Promets-moi que tu ne jetteras pas un coup d'œil au pont avant que je soit la!$1\""
       }
     },
     //Loads Victor's Spaghetti Dinner Table (69x45), which is a meal I totally would want to eat. Wouldn't you?
@@ -21599,7 +21599,7 @@
         "Relationship:Olivia": "Dating"
       },
       "Entries": {
-        "8982809/t 800 1600": "none/-500 -500/farmer 64 15 2 Victor 64 16 0/skippable/pause 1100/speak Victor \"Greetings, @.$1#$b#Apologies for interrupting your farm work. I uhh... just wanted to say a couple things.$0#$b#My mother mentioned you two started dating?$3\"/pause 200/emote farmer 16/emote farmer 40 true/pause 300/speak Victor \"You don't need to explain yourself. I'm not weirded out by it or anything.$0#$b#I haven't seen her this happy in a long time. She speaks fondly of you.$3#$b#This is something she needs in life. I'm happy for you two.$1\"/pause 400/move Victor 0 0 1/pause 500/move Victor 0 0 0/pause 350/speak Victor \"Well, that's all I came by to say.$3#$b#I'll leave you to your farm work.$1\"/end dialogue Victor \"My mother was singing today in her bedroom.$0\"",
+        "8982809/t 800 1600": "none/-500 -500/farmer 64 15 2 Victor 64 16 0/skippable/pause 1100/speak Victor \"Salutations, @.$1#$b#Toutes nos excuses pour avoir interrompu votre travail agricole. Je euh... je voulais juste dire quelques choses.$0#$b#Ma mère a dit que vous aviez commencé à sortir ensemble?$3\"/pause 200/emote farmer 16/emote farmer 40 true/pause 300/speak Victor \"Tu n'as pas à t'expliquer. Je ne suis pas bizarre ou quoi que ce soit.$0#$b#Je ne l'avais pas vue aussi heureuse depuis longtemps. elle parle de toi avec tendresse.$3#$b#C'est quelque chose dont elle a besoin dans la vie. je suis content pour vous deux.$1\"/pause 400/move Victor 0 0 1/pause 500/move Victor 0 0 0/pause 350/speak Victor \"Eh bien, c'est tout ce que je suis venu te dire.$3#$b#Je te laisse à ton travail de ferme.$1\"/end dialogue Victor \"Ma mère chantait dans sa chambre aujourd'hui.$0\"",
       }
     },
     //OLIVIA NPC
@@ -21616,7 +21616,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Olivia": "Oh, my! For me? This is truly an exquisite gift. Thank you, dear!/124 125 348 220 221/This is so thoughtful of you, sweetie! Thank you./336 432 276 608 421/Oh? I don't like this.../18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/This really isn't appropriate. I'll promptly throw this out!/330 284 149 151 459 346 304/This is a thoughtful gift, dear. Thank you./446 402 418/"
+        "Olivia": "Oh, mon! Pour moi? C'est vraiment un cadeau exquis. Merci très cher!/124 125 348 220 221/C'est tellement attentionné de ta part, mon cher ! Merci./336 432 276 608 421/Oh? je n'aime pas ça.../18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Ce n'est vraiment pas approprié. je vais rapidement jeter ça!/330 284 149 151 459 346 304/C'est un cadeau attentionné, ma chère. Merci./446 402 418/"
       }
     },
     {
@@ -21721,8 +21721,8 @@
         "Date": "Spring 1"
       },
       "Entries": {
-        "funReturn_Olivia": "Good evening, honey.$1",
-        "funLeave_Olivia": "As much as I miss the hustle and bustle of the city, I do love the valley in the spring.$3#$e#Before we moved here, I'd never tasted such clean air.$1#$b#Let's take a walk around the woods later if you aren't too busy. I love to see everything starting to grow again.$3",
+        "funReturn_Olivia": "Bonne soirée, chéri.$1",
+        "funLeave_Olivia": "Même si l'agitation de la ville me manque, j'aime la vallée au printemps.$3#$e#Avant d'emménager ici, je n'avais jamais goûté un air si pur.$1#$b#Faisons une promenade dans les bois plus tard si vous n'êtes pas trop occupé. J'aime voir tout recommencer à pousser.$3",
       }
     },
     {
@@ -21732,8 +21732,8 @@
         "Date": "Spring 2"
       },
       "Entries": {
-        "funReturn_Olivia": "I look forward to the days I do yoga.$1",
-        "funLeave_Olivia": "Good morning, dear.$1#$e#You seem well this morning.$3",
+        "funReturn_Olivia": "J'attends avec impatience les jours où je fais du yoga.$1",
+        "funLeave_Olivia": "Bonjour, mon cher.$1#$e#tu as l'air bien ce matin.$3",
       }
     },
     {
@@ -21743,8 +21743,8 @@
         "Date": "Spring 5"
       },
       "Entries": {
-        "funReturn_Olivia": "My, I'm a bit tipsy...$4",
-        "funLeave_Olivia": "Good morning honey. Care for some coffee?[395]$3",
+        "funReturn_Olivia": "Mon Dieu, je suis un peu pompette...$4",
+        "funLeave_Olivia": "Bonjour chéri. tu veux un petit café?[395]$3",
       }
     },
     {
@@ -21754,8 +21754,8 @@
         "Date": "Spring 8"
       },
       "Entries": {
-        "funReturn_Olivia": "I'm tired today. Let's get to bed early, @.",
-        "funLeave_Olivia": "Have you ever encountered any wild animals here in the valley, sweetie?$0#$b#I'm terrified of bears. I hope I never meet one.$2",
+        "funReturn_Olivia": "Je suis fatigué aujourd'hui. Allons nous coucher tôt, @.",
+        "funLeave_Olivia": "As-tu déjà rencontré des animaux sauvages ici dans la vallée, ma chérie?$0#$b#J'ai peur des ours. J'espère que je n'en rencontrerai jamais.$2",
       }
     },
     {
@@ -21765,8 +21765,8 @@
         "Date": "Spring 9"
       },
       "Entries": {
-        "funReturn_Olivia": "Sometimes I look at you and can't believe that we found each other. We've been so lucky.$3#$e#I love you, @.$4",
-        "funLeave_Olivia": "Rise and shine, sweetie. I cooked breakfast![195]$1",
+        "funReturn_Olivia": "Parfois je te regarde et je n'arrive pas à croire qu'on s'est trouvé. We've been so lucky.$3#$e#I love you, @.$4",
+        "funLeave_Olivia": "Lève-toi, ma chérie. j'ai préparé le petit déjeuner![195]$1",
       }
     },
     {
@@ -21776,8 +21776,8 @@
         "Date": "Spring 12"
       },
       "Entries": {
-        "funReturn_Olivia": "One of the people who I met while I was a trader called today to tip me off on a great investment.$3#$e#It's a little tempting, but I'm fine where I am.$3",
-        "funLeave_Olivia": "I'm feeling lazy today. I'm tempted to just stay inside and read.$6#$e#I do miss our library sometimes. I could pick any shelf and find a fascinating story to disappear into for hours.$3",
+        "funReturn_Olivia": "L'une des personnes que j'ai rencontrées alors que j'étais commerçant m'a appelé aujourd'hui pour me signaler un excellent investissement.$3#$e#C'est un peu tentant, mais je suis bien là où je suis.$3",
+        "funLeave_Olivia": "Je me sens paresseuse aujourd'hui. Je suis tenté de rester à l'intérieur et de lire.$6#$e#Notre bibliothèque me manque parfois. Je pourrais choisir n'importe quelle étagère et trouver une histoire fascinante dans laquelle me perdre pendant des heures.$3",
       }
     },
     {
@@ -21787,8 +21787,8 @@
         "Date": "Spring 15"
       },
       "Entries": {
-        "funReturn_Olivia": "Let's invite Victor over for dinner soon.$0#$b#I don't want him to feel like I'm leaving him behind by joining our family with yours. He should feel welcome here, too.$0",
-        "funLeave_Olivia": "Last night I had a dream about us growing old together.$1#$b#I know it's a little corny, sweetie. But it made me think about painting a portrait of us in our future, happy together.$3",
+        "funReturn_Olivia": "Invitons Victor pour le dîner bientôt. $0#$b#Je ne veux pas qu'il ait l'impression que je le laisse tomber en unissant nos deux famille. Il dois aussi se sentir le bienvenu ici.$0",
+        "funLeave_Olivia": "La nuit dernière, j'ai rêvé que nous vieillissions ensemble.$1#$b#Je sais que c'est un peu ringard, ma puce. Mais ça m'a fait penser à faire un portrait de nous dans notre avenir, heureux ensemble pour toujours.$3",
       }
     },
     {
@@ -21798,8 +21798,8 @@
         "Date": "Spring 16"
       },
       "Entries": {
-        "funReturn_Olivia": "I'd like to introduce you to some of my friends in the city sometime.$0#$e#I'm sure you'd get along well.$3",
-        "funLeave_Olivia": "Good morning, dear. I brewed us coffee. This is a special blend from Suki.[395]$3#$e#These coffee beans are only grown in the Gotoro Empire, where the climate is just right.$1",
+        "funReturn_Olivia": "J'aimerais te présenter à certains de mes amis de la ville un jour.$0#$e#Je suis sûr que vous vous entendriez bien.$3",
+        "funLeave_Olivia": "Bonjour chéri. Je nous ai préparé du café. Ceci est un mélange spécial de Suki .[395]$3#$e#Ces grains de café ne sont cultivés que dans l'Empire Gotoro, où le climat le permet.$1",
       }
     },
     {
@@ -21809,8 +21809,8 @@
         "Date": "Spring 19"
       },
       "Entries": {
-        "funReturn_Olivia": "I may attend a wine tasting next week. Would you care to join me, @?$3",
-        "funLeave_Olivia": "Shall we dine at the saloon tonight, honey?$3",
+        "funReturn_Olivia": "J'assisterai peut-être à une dégustation de vin la semaine prochaine. Voudriez-vous vous joindre à moi, @?$3",
+        "funLeave_Olivia": "Allons-nous dîner au saloon ce soir, chérie?$3",
       }
     },
     {

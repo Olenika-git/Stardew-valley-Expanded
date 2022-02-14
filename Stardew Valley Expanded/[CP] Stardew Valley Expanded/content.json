@@ -21820,8 +21820,8 @@
         "Date": "Spring 22"
       },
       "Entries": {
-        "funReturn_Olivia": "I don't regret giving up trading to come live with you on the farm.$3#$b#I've found so much peace here with you.$1",
-        "funLeave_Olivia": "Up early, as usual.$6#$e#Take this, dear. This energy tonic will aid you in your adventurers.[349]$0",
+        "funReturn_Olivia": "Je ne regrette pas d'avoir abandonné le commerce pour venir vivre avec toi à la ferme.$3#$b#J'ai trouvé tant de calme ici avec toi.$1",
+        "funLeave_Olivia": "Up early, as usual.$6#$e#Prends ça, mon chéri. Ce tonique énergétique t'aideras dans tes aventures.[349]$0",
       }
     },
     {
@@ -21831,8 +21831,8 @@
         "Date": "Spring 23"
       },
       "Entries": {
-        "funReturn_Olivia": "In the city... everything moved so fast. I was always on my way somewhere, never pausing to pay attention to the world around me.$0#$e#It feels nice to slow down and enjoy life with you, @.$3",
-        "funLeave_Olivia": "Good luck with the farm work today, dear.$3",
+        "funReturn_Olivia": "En ville... tout allait si vite. J'étais toujours en route quelque part, sans jamais m'arrêter pour prêter attention au monde qui m'entourait.$0#$e#It feels nice to slow down and enjoy life with you, @.$3",
+        "funLeave_Olivia": "Bonne chance avec vôtre travail à la ferme aujourd'hui, mon cher.$3",
       }
     },
     {
@@ -21842,8 +21842,8 @@
         "Date": "Spring 26"
       },
       "Entries": {
-        "funReturn_Olivia": "Have a productive day, honey?$3",
-        "funLeave_Olivia": "*yawn* Good morning.$3",
+        "funReturn_Olivia": "As-tu une journée productive, chéri?$3",
+        "funLeave_Olivia": "*baille* Bonne Matinée.$3",
       }
     },
     {
@@ -21853,8 +21853,8 @@
         "Date": "Summer 1"
       },
       "Entries": {
-        "funReturn_Olivia": "Sometimes I feel so cooped up at home.$6#$b#I should go into the city more, sweetie. And you should come with me sometime!$3",
-        "funLeave_Olivia": "Have you figured out what you'll be planting this season, sweetie? I want to send some of this summer's crops back home to my parents.$0#$e#They don't believe me when I tell them I'm living on a farm!$3",
+        "funReturn_Olivia": "Parfois je me sens si enfermé chez moi à la maison.$6#$b#e devrais aller plus souvent en ville, mon chéri. Et tu devrais venir avec moi de temps en temps!$3",
+        "funLeave_Olivia": "As-tu choisit ce que tu vas planter cette saison, ma chérie ? Je veux envoyer à mes parents une partie des récoltes de cet été.$0#$e#Ils ne me croient pas quand je leur dis que je vis dans une ferme!$3",
       }
     },
     {
@@ -21864,8 +21864,8 @@
         "Date": "Summer 2"
       },
       "Entries": {
-        "funReturn_Olivia": "I'm thinking of putting together a group order for the town from some far-away vineyards. We could get a few cases for fairly cheap.$0#$b#We have a nice little community here, don't we?$0",
-        "funLeave_Olivia": "I'll be cleaning the farmhouse today, sweetie. Try not to track mud in on the floors.$0#$e#I know you're careful.$3",
+        "funReturn_Olivia": "J'envisage de faire une commande groupée pour la ville chez quelques vignobles lointains. Nous pourrions obtenir quelques caisses pour pas cher.$0#$b#Nous avons une jolie petite communauté ici, n'est-ce pas ??$0",
+        "funLeave_Olivia": "Je vais nettoyer la ferme aujourd'hui, ma chérie. Essaye de ne pas laisser de traces de boue sur le sols.$0#$e#Je sais que tu es prudent.$3",
       }
     },
     {
@@ -21875,8 +21875,8 @@
         "Date": "Summer 5"
       },
       "Entries": {
-        "funReturn_Olivia": "The war with the Empire rages on, and the victims just keep piling up.$2#$e#It hurts to think about all of those people suffering...$2#$e#%You hug Olivia.",
-        "funLeave_Olivia": "I need to go into the city and pick up some painting supplies soon.$0#$e#I special order most of my supplies, but I still like to look around locally to see if anything unique pops up.$0",
+        "funReturn_Olivia": "La guerre avec l'Empire fait rage et les victimes ne cessent de s'accumuler.$2#$e#C'est douloureux de penser à tous ces gens qui souffrent...$2#$e#%Vous faites un calin à Olivia.",
+        "funLeave_Olivia": "J'ai besoin d'aller en ville et d'acheter des fournitures de peinture.$0#$e#Je commande spécialement la plupart de mes fournitures, mais j'aime quand même regarder autour de moi pour voir si quelque chose me plait.$0",
       }
     },
     {
@@ -21886,8 +21886,8 @@
         "Date": "Summer 8"
       },
       "Entries": {
-        "funReturn_Olivia": "Have you ever met the wizard who lives south of town?$0#$e#You're braver than I am. I admire your ability to befriend even the strangest people.$3",
-        "funLeave_Olivia": "Ah, you're finally up!$1#$b#I brewed us a special blend of coffee. Here![395]$3",
+        "funReturn_Olivia": "Avez-vous déjà rencontré le sorcier qui vit au sud de la ville?$0#$e#Tu es plus courageux que moi. J'admire ta capacité à te lier d'amitié avec les gens les plus étranges.$3",
+        "funLeave_Olivia": "Ah, tu es finalement debout!$1#$b#Je nous ai préparé un mélange de café spécial. tiens![395]$3",
       }
     },
     {
@@ -21897,8 +21897,8 @@
         "Date": "Summer 9"
       },
       "Entries": {
-        "funReturn_Olivia": "Can we take a trip to the desert sometime?$3#$e#I'd like to try some fresh cactus fruit.$1",
-        "funLeave_Olivia": "I have yoga class today, dear. I'll be away until this evening.$3",
+        "funReturn_Olivia": "À l'occasion nous pourrions faire un voyage dans le désert ensemble$3#$e#J'aimerais gôuter des fruits de cactus frais.$1",
+        "funLeave_Olivia": "J'ai un cours de yoga aujourd'hui, cher. je serai absente jusqu'à ce soir.$3",
       }
     },
     {
@@ -21908,8 +21908,8 @@
         "Date": "Summer 12"
       },
       "Entries": {
-        "funReturn_Olivia": "Too bad wine can't solve all of my problems. But it can try.$2#$e#Don't worry, I'm kidding. I won't drink too much, even when I'm down.$0",
-        "funLeave_Olivia": "Good morning, sweetie. Care for breakfast?$0#$e#Eat it while it's hot.[201]$1",
+        "funReturn_Olivia": "Dommage que le vin ne puisse pas résoudre tous mes problèmes. Mais ça peut aider.$2#$e#Ne t'inquiète pas, je plaisante. Je ne boirai pas trop, même quand je suis déprimé.$0",
+        "funLeave_Olivia": "Bonjour chérie. Tu t'occupe du petit déjeuner?$0#$e#Mange tant que c'est encore chaud.[201]$1",
       }
     },
     {
@@ -21919,8 +21919,8 @@
         "Date": "Summer 15"
       },
       "Entries": {
-        "funReturn_Olivia": "Hello, honey.$3",
-        "funLeave_Olivia": "The air on the farm smells so clean.$3#$b#If Victor comes over, we should have a picnic outside. He could use some fresh air.$0",
+        "funReturn_Olivia": "Bonjour, honey.$3",
+        "funLeave_Olivia": "L'air de la ferme sent la pureté.$3#$b#Si Victor vient, on devrait pique-niquer dehors. Il aurait bien besoin d'air frais lui aussi.$0",
       }
     },
     {
@@ -21930,7 +21930,7 @@
         "Date": "Summer 16"
       },
       "Entries": {
-        "funReturn_Olivia": "Should I pour us red or white tonight?$3#$e#Me? I just want whatever you're in the mood for.$6",
+        "funReturn_Olivia": "Dois-je nous verser du vin rouge ou du vin blanc ce soir?$3#$e#Moi? Je veux juste ce dont tu as envie.$6",
         "funLeave_Olivia": "*yawn* Up early, as usual.$6#$e#I have errands to run today, dear. Can I pick you up anything?$3",
       }
     },
@@ -21941,8 +21941,8 @@
         "Date": "Summer 17"
       },
       "Entries": {
-        "funReturn_Olivia": "We should play a board game some evening.$0#$e#Watch out. I'm very competitive, and I love winning.$6",
-        "funLeave_Olivia": "My, my. Your outfit is absolutely flawless today.$4#$e#Will you come home early tonight?...$9"
+        "funReturn_Olivia": "On devrait jouer à un jeu de société un soir.$0#$e#Fais attention. Je suis très compétitif et j'aime gagner.$6",
+        "funLeave_Olivia": "Oh la la. Ta tenue est absolument impeccable aujourd'hui.$4#$e#Rentreras-tu tôt ce soir ??...$9"
       }
     },
     {
@@ -21952,8 +21952,8 @@
         "Date": "Summer 22"
       },
       "Entries": {
-        "funReturn_Olivia": "I'm using a new sunscreen. It's doing wonders for my complexion.$3#$b#Let me know if you want try it.$1",
-        "funLeave_Olivia": "Good morning, honey. Care for some coffee?$3#$e#Be careful, it's piping hot![395]$1",
+        "funReturn_Olivia": "J'utilise une nouvelle crème solaire. Elle fait des merveilles sur mon teint.$3#$b#Dis-moi si tu veux l'essayer.$1",
+        "funLeave_Olivia": "Bonjour chéri. Envie d'un café?$3#$e#Attention, il est très chaud![395]$1",
       }
     },
     {
@@ -21963,8 +21963,8 @@
         "Date": "Summer 23"
       },
       "Entries": {
-        "funReturn_Olivia": "I fetched a bottle of wine from the cellar for you. It's a wonderful vintage.[348]$1",
-        "funLeave_Olivia": "I have my aerobics class at Pierre's today. I'll be home in the evening.$3",
+        "funReturn_Olivia": "e suis allé chercher une bouteille de vin à la cave pour vous. C'est un superbe millésime.[348]$1",
+        "funLeave_Olivia": "J'ai mon cours d'aérobic chez Pierre aujourd'hui. je serai de retour à la maison ce soir.$3",
       }
     },
     {
@@ -21974,8 +21974,8 @@
         "Date": "Summer 26"
       },
       "Entries": {
-        "funReturn_Olivia": "Andy made me feel uncomfortable at the saloon tonight. He was staring at me constantly...$2#$e#I heard he's horrible at paying his tab. That's not too surprising.$6",
-        "funLeave_Olivia": "Good morning.$3#$e#I may indulge myself with a nice glass of wine at the saloon tonight.$1",
+        "funReturn_Olivia": "Andy m'a mis mal à l'aise au saloon ce soir. Il me regardait sans cesse...$2#$e#J'ai entendu dire qu'il n'est pas sérieux pour payer ses factures. Ce n'est pas trop surprenant.$6",
+        "funLeave_Olivia": "Bonjour.$3#$e#Je vais peut-être me faire plaisir avec un bon verre de vin au saloon ce soir.$1",
       }
     },
     {
@@ -21985,8 +21985,8 @@
         "Date": "Fall 1"
       },
       "Entries": {
-        "funReturn_Olivia": "Mayor Lewis is considering funding some dock repairs. The wood is quite old.$0",
-        "funLeave_Olivia": "I want to paint the leaves changing in Cindersap Forest. That way, we can remember how the autumn looks all year long.$3#$e#It's a great opportunity to learn how to use colors with more nuance. And what a lovely painting it would be, if done well!$1",
+        "funReturn_Olivia": "Le maire Lewis envisage de financer certaines réparations du quai. Le bois se fait vieux.$0",
+        "funLeave_Olivia": "Je veux peindre les feuilles qui changent de couleur dans la forêt de Cindersap. De cette façon, nous pouront nous rappeler à quoi ressemble l'automne toute l'année.$3#$e#C'est une excellente occasion d'apprendre à utiliser les couleurs avec plus de nuances. Et quel beau tableau ce serait, s'il était bien fait!$1",
       }
     },
     {
@@ -21996,8 +21996,8 @@
         "Date": "Fall 2"
       },
       "Entries": {
-        "funReturn_Olivia": "I'm glad to see you, dear.$3",
-        "funLeave_Olivia": "Fall is such a wonderful season for foraging in the valley. Even the most expensive imported mushrooms can't beat what you can find in the wild here.$0#$e#You should pick some mushrooms for our dinner tonight, sweetie.$3",
+        "funReturn_Olivia": "Je suis content de te voir, mon cher.$3",
+        "funLeave_Olivia": "L'automne est une saison merveilleuse pour la recherche de nourriture dans la vallée. Même les champignons importés ne peuvent pas battre ce que vous pouvez trouver dans la nature ici.$0#$e#Tu devrais cueillir des champignons pour notre dîner de ce soir, chéri.$3",
       }
     },
     {
@@ -22007,8 +22007,8 @@
         "Date": "Fall 5"
       },
       "Entries": {
-        "funReturn_Olivia": "Jodi's been stressed lately. I'm going to offer to watch Vincent for a day so she can take a break.$0#$e#Let me know if I can ever help you relax a little, @. I know you work hard.$3",
-        "funLeave_Olivia": "Good morning, honey. I made us breakfast.[201]$3",
+        "funReturn_Olivia": "Jodi est stressée ces derniers temps. Je vais proposer de garder Vincent un jour pour qu'elle puisse faire une pause.$0#$e#Dis-moi si je peux jamais t'aider à te détendre un peu, @. Je sais que tu travailles dur.$3",
+        "funLeave_Olivia": "Bonjour chéri. je nous ai préparé le petit déjeuner.[201]$3",
       }
     },
     {
@@ -22018,8 +22018,8 @@
         "Date": "Fall 8"
       },
       "Entries": {
-        "funReturn_Olivia": "You're working so hard, sweetie! This energy tonic from Doctor Harvey will help you get your energy back.[349]$3#$e#Have a wonderful day, my love!$1",
-        "funLeave_Olivia": "*yawn* I must say I'm quite drowsy this morning.$6#$e#Any big plans today, dear?$3",
+        "funReturn_Olivia": "Tu travailles si dur, ma chérie ! Ce tonique énergétique du Docteur Harvey vous aidera à retrouver votre énergie.[349]$3#$e#Passe une merveilleuse journée, mon amour!$1",
+        "funLeave_Olivia": "*baille* Je dois dire que je suis assez fatigué ce matin.$6#$e#Tu as des projets pour aujourd'hui, mon cher?$3",
       }
     },
     {
@@ -22029,8 +22029,8 @@
         "Date": "Fall 9"
       },
       "Entries": {
-        "funReturn_Olivia": "The beauty of yoga is the enhanced flexibility it gives you, @...$4#$b#Working the fields on your farm will certainly keep your muscles toned too.$9#$e#%Olivia winks at you.",
-        "funLeave_Olivia": "I'm attending my acrobatics class this afternoon.$0#$e#Drop by and say hi if you have the time, honey.$3"
+        "funReturn_Olivia": "La beauté du yoga réside dans la flexibilité accrue qu'il vous offre, @...$4#$b#Travailler dans les champs de votre ferme gardera certainement vos muscles en pleines forme.$9#$e#%Olivia te fait un clin d'oeil.",
+        "funLeave_Olivia": "J'assiste à mon cours d'acrobatie cet après-midi.$0#$e#Passe dire bonjour si tu as le temps, chéri.$3"
       }
     },
     {
@@ -22040,8 +22040,8 @@
         "Date": "Fall 12"
       },
       "Entries": {
-        "funReturn_Olivia": "Well, I'm certainly quite tispy after those drinks at the saloon...$4#$e#Pardon me, dear. I must get ready for sleep.$9",
-        "funLeave_Olivia": "Such a chilly fall day. Want to join me in the saloon later for a little pick-me-up, sweetie?$3",
+        "funReturn_Olivia": "Eh bien, je suis certainement assez fatigué après ces quelques verres au saloon...$4#$e#Pardonnez-moi, mon cher. je dois me préparer à dormir.$9",
+        "funLeave_Olivia": "Une journée d'automne si fraîche. Tu veux me rejoindre dans le saloon plus tard pour un petit remontant, mon chéri?$3",
       }
     },
     {
@@ -22051,8 +22051,8 @@
         "Date": "Fall 15"
       },
       "Entries": {
-        "funReturn_Olivia": "If you ever need help with number crunching for %farm Farm, let me know.$1",
-        "funLeave_Olivia": "It's days like these that make me want to just stay in bed.$2#$b#Or shop. Maybe I'll take a trip into the city to cheer myself up.$6",
+        "funReturn_Olivia": "Si jamais vous avez besoin d'aide pour faire des calculs pour la ferme %farm, faites le moi savoir.$1",
+        "funLeave_Olivia": "C'est des jours comme ça qui me donnent envie de rester au lit.$2#$b#Ou faire les boutiques. Je vais peut-être faire un tour en ville pour me remonter le moral.$6",
       }
     },
     {
@@ -22062,8 +22062,8 @@
         "Date": "Fall 19"
       },
       "Entries": {
-        "funReturn_Olivia": "You know, I could perhaps give you some private yoga lessons if you're interested.$3#$e#We would start off with the basics.$1",
-        "funLeave_Olivia": "Good morning, dear. Care for coffee?$1#$e#Voila![395]$3",
+        "funReturn_Olivia": "Tu sais, je pourrais peut-être te donner des cours particuliers de yoga si ça t'intéresse.$3#$e#On commencerait par les bases.$1",
+        "funLeave_Olivia": "Bonjour chéri. Tu veux un café?$1#$e#Voila![395]$3",
       }
     },
     {
@@ -22073,8 +22073,8 @@
         "Date": "Fall 22"
       },
       "Entries": {
-        "funReturn_Olivia": "I finally managed to order a vintage that's in high demand from a vineyard just north of Grampleton. They gave me an extra bottle!$3#$e#I want you to have it, dear. Everyone should get to enjoy nice things once in a while, especially you.[348]$1",
-        "funLeave_Olivia": "Caroline purchased an astonishing pair of shoes. She's showing Jodi and I at the town square this afternoon.$6#$e#Oh, that reminds me. I'm running errands today, dear.$1",
+        "funReturn_Olivia": "J'ai finalement réussi à commander un millésime très demandé dans un vignoble situé juste au nord de Grampleton. Ils m'ont donné une bouteille supplémentaire!$3#$e#Je veux que tu l'aies, mon chéri. Tout le monde devrait profiter de belles choses de temps en temps, en particulier toi.[348]$1",
+        "funLeave_Olivia": "Caroline a acheté une paire de chaussures étonnante. Elle nous as montré à Jodi et moi sur la place de la ville cet après-midi.$6#$e#Ah ça me rappelle quelque chose. J'ai fais des courses aujourd'hui, mon cher .$1",
       }
     },
     {
@@ -22084,8 +22084,8 @@
         "Date": "Fall 23"
       },
       "Entries": {
-        "funReturn_Olivia": "My, my. Quite the chilly day.$0#$b#Perhaps we could settle on the couch with a nice cup of hot chocolate?$3#$e#There's a lovely mix from Grampleton in the cupboard.$1",
-        "funLeave_Olivia": "Would a different wallpaper look better in our living room...? Or maybe a nice shade of paint...$1#$e#%You tell Olivia you don't want the wallpaper changed.#$e#Oh, of course.$3#$b#I'm just speculating.$1",
+        "funReturn_Olivia": "Oh la la. Une journée plutôt froide.$0#$b#Peut-être pourrions-nous nous installer sur le canapé avec une bonne tasse de chocolat chaud?$3#$e#Il y a un beau mélange de Grampleton dans le placard.$1",
+        "funLeave_Olivia": "Un papier peint différent serait-il plus beau dans notre salon... ? Ou peut-être une jolie nuance de peinture...$1#$e#%Tu dis à Olivia que tu ne veux pas que le papier peint soit changé.#$e#Oh, biensur.$3#$b#Je ne fais que spéculer .$1",
       }
     },
     {
@@ -22095,8 +22095,8 @@
         "Date": "Fall 26"
       },
       "Entries": {
-        "funReturn_Olivia": "Would you like to visit Grampleton soon? The most divine weather you'll ever experience is under the shade of the tall redwood trees.$3#$e#Maybe we can take a trip there together sometime, honey.$1",
-        "funLeave_Olivia": "Morning, honey.$3",
+        "funReturn_Olivia": "Souhaitez-vous visiter Grampleton à l'occasion? Le temps le plus beau que vous n'avez jamais connu aupparavant est à l'ombre des grands séquoias.$3#$e#Peut-être qu'on pourra faire un voyage là-bas ensemble un de ces jours, chéri.$1",
+        "funLeave_Olivia": "Bonjour, chéri.$3",
       }
     },
     {
@@ -22106,7 +22106,7 @@
         "Date": "Winter 1"
       },
       "Entries": {
-        "funLeave_Olivia": "Winter puts a nice blush on your cheeks, @. It's very sweet.$4#$e#What a lovely time of year.$3",
+        "funLeave_Olivia": "L'hiver met une belle rougeur sur tes joues, @. C'est très mignont.$4#$e#Quelle belle période de l'année.$3",
       }
     },
     {
@@ -22116,8 +22116,8 @@
         "Date": "Winter 2"
       },
       "Entries": {
-        "funReturn_Olivia": "I'm quite sore from yoga today...$2",
-        "funLeave_Olivia": "Stay warm today, sweetie.$0#$e#I'll be waiting with a glass of red wine so we can both warm you up when you're done with your work.$3",
+        "funReturn_Olivia": "J'ai un peu mal à cause du yoga aujourd'hui...$2",
+        "funLeave_Olivia": "Reste au chaud aujourd'hui, mon chéri.$0#$e#Je t'attendrai avec un verre de vin rouge pour que nous puissions tous les deux se réchauffer quand tu auras fini ton travail.$3",
       }
     },
     {
@@ -22127,8 +22127,8 @@
         "Date": "Winter 5"
       },
       "Entries": {
-        "funReturn_Olivia": "Winter in Pelican Town is beautiful. All of the colorful decorations alongside the bright white snow makes every day feel so festive.$3#$e#Gus, Pierre, and Mayor Lewis do a wonderful and tasteful job with their decorating.$3",
-        "funLeave_Olivia": "I was up early and cleaned. Would you please take out the trash?$3#$e#Thank you, dear.[168]$1",
+        "funReturn_Olivia": "L'hiver à Pélican Ville est magnifique. Toutes les décorations colorées aux côtés de la neige blanche et brillante rendent chaque jour si festif.$3#$e#Gus, Pierre, and Mayor Lewis do a wonderful and tasteful job with their decorating.$3",
+        "funLeave_Olivia": "I was up early and cleaned. Would you please take out the trash?$3#$e#Merci, mon cher.[168]$1",
       }
     },
     {
@@ -22138,8 +22138,8 @@
         "Date": "Winter 9"
       },
       "Entries": {
-        "funReturn_Olivia": "I ran into Sophia today, such a precious doll.$3",
-        "funLeave_Olivia": "Care for some breakfast?$3#$e#Eat up, dear.[195]$1",
+        "funReturn_Olivia": "Je suis tombé sur Sophia aujourd'hui, une poupée si précieuse.$3",
+        "funLeave_Olivia": "Envi d'un petit déjeuner?$3#$e#Mange, chéri.[195]$1",
       }
     },
     {
@@ -22149,8 +22149,8 @@
         "Date": "Winter 12"
       },
       "Entries": {
-        "funReturn_Olivia": "I almost slipped on ice today.$6#$b#Be careful when you're walking outside, dear.$2",
-        "funLeave_Olivia": "I'm running errands. Anything I can get for you, honey?$3",
+        "funReturn_Olivia": "J'ai failli glisser sur de la glace aujourd'hui.$6#$b#Soyez prudent lorsque vous marchez à l'extérieur.$2",
+        "funLeave_Olivia": "Je fais des courses. Tu as besoin de quelque chose, chéri?$3",
       }
     },
     {
@@ -22160,8 +22160,8 @@
         "Date": "Winter 15"
       },
       "Entries": {
-        "funReturn_Olivia": "Caroline had an argument with Pierre today and vented to me about it afterward.$2#$e#I hope their marriage is okay.$2#$b#They're both strong people. I know they'll get through this.$0#$b#...I should check in on her. I wonder if she's talked to Jodi yet...$0",
-        "funLeave_Olivia": "My, it's chilly today, isn't it?$3#$b#I'd like to go paint somewhere scenic.",
+        "funReturn_Olivia": "Caroline s'est disputée avec Pierre aujourd'hui et m'en a parlé par la suite.$2#$e#J'espère que leur mariage va bien.$2#$b#Ce sont deux personnes fortes. Je sais qu'ils vont réussir à traverser ça.$0#$b#...Je devrais vérifier qu'elle va bien. Je me demande si elle à déjà parlé avec Jodi...$0",
+        "funLeave_Olivia": "Oh, il fait froid aujourd'hui, n'est-ce pas?$3#$b#J'aimerais'aller peindre dans un lieu pittoresque.",
       }
     },
     {
@@ -22171,8 +22171,8 @@
         "Date": "Winter 16"
       },
       "Entries": {
-        "funReturn_Olivia": "Today has been extraordinarily busy. I've earned a glass of a good wine tonight.$3#$e#Care for a glass?$6",
-        "funLeave_Olivia": "Good morning, dear. I brewed coffee for us.[395]$3",
+        "funReturn_Olivia": "La journée d'aujourd'hui a été extraordinairement chargé. J'ai gagné un bon verre de vin ce soir.$3#$e#Tu veux un verre ?$6",
+        "funLeave_Olivia": "Bonjour chéri. Je nous est préparé du café.[395]$3",
       }
     },
     {
@@ -22182,8 +22182,8 @@
         "Date": "Winter 19"
       },
       "Entries": {
-        "funReturn_Olivia": "Victor dropped off a book for you, sweetie.$6#$b#He said he thinks you'll enjoy it - it's a memoir from the early days of the Adventurer's Guild.$3#$e#I'm glad you two are getting along.$1",
-        "funLeave_Olivia": "Last night I had a dream about us growing old together.$3",
+        "funReturn_Olivia": "Victor a déposé un livre pour toi.$6#$b#Il a dit qu'il pense que vous l'apprécierez - c'est un mémoire des premiers jours de la guilde des aventuriers.$3#$e#Je suis content que vous vous entendiez tous les deux.$1",
+        "funLeave_Olivia": "La nuit dernière, j'ai rêvé que nous vieillissions ensemble.$3",
       }
     },
     {
@@ -22193,8 +22193,8 @@
         "Date": "Winter 22"
       },
       "Entries": {
-        "funReturn_Olivia": "I do love you, but some days I just think about Edward and how sad it all was...$2#$e#I'll tell you more about him someday... but not today.$2",
-        "funLeave_Olivia": "I'm not feeling well. I should see Doctor Harvey.$2#$b#You might want to stay away, in case it's contagious.$2",
+        "funReturn_Olivia": "Je t'aime, mais certains jours je pense à Edward et à quel point c'était triste...$2#$e#Je t'en dirai plus sur lui un jour ... mais pas aujourd'hui.$2",
+        "funLeave_Olivia": "Je ne me sens pas bien. Je devrais mieux aller voir le docteur Harvey.$2#$b#Tu devrais peut-être rester à l'écart, au cas où c'est contagieux.$2",
       }
     },
     {
@@ -22204,7 +22204,7 @@
         "Date": "Winter 23"
       },
       "Entries": {
-        "funReturn_Olivia": "Did you have a good day today?$0#$e#I found a bottle of some rare wine I've wanted to try up for auction, and managed to snag it for a great price.$3#$b#We'll have to find something to celebrate, so we have an excuse to open it.$1",
+        "funReturn_Olivia": "Avez-vous passé une bonne journée aujourd'hui?$0#$e#J'ai trouvé une bouteille d'un vin rare que j'ai toujours voulu goûter aux enchères et j'ai réussi à l'avoir à un prix très intéressant.$3#$b#Il va falloir qu'on trouve quelque chose à fêter, comme ça on aura une excuse pour l'ouvrir.$1",
       }
     },
     {
@@ -22214,18 +22214,18 @@
         "Date": "Winter 26"
       },
       "Entries": {
-        "funReturn_Olivia": "I'm glad you're home, honey.$1",
-        "funLeave_Olivia": "Perhaps I'll make us some mulled cider tonight. Does that sound good, dear?$3#$e#Oh, you're heading out? Have a productive day, sweetie.$1",
+        "funReturn_Olivia": "Je suis content que tu sois à la maison, chéri.$1",
+        "funLeave_Olivia": "Je vais peut-être nous faire du cidre chaud ce soir. Est-ce que ça te va, mon cheri?$3#$e#Oh, tu pars? Passe une bonne journée, mon chéri.$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5367": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Olivia in the bonds of marriage.",
-        "Utility.cs.5369": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Olivia in the bonds of marriage.",
-        "Utility.cs.5371": "@... Olivia... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
-        "Utility.cs.5377": "@... Olivia... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",
+        "Utility.cs.5367": "Quand @ est arrivé pour la première fois à Pélican Ville, personne ne savait s'il s'intégrerait à notre communauté ...#$b#Mais à partir d'aujourd'hui, @ va faire autant partie de cette ville que n'importe lequel d'entre nous!$h#$b#C'est avec un grand honneur en ce jour, {0} de {1}, d'unir @ et Olivia dans les liens du mariage.",
+        "Utility.cs.5369": "Quand @ est arrivé pour la première fois à Pélican Ville, personne ne savait s'il s'intégrerait à notre communauté ...#$b#Mais à partir d'aujourd'hui, @ va faire autant partie de cette ville que n'importe lequel d'entre nous!$h#$b#C'est avec un grand honneur en ce jour, {0} de {1}, d'unir @ et Olivia dans les liens du mariage.",
+        "Utility.cs.5371": "@... Olivia... #$b# En tant que maire de Pélican Ville et titulaire régional du sceau matrimonial, Je vous déclare maintenant mari et femme!$h",
+        "Utility.cs.5377": "@... Olivia... #$b# En tant que maire de Pélican Ville et titulaire régional du sceau matrimonial, Je te déclare maintenant femme et..., eh bien, femme!$h",
       },
       "When": {
         "Relationship:Olivia": "Engaged"
@@ -22283,17 +22283,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "My, my! My absolute favorite genre. Thank you for inviting me out, dear.$3"
+                  "Text": "Oh la la! Mon genre de film préféré. Merci de m'avoir invité, mon cher.$3"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*Olivia giggles*$1"
+                  "Text": "*Olivia pouffe de rire*$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The movie was splendid, @!$3"
+                  "Text": "Le film était magnifique, @!$3"
                 }
               },
               "ID": "reaction_2"
@@ -22306,17 +22306,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Caroline said this movie was frightening! I'll be prepared for any jump scares.$1"
+                  "Text": "Caroline a dit que ce film était effrayant ! Je serai prêt pour toutes les scènes qui font peur.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Psst. Are you scared, @?$0"
+                  "Text": "Psst. Tu as peur, @?$0"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a wonderful time. We should see another movie again sometime, dear.$3"
+                  "Text": "J'ai passé un moment merveilleux. Nous devrions revoir un autre film un jour, mon cher.$3"
                 }
               },
               "ID": "reaction_3"
@@ -22329,17 +22329,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Let's head in early to get good seats, @.$0"
+                  "Text": "Allons-y plus tôt pour avoir de bonnes places, @.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "/shake Olivia 3000/pause 500/message \"Olivia is giggling!\"",
-                  "Text": "This is so enjoyable!$1"
+                  "Script": "/shake Olivia 3000/pause 500/message \"Olivia pouffe de rire!\"",
+                  "Text": "C'est tellement agréable!$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The story was remarkable and engaging.$1"
+                  "Text": "L'histoire était remarquable et captivante.$1"
                 }
               },
               "ID": "reaction_4"
@@ -22352,13 +22352,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've heard good reviews about this film.$3"
+                  "Text": "J'ai entendu de bonnes critiques sur ce film.$3"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The film was quite the experience, dear. Thank you for the invite.$1"
+                  "Text": "Le film a été une expérience inoubliable, mon cher. Merci pour l'invitation.$1"
                 }
               },
               "ID": "reaction_5"
@@ -22371,17 +22371,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have a feeling this film will be a disappointment...$2"
+                  "Text": "Je sens que ce film va être une daube...$2"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "My, my. How cheezy.$0"
+                  "Text": "Oh la la. Comme c'est mignon.$0"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I appreciate your company, dear.$3"
+                  "Text": "J'apprécie votre compagnie, mon cher.$3"
                 }
               },
               "ID": "reaction_6"
@@ -22395,14 +22395,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Olivia": "My, my. What a beautiful day for a festival.$0#$e#Are you participating in the egg hunt, @?$3"
+        "Olivia": "Oh la la. Quelle belle journée pour un festival.$0#$e#Participez-vous à la chasse aux œufs, @?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Olivia": "I just love celebrating the spring, don't you, sweetie?$1#$b#Are you going on the egg hunt? I'll be cheering for you.$3"
+        "Olivia": "J'adore célébrer le printemps, pas toi?$1#$b#Vous partez à la chasse aux œufs ? je t'encouragerai.$3"
       },
       "When": {
         "Spouse": "Olivia"
@@ -22413,14 +22413,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Olivia": "Gatherings such as this give me a great opportunity to talk to Caroline and Jodi.$3"
+        "Olivia": "Des événements comme celui-ci me donnent d'excellente occasion de parler avec Caroline et Jodi.$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Olivia": "Lovely of you to make it to the festival, honey.$3#$e#Let's partake in the buffet soon.$1"
+        "Olivia": "C'est gentil de ta part d'être venu au festival.$3#$e#Nous allons bientôt aller au buffet.$1"
       },
       "When": {
         "Spouse": "Olivia"
@@ -22431,14 +22431,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Olivia": "The governor has honored us with his presence, @!$1#$b#I may try speaking with him after Mayor Lewis has finished his conversation. Perhaps he enjoys vintage wine?$3"
+        "Olivia": "Le gouverneur nous a honoré de sa présence, @!$1#$b#Je pourrais essayer de lui parler une fois que le maire Lewis aura terminé sa conversation. Peut-être aime-t-il le vin millésimé?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Olivia": "The soup smells delicious. I might even have seconds, sweetie. Don't tell anyone.$1#$e#I love you, honey.$4"
+        "Olivia": "La soupe sent bon. I might even have seconds, sweetie. Don't tell anyone.$1#$e#I love you, honey.$4"
       },
       "When": {
         "Spouse": "Olivia"
@@ -30853,7 +30853,7 @@
         "Date": "Summer 2"
       }, //Tue
       "Entries": {
-        "funReturn_Claire": "I had a great day today...$1",
+        "funReturn_Claire": "J'ai eu une super journée aujourd'hui...$1",
         "funLeave_Claire": "I'm ready for hot weather, perfect blue skies, and apricot pies!$5#$e#I'll do what I can do help around the house. I know the start of a season is a lot of work.$1#$e#Good luck today!$6"
       }
     },

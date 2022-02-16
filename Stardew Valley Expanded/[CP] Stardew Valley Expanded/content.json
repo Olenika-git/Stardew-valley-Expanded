@@ -9440,7 +9440,7 @@
         "HasFlag": "SophiaFairyGarden"
       },
       "Entries": {
-        "5407918/e 5515272/w sunny/z winter/t 600 1800": "none/-500 -500/Sophia 16 24 0 Scarlett 15 24 0 Pierre 24 55 2 Caroline 25 55 2/pause 500/playMusic playful/pause 500/viewport 16 25 clamp true/pause 1750/jump Sophia/pause 1000/jump Sophia/pause 300/faceDirection Scarlett 1 true/pause 1200/faceDirection Sophia 3 true/pause 500/speak Sophia \"So, Scarlett! What do you think about my 'fairy garden'?$9\"/pause 500/speak Scarlett \"The flowers smell really nice. It's all super pretty!$0#$b#I think this spot will make for great cosplay pictures!$1\"/pause 400/speak Sophia \"You said it!$1\"/pause 500/globalFade/viewport -1000 -1000 true/pause 500/end dialogue Sophia \"Hey! Thank you so, so much for helping me build my garden. I'll pay you back somehow!$1\""
+        "5407918/e 5515272/w sunny/z winter/t 600 1800": "none/-500 -500/Sophia 16 24 0 Scarlett 15 24 0 Pierre 24 55 2 Caroline 25 55 2/pause 500/playMusic playful/pause 500/viewport 16 25 clamp true/pause 1750/jump Sophia/pause 1000/jump Sophia/pause 300/faceDirection Scarlett 1 true/pause 1200/faceDirection Sophia 3 true/pause 500/speak Sophia \"Alors, Scarlett! Que pensez-vous de mon « jardin des fées » ?$9\"/pause 500/speak Scarlett \"Les fleurs sentent vraiment bon. C'est super joli !$0#$b#Je pense que cet endroit est super pour des photos de cosplay ! $1\"/pause 400/speak Sophia \"Tu l'a dit!$1\"/pause 500/globalFade/viewport -1000 -1000 true/pause 500/end dialogue Sophia \"Hey! Merci beaucoup de m'avoir aidé à construire mon jardin. Je vais te rembourser d'une manière ou d'une autre!$1\""
       }
     },
     { //Sophia's special order event - part 2 - player is not married to Sophia
@@ -14964,7 +14964,7 @@
         "Linus": "Salut, @. j'espère que cette soirée se passe bien.$0#$b#De nombreuses brutes de l'ombre sont violentes, mais celles-ci sont particulièrement agressives. Si on leur en donnait l'occasion, ils vous arracheraient membre par membre!$3#$e#Cependant, Toutes les personnes de l'ombre ne sont pas violentes.$0#$b#Je suis de bons amis avec celui qui s'appelle 'Krobus'. Je comprends ce que c'est d'être jugé pour être différent.$h#$e#Profiter du festival.$1",
         "Krobus": "Mes amis... piégés dans ces cages...#$e#Que leur arrivera-t-il après le festival ?...?$2",
         "Dwarf": "Curieux, je suis...#$e#De grandes citrouilles, ce sont...",
-        "Leo": "'ai grandi en explorant des labyrinthes luxuriants dans la jungle. Celui-là était trop facile!$0#$e#Je n'ai pas besoin des trucs dans le coffre. C'est à toi!$1"
+        "Leo": "J'ai grandi en explorant des labyrinthes luxuriants dans la jungle. Celui-là était trop facile!$0#$e#Je n'ai pas besoin des trucs dans le coffre. C'est à toi!$1"
       }
     },
     { //Victor halloween festival data year 2
@@ -15266,7 +15266,7 @@
       "Target": "Data/Festivals/winter8",
       "Entries": {
         "set-up": "christmasTheme/-1000 -1000/farmer 68 0 1/changeToTemporaryMap Forest-IceFestival/loadActors Set-Up/animate Robin false true 100 24 25 26 24 25 26 24 25 26 24 25 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27/advancedMove Linus false 3 38000 9 0 0 -3 10 0 0 -7 3 0 0 -12 2 0 0 -9 3 0 2 10000 3 1000 2 200000/advancedMove Andy true 2 28000 -2 0 0 1 -2 0 0 -4 -9 0 0 -2 -8 0 0 -5 4 12000 0 5 8 0 0 2 9 0 0 4 2 0 0 -1 2 0 2 4000/advancedMove Olivia true 4 13500 3 3000/advancedMove Susan true 4 10000 -2 0 0 2 -4 0 4 8000 -1 0 0 -5 3 0 4 7000 2 0 0 3 2 0 4 1000/advancedMove Pierre true -1 0 0 -1 1 5000 0 1 1 0 4 5000/advancedMove Wizard true 1 10000 2 5000/advancedMove Vincent true 0 3 3 0 2 5000 0 -5 2 0 1 5000 -5 0 0 2 3 5000/advancedMove Pam true -5 0 0 1 2 5000 0 -1 5 0 2 7000/playerControl iceFestival",
-        "mainEvent": "globalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis \"Alright, everyone. Let's begin this year's ice fishing competition.\"/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis \"Contestants, your goal is to catch as many fish as you possibly can in two minutes using the provided fishing rods.#$b#You must catch your fish here, from these holes in the ice.\"/pause 600/speak Lewis \"Well, is everyone ready?\"/pause 500/waitForOtherPlayers startContest/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis \"Begin!\"/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 2 4000 1 8000 2 3500 1 1000/advancedMove Sophia true 1 10000 0 2 1 8000 0 -2/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing",
+        "mainEvent": "globalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis \"Allons, tout le monde. Commençons la compétition de pêche sur glace de cette année.\"/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis \"Concurrents, votre objectif est d'attraper autant de poissons que possible en deux minutes en utilisant les cannes à pêche fournies.#$b#Vous devez attraper votre poisson ici, à partir de ces trous dans la glace.\"/pause 600/speak Lewis \"Eh bien, est-ce que tout le monde est prêt?\"/pause 500/waitForOtherPlayers startContest/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis \"Commencer!\"/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 2 4000 1 8000 2 3500 1 1000/advancedMove Sophia true 1 10000 0 2 1 8000 0 -2/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing",
       }
     },
     { //Victor ice festival data
@@ -20929,14 +20929,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Victor": "Ces gelées au clair de lune voyagent ici depuis le monde entier.$3#$b#Ils étaient aux Iles Fougères il y a quelques mois.$1"
+        "Victor": "Ces méduses clair de lune voyagent ici depuis le monde entier.$3#$b#Ils étaient aux Iles Fougères il y a quelques mois.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Victor": "J'aimerais te tenir la main en regardant les gelées au clair de lune.$4#$e#je t'aime, @.$4"
+        "Victor": "J'aimerais te tenir la main en regardant les méduses au clair de lune.$4#$e#je t'aime, @.$4"
       },
       "When": {
         "Spouse": "Victor"
@@ -20947,7 +20947,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "That clown is only juggling one ball... How odd.$0#$e#I might go look at the grange displays soon. This is getting boring.$2#$e#Have you set your display up?$1"
+        "Victor": "Ce clown ne jongle qu'avec une balle... C'est bizarre.$0#$e#J'irai peut-être bientôt voir les étals. Ça devient ennuyeux.$2#$e#Have you set your display up?$1"
       }
     },
     {

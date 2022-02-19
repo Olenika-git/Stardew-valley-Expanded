@@ -7,10 +7,19 @@
 	"EdibleBuffs": null,
 	"Price": 280,
 	"IsColored": false,
-	"GiftTastes":
-	{
-		"Love": ["Sophia"],
-		"Like": ["Willy", "Abigail", "Lance" ],
-		"Hate": ["George", "Kent", "Andy"]
+	"GiftTastes": {
+		"Love": [
+			"Sophia"
+		],
+		"Like": [
+			"Willy",
+			"Abigail",
+			"Lance"
+		],
+		"Hate": [
+			"George",
+			"Kent",
+			"Andy"
+		]
 	},
 }

@@ -1,22 +1,19 @@
 {
-	"Name": "Starfish",
-	"Description": "Referred to as sea stars because of their star-shaped appearance.",
+	"Name": "Étoile de mer",
+	"Description": "Appelées étoiles de mer en raison de leur apparence en forme d'étoile.",
 	"Category": "Fish",
 	"Edibility": -20,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
 	"Price": 150,
 	"IsColored": false,
-	"GiftTastes":
-	{
+	"GiftTastes": {
 		/*gift tastes go here*/
 	},
-	"NameLocalization":
-	{
+	"NameLocalization": {
 		/*to be added in*/
 	},
-	"DescriptionLocalization":
-	{
+	"DescriptionLocalization": {
 		/*to be added in*/
 	},
 	"DisableWithMod": "MoreFish"

@@ -34485,14 +34485,14 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarlonFay",
       "Entries": {
-        "LanceMetKrobus": "Hmm? You unveiled Krobus to Lance?$0#$e#I suppose it was only a matter of time.$0",
+        "LanceMetKrobus": "Hmm? Vous avez dévoilé Krobus à Lance?$0#$e#Je suppose que ce n'était qu'une question de temps.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Krobus",
       "Entries": {
-        "LanceMetKrobus": "Void roots are delicious. I hope I get more soon.$1#$e#Your life partner is a kind person.$0",
+        "LanceMetKrobus": "Les racines du vides sont délicieuses. J'espère que j'en aurai encore plus bientôt.$1#$e#Votre compagnon est quelqu'un de gentille.$0",
       }
     },
     {
@@ -34560,7 +34560,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "Krobus and I are meeting today.$0#$e#I'm leaving at 5:00pm.$1",
+        "funLeave_Lance": "Je dois rencontrer Krobus aujourd'hui.$0#$e#je pars à 17h00.$1",
       }
     },
     {
@@ -34585,7 +34585,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "Shadow people never slumber. I wonder what that's like.$6#$e#I'm meeting with Krobus tonight.$0",
+        "funLeave_Lance": "Les gens de l'ombre ne dorment jamais. Je me demande comment il font.$6#$e#J'ai rendez-vous avec Krobus ce soir.$0",
       }
     },
     {
@@ -34610,7 +34610,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "I look forward to learning more about the shadow people this evening.$1#$e#What adventurers have you gone on recently?$0",
+        "funLeave_Lance": "J'ai hâte d'en apprendre plus sur les gens de l'ombre.$1#$e#Quels aventure avez-vous fait récemment?$0",
       }
     },
     {
@@ -34635,7 +34635,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "Hello, my love.$0#$b#I have business with Krobus this evening.$1#$e#If you're inclined, you can meet us at our usual location at 8:00pm...$5",
+        "funLeave_Lance": "Bonjour mon amour.$0#$b#J'ai affaire avec Krobus ce soir.$1#$e#Si le cœur vous en dit, vous pouvez nous rencontrer à notre emplacement habituel à 20h00...$5",
       }
     },
     {
@@ -34660,7 +34660,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "I'm visiting 'you know who' tonight by the sewer gate.$0",
+        "funLeave_Lance": "Je rends visite à 'tu sais qui' ce soir près de la porte des égouts.$0",
       }
     },
     {
@@ -34685,7 +34685,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "I hope something really great happens to you today.$0",
+        "funLeave_Lance": "J'espère qu'il t'arrivera quelque chose de vraiment génial aujourd'hui.$0",
       }
     },
     {
@@ -34710,7 +34710,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "funLeave_Lance": "%Lance is packing void roots into a satchel.#$e#Hmm... is three enough?$6",
+        "funLeave_Lance": "%Lance met des racines du vide dans un sac.#$e#Hmm... est-ce que trois suffisent?$6",
       }
     },
     {
@@ -34760,7 +34760,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "We're different in so many ways... but that's alright.$0"
+        "Forest_98_91": "Nous sommes différents à bien des égards... mais ce n'est pas un problème.$0"
       },
     },
     {
@@ -34772,7 +34772,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "I've learned a lot of new things about humans.$0#$e#You are not all as strange as you seem.$0"
+        "Forest_98_91": "J'ai appris beaucoup de nouvelles choses sur les humains.$0#$e#Vous n'êtes pas tous aussi bizarre que vous en avez l'air.$0"
       },
     },
     {
@@ -34784,7 +34784,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "I hold great sentimental value in the return scepter I sold you.$0#$e#I've used it to escape many times... but now I have no reason to.$0#$b#This place is my home.$1"
+        "Forest_98_91": "J'ai une grande valeur sentimentale à propos du totem de retour que je t'ai vendu.$0#$e#Je l'ai utilisé pour m'échapper plusieurs fois... mais maintenant je n'ai plus aucune raison de le garder.$0#$b#Cet endroit est ma maison.$1"
       },
     },
     {
@@ -34796,7 +34796,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "Sometimes I pause and think of all that I've learned about humans from you and Lance...$0#$e#I wish all my fellow shadow people could know this feeling.$0"
+        "Forest_98_91": "Parfois je fais une pause et je pense à tout ce que j'ai appris sur les humains grâce à toi et Lance...$0#$e#J'aimerais que tous mes compagnons de l'ombre puissent un jour connaître ce sentiment.$0"
       },
     },
     {
@@ -34808,7 +34808,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "It's rare that I can step outside!$1#$e#Wide open spaces still make me nervous though..$0#$e#The fresh air is nice.%0#$e#I wish I could feel the breeze.$0#$e#It sounds so nice.$0"
+        "Forest_98_91": "C'est rare que je puisse sortir!$1#$e#Les grands espaces me rendent toujours nerveux..$0#$e#L'air frais est agréable.%0#$e#J'aimerais pouvoir sentir la brise du vent.$0#$e#Ça sonne si bien.$0"
       },
     },
     {
@@ -34820,7 +34820,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "I have friends migrating to new homes soon.$1"
+        "Forest_98_91": "J'ai des amis qui déménage bientôt dans de nouvelles maisons.$1"
       },
     },
     {
@@ -34832,7 +34832,7 @@
         "HasSeenEvent": "65360198"
       },
       "Entries": {
-        "Forest_98_91": "%Krobus is snacking on void roots.#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#Oh. Hi.$0#$e#%Krobus continues eating.#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*"
+        "Forest_98_91": "%Krobus grignote des racines du vides.#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#Oh. Salut.$0#$e#%Krobus continue de manger.#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*"
       },
     },
     //ALESIA NPC
@@ -34872,14 +34872,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Alesia": "Hello, adventurer. We're inspecting your blacksmith's weapons.#$e#May Yoba guide you.$1"
+        "Alesia": "Bonjour, aventurier. Nous inspectons les armes de votre forgeron.#$e#Puisse Yoba vous guider.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Alesia": "Hello, adventurer. With a joint effort, we captured these monsters.$0#$e#May Yoba guide you.$1"
+        "Alesia": "Bonjour, aventurier. Avec un effort commun, nous avons capturé ces monstres.$0#$e#Puisse Yoba vous guider.$1"
       }
     },
     { //Alesia visits the adventurer guild
@@ -34906,7 +34906,7 @@
         "Day": "1"
       },
       "Entries": {
-        "Mon": "See anything interesting during your travels lately?$1",
+        "Mon": "avez-vous vu quelque chose d'intéressant lors de vos voyages récemment?$1",
       }
     },
     {
@@ -34917,7 +34917,7 @@
         "Day": "2"
       },
       "Entries": {
-        "Tue": "Hello, @. You're always ready for anything.$1#$e#May Yoba guide you.$0",
+        "Tue": "Bonjour, @. Vous êtes toujours prêt à tout.$1#$e#Puisse Yoba vous guider.$0",
       }
     },
     {
@@ -34928,7 +34928,7 @@
         "Day": "16, 23"
       },
       "Entries": {
-        "Tue": "I'm happy to see you're well and safe, @.$1#$e#May Yoba guide you.$0",
+        "Tue": "Je suis heureuse de voir que tu vas bien et en sécurité, @.$1#$e#Puisse Yoba te guider.$0",
       }
     },
     {
@@ -34939,7 +34939,7 @@
         "Day": "17"
       },
       "Entries": {
-        "Wed": "Are you stocked up on haste elixirs, @?$0",
+        "Wed": "As-tu le stock en élixirs de hâte, @?$0",
       }
     },
     {
@@ -34950,7 +34950,7 @@
         "Day": "27"
       },
       "Entries": {
-        "Sat": "It's refreshing to visit the valley again.$1",
+        "Sat": "C'est rafraîchissant de visiter à nouveau la vallée.$1",
       }
     },
     {
@@ -34961,7 +34961,7 @@
         "Day": "28"
       },
       "Entries": {
-        "Sun": "Don't hesitate to ask if you require my bow.$0",
+        "Sun": "N'hésitez pas à demander si vous avez besoin de mon arc.$0",
       }
     },
     { //ALESIA INTRODUCTION
@@ -35016,14 +35016,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Isaac": "Hmph. These weapons aren't bad.$5#$e#Mmm?$0#$b#What do you want?$3#$e#%Isaac is now ignoring you."
+        "Isaac": "Humm. Ces armes sont pas mal.$5#$e#Mmm?$0#$b#Qu'est-ce que tu veux?$3#$e#%Isaac t'ignore désormais."
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Isaac": "Defeating a shadow brute is child's play.$0#$b#The narrative changes when bringing one in alive...$3#$e#Make yourself useful and bring me that 'spiced pumpkin cider'.$0"
+        "Isaac": "Vaincre une brute de l'ombre est un jeu d'enfant.$0#$b#Par contre, essayer d'en capturer un vivant est une tout autre histoire....$3#$e#Rends-toi utile et apporte-moi ce 'cidre de citrouille épicé'.$0"
       }
     },
     { //Isaac visits the adventurer guild
@@ -35048,7 +35048,7 @@
         "Day": "4"
       },
       "Entries": {
-        "Thu": "Can't you see I'm trying to relax here? Leave me.$1",
+        "Thu": "Vous ne voyez pas que j'essaye de me détendre ici ? Laisse-moi tranquille.$1",
       }
     },
     {
@@ -35059,7 +35059,7 @@
         "Day": "5, 11"
       },
       "Entries": {
-        "Thu": "I've cleared so many mine levels I lost count.$1",
+        "Thu": "Je suis descendu si bas dans la mine, que j'ai oublié le nombre total d'étages que j'ai fais.$1",
       }
     },
     {
@@ -35070,7 +35070,7 @@
         "Day": "26"
       },
       "Entries": {
-        "Fri": "What do you want?",
+        "Fri": "Qu'est-ce que tu veux?",
       }
     },
     {
@@ -35188,7 +35188,7 @@
         "Day": "14"
       },
       "Entries": {
-        "Sun": "This place never changes much. I prefer it that way.$0",
+        "Sun": "Cet endroit ne change jamais. je le préfère ainsi.$0",
       }
     },
     {
@@ -35200,7 +35200,7 @@
         "Day": "22"
       },
       "Entries": {
-        "Mon": "Surprised to see me here?$0",
+        "Mon": "Surpris de me voir ici?$0",
       }
     },
     {
@@ -35228,8 +35228,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "*yawn* Reading these manifests all day takes a toll on a man...",
-        "Snoring": "*yawn* Reading these manifests all day takes a toll on a man..."
+        "ComeBackLater": "*baille* La lecture de tout ces manifestes pendant toute la journée, pèse lourdement sur la santé mentale d'un homme...",
+        "Snoring": "*baille* La lecture de tout ces manifestes pendant toute la journée, pèse lourdement sur la santé mentale d'un homme..."
       },
       "When": {
         "Day": "1, 3, 9, 11, 13, 15, 19, 21, 25, 27",
@@ -35239,8 +35239,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "*snore*... What can I do you with?",
-        "Snoring": "*snore*... What can I do you with?"
+        "ComeBackLater": "*ronfle*... Que puis-je faire pour toi?",
+        "Snoring": "*ronfle*... Que puis-je faire pour toi?"
       },
       "When": {
         "Day": "2, 6, 10, 14, 18, 22, 26",
@@ -35250,8 +35250,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "I never thought of you much at first, but you've proven yourself to be a capable adventurer.",
-        "Snoring": "I never thought of you much at first, but you've proven yourself to be a capable adventurer."
+        "ComeBackLater": "Au début j'avais du mal à croire en toi, mais tu as prouvé que tu es digne d'être un aventurier..",
+        "Snoring": "Au début j'avais du mal à croire en toi, mais tu as prouvé que tu es digne d'être un aventurier.."
       },
       "When": {
         "Day": "3, 8, 11, 14, 21, 23, 25",
@@ -35262,8 +35262,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "Hey there, adventurer. Got guild business today?",
-        "Snoring": "Hey there, adventurer. Got guild business today?"
+        "ComeBackLater": "Salut, aventurier. Vous avez des taches à faire pour la guilde aujourd'hui?",
+        "Snoring": "Salut, aventurier. Vous avez des taches à faire pour la guilde aujourd'hui?"
       },
       "When": {
         "Day": "2, 4, 5, 10, 12, 13, 24, 26, 27",
@@ -35274,8 +35274,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "You'll move on from this place some day, adventurer.",
-        "Snoring": "You'll move on from this place some day, adventurer."
+        "ComeBackLater": "Un jour, aventurier, tu quitteras cet endroit.",
+        "Snoring": "Un jour, aventurier, tu quitteras cet endroit."
       },
       "When": {
         "Day": "1, 5, 7, 9, 11, 25",
@@ -35297,8 +35297,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "I use' to adventure all over the place when I was a youngin'. It's nice to think back on those memories.",
-        "Snoring": "I use' to adventure all over the place when I was a youngin'. It's nice to think back on those memories."
+        "ComeBackLater": "J'avais l'habitude de partir à l'aventure partout quand j'étais jeune. C'est agréable de repenser à ces souvenirs.",
+        "Snoring": "J'avais l'habitude de partir à l'aventure partout quand j'étais jeune. C'est agréable de repenser à ces souvenirs."
       },
       "When": {
         "Day": " 15, 17, 19, 21, 27",
@@ -35315,8 +35315,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "*Snore* Ah. You're back. Warm yourself by the fire.",
-        "Snoring": "*Snore* Ah. You're back. Warm yourself by the fire."
+        "ComeBackLater": "*Renifle* Ah. Vous êtes de retour. Réchauffez-vous près du feu.",
+        "Snoring": "*Renifle* Ah. Vous êtes de retour. Réchauffez-vous près du feu."
       },
       "When": {
         "Day": "13, 15, 17, 19, 21, 23, 25, 27",
@@ -35339,8 +35339,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "Our guild use' to be bigger, but folks moved on to other ventures. You'll always belong here, adventurer.",
-        "Snoring": "Our guild use' to be bigger, but folks moved on to other ventures. You'll always belong here, adventurer."
+        "ComeBackLater": "Notre guilde était plus grande à l'époque, mais les gens sont passés à autres chose. Tu seras toujours le bienvenue ici, aventurier.",
+        "Snoring": "Notre guilde était plus grande à l'époque, mais les gens sont passés à autres chose. Tu seras toujours le bienvenue ici, aventurier."
       },
       "When": {
         "Day": "26, 27, 28",
@@ -35482,8 +35482,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "How's adventurin' at that volcano on the island? Got any stories to share? We can swap some with each other.",
-        "Snoring": "How's adventurin' at that volcano on the island? Got any stories to share? We can swap some with each other."
+        "ComeBackLater": "Comment se passe l'aventure sur ce volcan de l'île ? As-tu des histoires à raconter? Nous pouvons en parler.",
+        "Snoring": "Comment se passe l'aventure sur ce volcan de l'île ? As-tu des histoires à raconter? Nous pouvons en parler."
       },
       "When": {
         "Day": "22",
@@ -35494,8 +35494,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-        "ComeBackLater": "The origin of the 'Vampire Ring' is an interesting one. Druids from a far away land are responsible for its magical properties...",
-        "Snoring": "The origin of the 'Vampire Ring' is an interesting one. Druids from a far away land are responsible for its magical properties..."
+        "ComeBackLater": "Les origines de l''Anneau de vampire' est intéressante. Les druides d'un pays lointain sont responsables de ses propriétés magiques...",
+        "Snoring": "Les origines de l''Anneau de vampire' est intéressante. Les druides d'un pays lointain sont responsables de ses propriétés magiques..."
       },
       "When": {
         "Day": "24",
@@ -35647,7 +35647,7 @@
         "Day": "3"
       },
       "Entries": {
-        "Wed": "%Brianna: I'm here running an errand for my guild."
+        "Wed": "%Brianna: Je fais une petite course pour ma guilde."
       },
     },
     {
@@ -38839,9 +38839,9 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "MorrisTod2_Name": "Townhouse Project",
-        "MorrisTod2_Text": "Morris is building a modern home in the valley, but he's unable to source iron bars. He promises a large monetary reward if I help him out!",
-        "MorrisTod2_Objective_0_Text": "Deliver 60 'iron bars' to Morris.",
+        "MorrisTod2_Name": "Projet Maison de Ville",
+        "MorrisTod2_Text": "Morris construit une maison moderne dans la vallée, mais il est incapable de se procurer des barres de fer. Il promet une grosse récompense en argent si je l'aide!",
+        "MorrisTod2_Objective_0_Text": "Livrer 60 'barres de fer' à Morris.",
       }
     },
     //Event #1 - Morris Townhouse   <<ID tagged by quest
@@ -38853,7 +38853,7 @@
         "HasFlag": "ccMovieTheaterJoja"
       },
       "Entries": {
-        "6663406/H/f MorrisTod 1250/t 600 1100": "continue/-500 -500/farmer -200 -200 0 MorrisTod -30 -30 0/skippable/pause 1500/speak MorrisTod \"Good morning, @.$1#$b#I wanted to discuss something with you...$4#$b#Swing by my office at Joja Mart at your leisure.$0\"/pause 500/end"
+        "6663406/H/f MorrisTod 1250/t 600 1100": "continue/-500 -500/farmer -200 -200 0 MorrisTod -30 -30 0/skippable/pause 1500/speak MorrisTod \"Bonjour, @.$1#$b#Je voulais discuter d'un truc avec toi...$4#$b#Passe à mon bureau au Joja Mart quand tu auras le temps.$0\"/pause 500/end"
       },
     },
     //Event #2 - Morris Townhouse    <<ID tagged by framework
@@ -38861,7 +38861,7 @@
       "Action": "EditData",
       "Target": "data/events/JojaMart",
       "Entries": {
-        "6663407/e 6663406": "Hospital_Ambient/-500 -500/farmer 18 20 1 Martin 9 25 1 Andy 11 25 3 Sam 26 17 2 Pam 14 16 1 MorrisTod 24 26 3/animate Sam false true 100 40 40 41 41 42 42 41 41/skippable/pause 1250/viewport 23 26 true/move farmer 3 0 2/move farmer 0 3 2/pause 600/playSound stoneStep/pause 400/playSound stoneStep/pause 400/playSound stoneStep/pause 400/speak MorrisTod \"Please, come in!$0\"/pause 750/doAction 21 24/pause 1000/move farmer 0 3 1/move farmer 1 0 1/pause 650/speak MorrisTod \"Thank you for meeting me, @.$4#$b#I have big news to share...$0\"/pause 800/playMusic musicboxsong/pause 200/speak MorrisTod \"I have decided to move to Stardew Valley!$1\"/pause 400/emote farmer 16/pause 300/speak MorrisTod \"I know. It's quite the announcement!$1#$b#I've been commuting here for some time now and...$0#$b#I've found that I'm so busy, I rarely visit my apartment in Zuzu City. I'd just sleep in my office.$2#$b#I feel like if I'm to fully focus on expanding the Joja brand here in the valley... I need to live in it myself.\"/pause 400/emote farmer 32/pause 200/speak MorrisTod \"I've contracted with a Joja Co. architect who will build my new home, however...$0#$b#There are shortages of iron ingots on the market. He can't start construction until the materials are sourced.$2#$b#I understand you have experience in mining. Would you be willing to assist me? I'll give you a substantial monetary reward!$0\"/pause 500/jump farmer/pause 850/speak MorrisTod \"Excellent! I'm absolutely delighted to hear that.$1#$b#Allow me to go over the specifics with you...$0\"/pause 500/globalFade/viewport -1000 -1000/pause 500/end dialogue MorrisTod \"Joja. Co. has numerous patented modern townhouse designs. Model number 14 is the one I've chosen for myself.$0#$b#It's quite expensive... I had to take out a loan.$2#$b#But I have a good feeling it will all be worth it! Investing in yourself is important, @.$1#$e#When you have those iron ingots, deliver them straight to me!$0\""
+        "6663407/e 6663406": "Hospital_Ambient/-500 -500/farmer 18 20 1 Martin 9 25 1 Andy 11 25 3 Sam 26 17 2 Pam 14 16 1 MorrisTod 24 26 3/animate Sam false true 100 40 40 41 41 42 42 41 41/skippable/pause 1250/viewport 23 26 true/move farmer 3 0 2/move farmer 0 3 2/pause 600/playSound stoneStep/pause 400/playSound stoneStep/pause 400/playSound stoneStep/pause 400/speak MorrisTod \"S'il te plait, entre!$0\"/pause 750/doAction 21 24/pause 1000/move farmer 0 3 1/move farmer 1 0 1/pause 650/speak MorrisTod \"Merci d'être venu à ma rencontre, @.$4#$b#J'ai une grande nouvelle à annoncer...$0\"/pause 800/playMusic musicboxsong/pause 200/speak MorrisTod \"J'ai décidé de m'installer à Stardew Valley!$1\"/pause 400/emote farmer 16/pause 300/speak MorrisTod \"Je sais. C’est une sacrée annonce!$1#$b#Je fais la navette ici depuis un certain temps maintenant et...$0#$b#Je trouve que je suis tellement occupé, que je rentre rarement dans mon appartement à Zuzu City. Je dort au bureaux.$2#$b#J'ai l'impression que si je dois me concentrer pleinement sur l'expansion de la marque Joja ici... je dois y vivre moi-même.\"/pause 400/emote farmer 32/pause 200/speak MorrisTod \"J'ai passé un contrat avec un architecte Joja Co. qui construira ma nouvelle maison, cependant...$0#$b#Il y a des pénuries de lingots de fer en ce moment. Il ne peut pas commencer la construction tant que les matériaux ne sont pas rassemblés. $2#$b#Je sais que vous avez de l'expérience dans l'exploitation minière. Accepteriez-vous de m'aider? Je vous donnerai une bonne récompense!$0\"/pause 500/jump farmer/pause 850/speak MorrisTod \"Excellent! Je suis absolument ravi d'entendre cela.$1#$b#Permettez-moi de revoir les détails avec vous...$0\"/pause 500/globalFade/viewport -1000 -1000/pause 500/end dialogue MorrisTod \"Joja. Co. possède de nombreux modèles brevetés de maisons de ville modernes. Le modèle numéro 14 est celui que j'ai choisi pour ma maison.$0#$b#C'est assez cher... J'ai dû faire un prêt.$2#$b#Mais j'ai un bon pressentiment que tout cela en vaudra la peine ! Croire en soi, c'est important, @.$1#$e#Lorsque vous aurez ces lingots de fer, livrez-les-moi directement!$0\""
       },
     },
     //Event #3 - Morris Townhouse  <<Triggers map patch
@@ -38896,8 +38896,8 @@
           "SetProperties": {
             "Success": "O {{spacechase0.JsonAssets/ObjectId:Super Joja Cola}} 1",
             "Action": "SVE_Lock 1 171 money",
-            "Default": "SUPER JOJA COLA MACHINE^!!! EXCHANGE JOJA CD'S FOR SUPER JOJA COLA !!!",
-            "Failure": "The Joja soda machine only accepts old Joja CD's"
+            "Default": "SUPER MACHINE JOJA COLA^!!! ÉCHANGEZ LES CD DE JOJA CONTRE DE SUPER JOJA COLA !!!",
+            "Failure": "La machine à soda Joja n'accepte que les anciens CD Joja"
           }
         }
       ]
@@ -39217,23 +39217,23 @@
       "Action": "EditData",
       "Target": "characters/dialogue/lewis",
       "Entries": {
-        "election": "*sigh* Being Mayor for as long as I was... you can get caught up in your ego and and lose sight of your duties to the public...$2#$b#I believe Morris will be a good Mayor, and bring positive change to the valley.$2#$e#At least I still get to plan and host festivals as the event coordinator!$1#$e#I'll look at this retirement as an opportunity to focus on myself and spend time with those I care about.$0#$e#Hmm. I wonder if Marnie would be interested in going to the saloon tonight.$1",
-        "jojaEmporium": "Joja Emporium sure is an impressive building.$0#$e#I feel as if Pelican Town gets more modernized by the day.$0"
+        "election": "*soupir* Être maire aussi longtemps que je l'ai été... vous pouvez vous laisser prendre par votre ego et perdre de vue vos devoirs envers le public...$2#$b#Je crois que Morris sera un bon maire et apportera des changements positifs dans la vallée.$2#$e#Au moins, je peux toujours planifier et organiser des festivals en tant que coordinateur d'événements!$1#$e#Je verrai cette retraite comme une opportunité de me concentrer sur moi-même et de passer du temps avec ceux qui me sont chers.$0#$e#Hmm. Je me demande si Marnie serait intéressée pour aller au saloon ce soir.$1",
+        "jojaEmporium": "Le Joja Emporium est un bâtiment impressionnant.$0#$e#J'ai l'impression que Pélican Ville se modernise de jour en jour.$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/abigail",
       "Entries": {
-        "election": "What will happen to our store?...$2#$e#Dad's been really upset.$2",
-        "jojaEmporium": "Mom got a job in the city. Dad isn't giving up on the store.$2"
+        "election": "Que va-t-il arriver à notre magasin?...$2#$e#Papa est vraiment bouleversé.$2",
+        "jojaEmporium": "Maman a trouvé un emploi en ville. Papa n'abandonne pas le magasin.$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/caroline",
       "Entries": {
-        "election": "I don't trust Morris...$2#$e#Our store is in jeopardy. I might need to find part-time work in the city.$2",
+        "election": "Je ne fais pas confiance à Morris...$2#$e#Notre magasin est en danger. Je devrai peut-être trouver un travail à temps partiel en ville.$2",
         "jojaEmporium": "I'm earning a modest amount from my clerk position. Still getting used to the long commute...$2#$e#I didn't think I'd return to my office job.$2"
       },
     },

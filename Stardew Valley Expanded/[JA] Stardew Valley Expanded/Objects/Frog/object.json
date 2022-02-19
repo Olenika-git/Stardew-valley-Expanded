@@ -1,6 +1,6 @@
 {
-	"Name": "Grenouille",
-	"Description": "Elle est très visqueuse.",
+	"Name": "Frog",
+	"Description": "It's very slimy.",
 	"Category": "Fish",
 	"Edibility": -30,
 	"EdibleIsDrink": false,

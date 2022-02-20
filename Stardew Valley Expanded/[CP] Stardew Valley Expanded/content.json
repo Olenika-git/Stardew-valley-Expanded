@@ -9551,11 +9551,11 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "MarlonFay_Name": "A Mysterious Venture",
-        "MarlonFay_Text": "I'm looking for someone who's adept at crafting and won't ask any questions. Job details enclosed upon acceptance.",
-        "MarlonFay_Objective_1_Text": "Drop off cherry bombs at Marlon's chest.",
-        "MarlonFay_Objective_2_Text": "Drop off bombs.",
-        "MarlonFay_Objective_3_Text": "Drop off mega bombs.",
+        "MarlonFay_Name": "Une mystérieuse Aventure",
+        "MarlonFay_Text": "Je cherche quelqu'un qui est un adepte de l'artisanat et qui ne posera aucune question. Détails de l'emploi joints à l'acceptation.",
+        "MarlonFay_Objective_1_Text": "Déposez des bombes cerises dans le coffre de Marlon.",
+        "MarlonFay_Objective_2_Text": "Déposez des bombes dans le coffre de Marlon.",
+        "MarlonFay_Objective_3_Text": "Déposez des méga bombes dans le coffre de Marlon.",
       }
     },
     { //Patches adventurer guild decoration shop
@@ -9580,7 +9580,7 @@
         "HasFlag": "CompletedCamillaTask"
       },
       "Entries": {
-        "5407921/t 600 1800": "continue/-500 -500/MarlonFay 30 25 0 Jadu -50 -50 0 farmer 33 25 3 Abigail 35 26 2/addTemporaryActor BombCrate 32 32 29 24 2 false/positionOffset BombCrate 0 16/showFrame Abigail 80 true/addTemporaryActor GilSprite 19 32 35 26 2/pause 800/viewport 32 25 clamp true/pause 1750/emote MarlonFay 40/pause 800/faceDirection MarlonFay 1 true/pause 500/Speed MarlonFay 1/move MarlonFay 1 0 1/pause 400/speak MarlonFay \"These bombs are in exceptional condition. Thank you for your service, @.$1#$b#A wizard from Castle Village is arriving here any moment now to retrieve them.$0\"/pause 600/screenFlash 2/playSound wand/warp Jadu 32 30/pause 400/faceDirection MarlonFay 2 true/pause 250/faceDirection farmer 2 true/pause 300/Speed Jadu 1/move Jadu 0 -3 0/playMusic CamillasTower/pause 1000/speak Jadu \"Greetings Marlon, and friends...$0\"/pause 500/textAboveHead Abigail \"*snore*\"/pause 1500/speak MarlonFay \"Pleased to make your acquaintance again, Jadu.#$b#The bombs you came for are ready, courtesy of @ here who created them.\"/pause 500/speak Jadu \"Allow me to inspect them.$0\"/pause 400/advancedMove Jadu false -2 0 0 -1 -1 0 0 -1/pause 500/faceDirection farmer 3 true/pause 500/faceDirection MarlonFay 3 true/pause 500/move farmer -1 0 0/move farmer 0 -1 3/pause 150/showFrame Jadu 8 true/pause 1350/speak Jadu \"Hmm...$0\"/pause 1500/showFrame Jadu 4 true/pause 500/speak Jadu \"Yes. These bombs will serve Castle Village's vanguard well.$1#$b#Impeccable craftsmanship. It rivals Bex's work.$0\"/pause 1250/showFrame Jadu 8 true/pause 600/showFrame Jadu 11 true/pause 400/shake Jadu 1000/pause 400/playSound wand/screenFlash 1/warp BombCrate -30 -30/pause 1000/showFrame Jadu 8 true/pause 750/showFrame Jadu 4 true/pause 500/speak Jadu \"Thank you...$0\"/pause 1000/showFrame Jadu 0 true/pause 600/showFrame Jadu 19 true/pause 250/showFrame Jadu 16 true/pause 400/shake Jadu 600/stopMusic/pause 250/playSound wand/screenFlash 2/warp Jadu -50 -50/pause 1650/faceDirection MarlonFay 0 true/pause 200/move MarlonFay 0 -1 0/pause 100/faceDirection MarlonFay 1 true/pause 500/speak MarlonFay \"@. Follow me to my quarters. I want to show you something.\"/pause 500/globalFade/viewport -1000 -1000/playMusic SDV_Fireplace/warp GilSprite -30 -30/changeLocation AdventureGuild/warp farmer 4 5/faceDirection farmer 1 true/warp GilSprite -20 -20/warp Abigail -20 -20/warp MarlonFay 5 5/faceDirection MarlonFay 0 true/viewport 7 6 true/pause 1500/shake MarlonFay 500/pause 150/playSound newRecipe/pause 800/faceDirection MarlonFay 3 true/pause 400/speak MarlonFay \"This order ledger has been collecting dust for a long time...$2#$b#Maybe you'll find some use for it.$0\"/pause 500/playSound reward/message \"I can now use the adventurer guild ledger to order new decorations!\"/pause 500/faceDirection MarlonFay 3 true/pause 500/speak MarlonFay \"Keep up the great work, @.$0\"/pause 500/globalFade/viewport -1000 -1000/end dialogueWarpOut MarlonFay \"Any of those lamps or barrels in the ledger interest you?$0#$e#Err. The potted plants are from Marnie's.$2\""
+        "5407921/t 600 1800": "continue/-500 -500/MarlonFay 30 25 0 Jadu -50 -50 0 farmer 33 25 3 Abigail 35 26 2/addTemporaryActor BombCrate 32 32 29 24 2 false/positionOffset BombCrate 0 16/showFrame Abigail 80 true/addTemporaryActor GilSprite 19 32 35 26 2/pause 800/viewport 32 25 clamp true/pause 1750/emote MarlonFay 40/pause 800/faceDirection MarlonFay 1 true/pause 500/Speed MarlonFay 1/move MarlonFay 1 0 1/pause 400/speak MarlonFay \"Ces bombes sont dans un état exceptionnel. Merci pour votre service, @.$1#$b#Un sorcier de Castle Village arrivera d'ici un instant à l'autre pour les récupérer.$0\"/pause 600/screenFlash 2/playSound wand/warp Jadu 32 30/pause 400/faceDirection MarlonFay 2 true/pause 250/faceDirection farmer 2 true/pause 300/Speed Jadu 1/move Jadu 0 -3 0/playMusic CamillasTower/pause 1000/speak Jadu \"Salutations Marlon et mes amis...$0\"/pause 500/textAboveHead Abigail \"*renifle*\"/pause 1500/speak MarlonFay \"Enchanté de refaire ta connaissance, Jadu.#$b#Les bombes pour lesquelles vous êtes là sont prêtes à temps, grace à @ ici qui les a créés.\"/pause 500/speak Jadu \"Permettez-moi de les inspecter.$0\"/pause 400/advancedMove Jadu false -2 0 0 -1 -1 0 0 -1/pause 500/faceDirection farmer 3 true/pause 500/faceDirection MarlonFay 3 true/pause 500/move farmer -1 0 0/move farmer 0 -1 3/pause 150/showFrame Jadu 8 true/pause 1350/speak Jadu \"Hmm...$0\"/pause 1500/showFrame Jadu 4 true/pause 500/speak Jadu \"Oui. Ces bombes serviront bien l'avant-garde de Castle Village.$1#$b#Fabrication impeccable. Il rivalise avec le travail de Bex.$0\"/pause 1250/showFrame Jadu 8 true/pause 600/showFrame Jadu 11 true/pause 400/shake Jadu 1000/pause 400/playSound wand/screenFlash 1/warp BombCrate -30 -30/pause 1000/showFrame Jadu 8 true/pause 750/showFrame Jadu 4 true/pause 500/speak Jadu \"Merci...$0\"/pause 1000/showFrame Jadu 0 true/pause 600/showFrame Jadu 19 true/pause 250/showFrame Jadu 16 true/pause 400/shake Jadu 600/stopMusic/pause 250/playSound wand/screenFlash 2/warp Jadu -50 -50/pause 1650/faceDirection MarlonFay 0 true/pause 200/move MarlonFay 0 -1 0/pause 100/faceDirection MarlonFay 1 true/pause 500/speak MarlonFay \"@. Suivez-moi dans mes quartiers. je veux vous montrer quelque chose.\"/pause 500/globalFade/viewport -1000 -1000/playMusic SDV_Fireplace/warp GilSprite -30 -30/changeLocation AdventureGuild/warp farmer 4 5/faceDirection farmer 1 true/warp GilSprite -20 -20/warp Abigail -20 -20/warp MarlonFay 5 5/faceDirection MarlonFay 0 true/viewport 7 6 true/pause 1500/shake MarlonFay 500/pause 150/playSound newRecipe/pause 800/faceDirection MarlonFay 3 true/pause 400/speak MarlonFay \"Ce carnet de commandes prend la poussière depuis longtemps...$2#$b#Mpeut-être que tu lui trouveras une utilité.$0\"/pause 500/playSound reward/message \"Je peux maintenant utiliser le registre de la guilde des aventuriers pour commander de nouvelles décorations!\"/pause 500/faceDirection MarlonFay 3 true/pause 500/speak MarlonFay \"Continuez ce bon travail, @.$0\"/pause 500/globalFade/viewport -1000 -1000/end dialogueWarpOut MarlonFay \"L'une de ces lampes ou barils dans le grand livre vous intéresse?$0#$e#Err. Les plantes en pot sont de chez Marnie.$2\""
       }
     },
     {
@@ -9655,10 +9655,10 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "Clint2_Name": "The Railroad Boulder",
-        "Clint2_Text": "I need these materials to craft an explosive powerful enough to destroy the boulder blocking the summit.",
-        "Clint2_Objective_1_Text": "Drop off iridium ore at Clint's crate.",
-        "Clint2_Objective_2_Text": "Drop off coal at Clint's crate."
+        "Clint2_Name": "Le Rocher du Chemin de Fer",
+        "Clint2_Text": "J'ai besoin de ces matériaux pour fabriquer un explosif suffisamment puissant pour détruire le rocher qui bloque le sommet.",
+        "Clint2_Objective_1_Text": "Déposez du minerai d'iridium dans la caisse de Clint.",
+        "Clint2_Objective_2_Text": "Déposez du charbon dans la caisse de Clint."
       }
     },
     { //Removes railroad boulder
@@ -9708,14 +9708,14 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Clint",
       "Entries": {
-        "railroadBoulder": "Euh... ce rocher a disparu maintenant.$0#$e#Je vérifierais bien le sommet, mais c'est trop loin pour moi.$0",
+        "railroadBoulder": "Euh... ce rocher a totalement disparu maintenant.$0#$e#Je vérifierais bien le sommet, mais c'est trop loin pour moi.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Lewis",
       "Entries": {
-        "railroadBoulder": "L'enlèvement du rochers a été un succès!$1#$e#Dites, pensez-vous que cela améliorera mes relations publiques?$0",
+        "railroadBoulder": "La déstruction du rocher a été un succès!$1#$e#Dites, pensez-vous que cela améliorera mes relations publiques?$0",
       },
     },
     {
@@ -36691,14 +36691,14 @@
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-        "ArchaeologyHouse_Gunther_Room": "Please don't go upstairs.$5",
+        "ArchaeologyHouse_Gunther_Room": "S'il vous plaît ne montez pas à l'étage.$5",
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
-        "ArchaeologyHouse_Gunther_Room": "I shouldn't enter Gunther's room uninvited...",
+        "ArchaeologyHouse_Gunther_Room": "Je ne devrais pas entrer dans la chambre de Gunther sans y être invité...",
       }
     },
     { //Locks Gunther access 
@@ -36815,392 +36815,392 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Elliott",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Demetrius",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Dwarf",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/George",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jas",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Krobus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leo",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Linus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Marnie",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pam",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sandy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Vincent",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Willy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sophia",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Olivia",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Victor",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Andy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Susan",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Morgan",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarlonFay",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/GuntherSilvian",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Claire",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Martin",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Lewis",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MorrisTod",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Galdoran Gem}}": "%I shouldn't gift this."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Galdoran Gem}}": "%Je ne devrais pas offrir cela."
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/GuntherSilvian",
       "Entries": {
-        "museumCompleted": "I wonder if the completed museum collection will attract patrons from the city.$1",
+        "museumCompleted": "Je me demande si la collection complète du musée attirera des clients de la ville.$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Sophia",
       "Entries": {
-        "museumCompleted": "I'm so happy the museum has a fairy stone on display!$1",
+        "museumCompleted": "Je suis si heureux que le musée ait une pierre de fée d'exposée!$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Olivia",
       "Entries": {
-        "museumCompleted": "The completed museum collection gave me an idea to start my own collection.$3#$e#Or perhaps I could speak to Gunther about donating one of my Gotoran artifacts.$6",
+        "museumCompleted": "La collection complète du musée m'a donné l'idée de commencer ma propre collection.$3#$e#Ou peut-être que je pourrais parler à Gunther de la possibilité de faire don d'un de mes artefacts de Gotoran.$6",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Victor",
       "Entries": {
-        "museumCompleted": "I think I've come to find a new appreciation for artifacts.$1",
+        "museumCompleted": "Je pense que j'ai trouvé une nouvelle passion pour les artefacts.$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Andy",
       "Entries": {
-        "museumCompleted": "I don't see what the big deal is about those there artifacts. But it's makin' a lot of folks happy.$0",
+        "museumCompleted": "Je ne vois pas en quoi ces artefacts sont si importants. Mais ça fait plaisir à beaucoup de gens.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Susan",
       "Entries": {
-        "museumCompleted": "@! Gunther said you donated all of those artifacts. Good job, honey!$0",
+        "museumCompleted": "@! Gunther a dit que vous aviez fait don de tous ces artefacts. Bon travail, mon chér!$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Alex",
       "Entries": {
-        "museumCompleted": "The museum has a bunch of stuff on display now. That's cool.$0",
+        "museumCompleted": "Le musée a maintenant un tas de choses exposées. C'est super.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Elliott",
       "Entries": {
-        "museumCompleted": "After browsing the museum's artifact collection, I'm inspired to write something new!$1",
+        "museumCompleted": "Après avoir parcouru la collection d'artefacts du musée, je suis inspiré pour écrire quelque chose de nouveau!$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Harvey",
       "Entries": {
-        "museumCompleted": "I'm fascinated by the prehistoric bones on display.$0",
+        "museumCompleted": "Je suis fasciné par les ossements préhistoriques exposés.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Sam",
       "Entries": {
-        "museumCompleted": "My little brother wants to visit the museum tomorrow with me!$1",
+        "museumCompleted": "Mon petit frère veut visiter le musée avec moi demain!$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Sebastian",
       "Entries": {
-        "museumCompleted": "I don't get why everyone is worked up about old things on display.$0#$e#I guess it's kinda cool.$0",
+        "museumCompleted": "Je ne comprends pas pourquoi tout le monde s'énerve à propos de ces vieilles choses exposées.$0#$e#Je trouve que c'est plutôt cool.$0",
       }
     },
     {
@@ -37256,14 +37256,14 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Caroline",
       "Entries": {
-        "museumCompleted": "I'm impressed you donated all those artifacts yourself, @.$0",
+        "museumCompleted": "Je suis impressionné que vous ayez fait don de tous ces artefacts vous-même, @.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Clint",
       "Entries": {
-        "museumCompleted": "Hmm. I wonder what machine that rusty cog was used in.$0",
+        "museumCompleted": "Hmm. Je me demande dans quelle machine ce rouage rouillé a été utilisé.$0",
       }
     },
     {

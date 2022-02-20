@@ -10323,7 +10323,7 @@
         "AndyJojaCola": "Hey @,^^J'ai eu de la chance lors d'un tirage au sort et j'ai décroché un approvisionnement à vie de Joja Cola ! Ceux-ci vous aideront à garder votre énergie pendant que vous travaillez à la ferme.^^  -Andy %item object 167 50 %%",
         "AndyAncientSeeds": "@,^Je les ai trouvés pendant que je fouillais au fond de la forêt. Je ne sais pas exactement ce que c'est, mais je pense que vous êtes mieux équipé que moi pour les cultiver. Laissez-moi savoir ce qui pousse si vous les faites grandir.^^  -Andy %item object 114 5 %%",
         "SusanIntroduction": "Bonjour, @^^Mon nom est Susan. Lewis m'a dit que vous étiez nouveau en ville. Je suis coincé dans ma ferme à la montagne donc je ne peux pas vous dire bonjour en personne ! J'espère que le gâchis que Joja a fait sera bientôt nettoyé, parce que je deviens un peu folle. J'ai hâte de vous rencontrer et de voir comment vôtre ferme prend forme!^^  -Susan",
-        "SusanFertilizer": "Bonjour @!,^^C'est l'un des meilleurs engrais que j'ai fait. Cultivez quelque chose de délicieux avec et partagez-le avec moi !^^  -Susan %item object 369 20 %%",
+        "SusanFertilizer": "Bonjour @!,^^C'est l'un des meilleurs engrais que j'ai fait. Cultivez quelque chose avec et partagez-le avec moi !^^  -Susan %item object 369 20 %%",
         "SusanMelonSeeds": "@!^^Mes melons poussent comme une traînée de poudre cette année ! Voici quelques graines supplémentaires que j'ai obtenues lorsque j'en ai mis dans mon semoir. Cependant n'essayez pas de me concurrencer sur le marché du melon... Je vais gagner!^^  -Susan %item object 479 5 %%",
         "VictorDewey": "Cher @,^^Je vous écris pour vous remercier de m'avoir écouté dans le cimetière. Je sais que des conversations comme celles-là peuvent être stressantes. Si Dewey revient un jour, je sais qu'il sera aussi heureux que moi de t'avoir comme ami.^^  Cordialement, Viktor",
         "OliviaWine": "Cher @,^^Le marché a suivi mon chemin et j'ai encaissé certaines de mes actions pour une énorme aubaine ! Pour fêter ça, j'ai commandé une caisse de mon vin préféré, et je voulais partager quelques bouteilles avec vous. Prenons un verre ensemble bientôt!^^  -Olivia %item object 348 5 %%",
@@ -10341,7 +10341,7 @@
         //"SVEadvertisement5": "ON SALE FOR A LIMITED TIME:^^Special yeast starter with nutrients designed to optimize wine fermentation from a quality-controlled yeast ranch. Has produced award-winning wine consistently since the strain was started almost twenty years ago. Inquiries welcome at Sunshine Vineyard.",
         //"SVEadvertisement6": "Are you homebrewing beer? Fermenting your own grapes? Sick of your pricy liquids leaking or drying up in low-quality storage? Try hardwood barrels! They don't leak, they naturally repel liquids, and they're almost completely immune to temperature changes, so no more nasty cracks. Craft them yourself, or take the train to Grampleton and pick some up from one of our many talented artisans!",
         "robinKitchenLetter": "Cher Fermier @,^^C'est là que je peux vous aider. Si vous m'apportez des matières premières et payez des frais, je peux agrandir votre maison. La première extension que je propose comprend une cuisine. Avec une cuisine, vous pourrez cuisiner toutes les recettes que vous aurez apprises !^^Quoi qu'il en soit, j'espère que vous commencez à vous sentir chez vous à Stardew Valley!^^   Vôtre Charpentier Local,^   Robin",
-        "JasThankYouLetter": "Pour le Fermier @,^^Aunt Marnie said I needed to write a thank you letter. So... thanks for finding me in the forest and taking me back home. I won't go that far in the forest again.^^  -Jas",
+        "JasThankYouLetter": "Pour le Fermier @,^^Tante Marnie a dit que je devais écrire une lettre de remerciement. Alors... merci de m'avoir trouvé dans la forêt et de m'avoir ramené à la maison. Je n'irai plus aussi loin dans la forêt.^^  -Jas",
         "winter_7": "Cher @,^^Demain, nous nous rassemblons tous près de la maison d'Andy et marcherons vers un coin de pêche dans la forêt pour le Festival de la glace. ^^ C'est une célébration de l'hiver... il y aura des bonshommes de neige, des sculptures de glace et un concours de pêche sur glace.!^Arrivez entre 9h et 14h si vous souhaitez participer.^  -Maire Lewis",
         "OliviaDatingLetter": "Cher @,^^J'ai eu des sentiments à propos de notre relation que nous venons de commencer. J'ai besoin de te dire certaines choses. Pouvez-vous me rendre visite à ma résidence quand vous en aurez l'occasion ?^^  -Olivia",
         "OliviaPartyLetter": "Bonjour chérie,^^J'organise une fête ce soir chez moi. La plupart des citadins seront là, ainsi que mon invité spécial : le gouverneur !! J'aimerais absolument que tu viennes, @. The party starts at 6:00PM. Don't be late!^^  -Your love, Olivia",
@@ -10374,20 +10374,20 @@
         "HasSeenEvent": "6665292"
       },
       "Entries": {
-        "quest10": "@,^I've heard you've been giving some people a hand around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbor\" award (with a small cash prize). Keep it up! ^   -Lewis%item money 500 501 %%[#]Best Neighbor",
-        "quest35": "Dear @,^you've been such a help around town since you moved here... everyone keeps telling me all the wonderful things you've done for them! Please accept this thank-you prize. ^   -Lewis%item money 2500 2501 %%[#]Thank-you From Lewis",
-        "quest100": "@,^I am pleased to announce that you've been chosen as \"Neighbor of the year\"! That comes with a 10,000g prize! Congratulations! Everyone in town wants to say 'thanks' for all you've done. ^   -Lewis%item money 10000 10001 %%[#]Neighbor Of The Year",
-        "EmilyClothingTherapy": "@,^I have this crazy new idea that I want to involve you in... It's called \"Clothing Therapy\".^^Please come to Lewis' manor today to see what it's all about.^^ Love, Emily[#]Emily's Idea",
-        "foundLostTools": "Dear @,^Someone dropped your tools into the lost and found bin last night.^^I came in and set them next to your bed.^Hope I didn't wake you... ^^  -Mayor Morris[#]Lost Tools",
-        "winter_18": "Dear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favorite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprise them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 10AM to 2PM at the town square. See you then! ^   -Lewis^   -Event Coordinater[#]Secret Gift-Giver",
-        "spring_12": "Dear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 9 AM and 2 PM if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Lewis^  -Event Coordinator[#]Egg Festival Notice",
-        "spring_23": "Dear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 9 AM and 2 PM if you're interested.^  -Lewis^   -Event Coordinater[#]Flower Dance Notice",
-        "summer_10": "Dear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal potluck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behavior.^Come to the beach sometime between 9 AM and 2 PM.^   -Lewis^   -Event Coordinater[#]Luau Notice",
-        "fall_9": "Dear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 9 AM... don't miss it!^   -Lewis^   -Event Coordinater[#]Stardew Valley Fair Notice",
-        "fall_26": "Dear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark specter, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 10 PM if you'd like to participate.^  -Lewis^  -Event Coordinater[#]Spirit's Eve Notice",
-        "winter_7": "Dear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9 AM and 2 PM if you'd like to participate.^  -Lewis^  -Event Coordinater[#]Festival Of Ice Notice",
-        "summer_21_2": "@,^I need truffle oil. Don't ask me why.^ -Lewis%item quest 120 %%[#]Lewis' Request",
-        "winter_24": "Dear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 9 AM in the town square. See you then! ^   -Lewis^   -Event Coordinater[#]Feast Of The Winter Star Reminder",
+        "quest10": "@,^J'ai entendu dire que vous aviez donné un coup de main à certaines personnes en ville ! Tout le monde semble vraiment reconnaissant. Je vous décerne ce mois-ci le \"Prix du meilleur voisin\". Continuez comme ça! ^   -Lewis%item money 500 501 %%[#]Best Neighbor",
+        "quest35": "Cher @,^tu m'as été d'une telle aide en ville depuis que tu as emménagé ici... tout le monde n'arrête pas de me dire toutes les choses merveilleuses que tu as faites pour eux! Veuillez accepter ce prix de remerciement. ^   -Lewis%item money 2500 2501 %%[#]Thank-you From Lewis",
+        "quest100": "@,^J'ai le plaisir de vous annoncer que vous avez été choisi comme \"Voisin de l'année\"! Cela s'accompagne d'un prix de 10 000 g ! Toutes nos félicitations! Tout le monde en ville veut vous dire 'merci' pour tout ce que vous avez fait. ^   -Lewis%item money 10000 10001 %%[#]Neighbor Of The Year",
+        "EmilyClothingTherapy": "@,^J'ai une nouvelle idée folle dans laquelle je veux vous impliquer... ça s'appelle \"Thérapie Vestimentaire\".^^S'il vous plaît allez au manoir de Lewis aujourd'hui pour voir de quoi il s'agit.^^ Avec Amour, Emily[#]Emily's Idea",
+        "foundLostTools": "Cher @,^Quelqu'un a déposé vos outils dans la poubelle hier soir.^^Je suis entré et je les ai mis à côté de ton lit.^J'espère que je ne t'ai pas réveillé... ^^  -Maire Morris[#]Lost Tools",
+        "winter_18": "Cher @,^J'aimerais vous donner quelques informations sur un événement à venir : la Fête de l'Etoile d'hiver. C'est le moment pour la communauté de se réunir et de repenser à toute la bonne fortune que nous avons eue cette année.^La tradition favorite est l' \"échange secret de cadeaux\", où tout le monde en ville est assigné au hasard à quelqu'un d'autre. Le jour du festival, chacun apporte un cadeau à son ami secret et le surprend avec quelque chose de spécial!^Cette année, votre ami secret est:^    %secretsanta ^Ne le dis à personne ! La fête aura lieu le 25 de 10h à 14h sur la place du village. À plus tard! ^   -Lewis^   -Coordinateur d'évenements[#]Secret Gift-Giver",
+        "spring_12": "Cher @,^Demain, nous organisons le festival des œufs sur la place de la ville . ^^Vous devez arriver entre 9h00 et 14h00 si vous souhaitez y assister.^Vous ne voudriez pas manquer la chasse aux œufs annuelle!^  -Lewis^  -Coordinateur d'évenements[#]Egg Festival Notice",
+        "spring_23": "Cher @,^Demain, nous nous réunissons tous pour la danse des fleurs.^^Si vous trouver un partenaire, vous pourrez peut-être même participer à la danse!^Il y a une petite clairière au-delà de la forêt à l'ouest de la ville où nous organisons la danse. Venez entre 9h et 14h si vous êtes intéressé.^  -Lewis^   -Coordinateur d'évenements[#]Flower Dance Notice",
+        "summer_10": "Cher @,^Demain, nous nous réunissons tous à la plage pour le Pélican Ville Luau annuel.^^Le point culminant de l'événement est le partage du repas communautaire . Assurez-vous d'apporter quelque chose de bien pour contribuer à la soupe!^Le gouverneur lui-même assiste à l'événement, alors assurez-vous d'avoir le meilleur comportement possible.^Venez à la plage entre 9h00 et 14h00.^   -Lewis^   -Coordinateur d'évenements[#]Luau Notice",
+        "fall_9": "Cher @,^Dans une semaine à partir d'aujourd'hui, nous organisons la foire de Stardew Valley sur la place de la ville!^C'est le plus grand événement de l'année, attirant des gens de tout le pays dans notre humble ville.^Si vous le souhaitez, vous pouvez installer un présentoir pour l'événement. Apportez usqu'à 9 objets qui mettent en valeur vos talents. Vous serez jugé sur la qualité et la diversité de votre présentoir.^La foire commence à 9h00... ne la manquez pas!^   -Lewis^   -Coordinateur d'évenements[#]Stardew Valley Fair Notice",
+        "fall_26": "Cher @,^Vous remarquez ce frisson dans l'air ? C'est peut-être juste l'hiver qui s'approche...^Ou cela pourrait être le tintement d'un Fantôme, ici pour nous aider à célébrer le festival de demain... la Saint-Sylvestre.^Venez en ville à 22h si vous souhaitez participer.^  -Lewis^  -Coordinateur d'évenements[#]Spirit's Eve Notice",
+        "winter_7": "Cher @,^Demain on se retrouve tous devant la maison de Marnie pour la Fête de la Glace.^^C'est une célébration de l'hiver... il y aura des bonhommes de neige, des sculptures de glace et un concours de pêche sur la glace!^Venez entre 9h et 14h si vous souhaitez participer.^  -Lewis^  -Coordinateur d'évenements[#]Festival Of Ice Notice",
+        "summer_21_2": "@,^J'ai besoin d'huile de truffe. Ne me demande pas pourquoi .^ -Lewis%item quest 120 %%[#]Lewis' Request",
+        "winter_24": "Cher @,^Demain c'est la Fête de l'Etoile d'Hiver.^Avez-vous un cadeau pour votre 'Ami Secret'... %secretsanta?^La fête commence à 9 heures du matin sur la place de la ville. À plus tard ! ^   -Lewis^   -Coordinateur d'évenements[#]Feast Of The Winter Star Reminder",
       }
     },
     {
@@ -12969,7 +12969,7 @@
       "Action": "EditData",
       "Target": "Strings/Characters",
       "Entries": {
-        "MovieInvite_Spouse_Victor": "J'aimerais voir un film avec toi!$3#$e#Allons-nous marcher au cinéma ensemble?$1",
+        "MovieInvite_Spouse_Victor": "J'aimerais voir un film avec toi!$3#$e#Allons-nous marcher jusqu'au cinéma ensemble?$1",
         "MovieInvite_Spouse_Olivia": "Oh, tu veux voir un film au cinéma? Ce sera une belle soirée pour un rendez-vous.$3",
         "MovieInvite_Spouse_Sophia": "Oooh! Un film? Yay!$9#$b#Je te retrouverai là-bas d'accord?$1#$e#je vais prendre de la barbe à papa!$1",
         "MovieInvite_Spouse_Claire": "Tu veux voir un film avec moi ? Biensûr!$1",
@@ -23134,7 +23134,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Susan": "This looks delicious! Thank you!/230 211 220 221 223 222 608 233 234 611 612/Oh, goodness! For me? Thank you./60 709 336 335 334 373 74 446/That's very kind of you. Thanks./346 459 303/This isn't something I like.../167 226 283/That's generous of you./348 350 395/"
+        "Susan": "Ca a l'air délicieux! Merci!/230 211 220 221 223 222 608 233 234 611 612/Oh mon Dieu! Pour moi? Merci./60 709 336 335 334 373 74 446/C'est très gentil de votre part. Merci./346 459 303/Ce n'est pas quelque chose que j'aime.../167 226 283/C'est généreux de ta part./348 350 395/"
       }
     },
     {
@@ -23256,17 +23256,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This movie is about a sapling. How cute.$0"
+                  "Text": "Ce film parle d'un jeune arbre. Comme c'est mignon.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Aww. The sappling is so adorable!$1"
+                  "Text": "Aww. Le jeune arbre est tellement adorable!$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thanks for inviting me out, @. I want to go home and water my little babies.$0"
+                  "Text": "Merci de m'avoir invitée, @. Je veux rentrer chez moi et arroser mes petits bébés.$0"
                 }
               },
               "ID": "reaction_2"
@@ -23279,13 +23279,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Brr... It's freezing. I'm glad the building is warm.$0"
+                  "Text": "Brr... Il fait froid. Je suis contente qu'il fait chaud dans le bâtiment.$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The film felt very authentic, with the story and special effects.$0"
+                  "Text": "Le film était très basique, avec l'histoire et les effets spéciaux.$0"
                 }
               },
               "ID": "reaction_3"
@@ -23298,7 +23298,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I hope there are still seats left.$0"
+                  "Text": "j'espère qu'il reste encore des places.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -23308,7 +23308,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I enjoyed the movie. Did anything stand out to you?$0"
+                  "Text": "J'ai apprécié le film. Quelque chose vous a-t-il marqué?$0"
                 }
               },
               "ID": "reaction_4"
@@ -23321,13 +23321,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I haven't seen this genre in forever. I'm anxious to see it!$0"
+                  "Text": "Cela fait une éternité que je n'ai pas vu ce genre de film. j'ai hate de voir ca!$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I wonder if this film will come out on VHS soon! I'll get it!$0"
+                  "Text": "Je me demande si ce film sortira bientôt en VHS ! je l'acheterai!$0"
                 }
               },
               "ID": "reaction_5"
@@ -23340,17 +23340,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It isn't my favorite genre, but I'll give it a go.$0"
+                  "Text": "Ce n'est pas mon genre préféré, mais je vais regarder.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm getting sleepy...$2"
+                  "Text": "j'ai sommeil...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*yawn* Thanks for inviting me, @.$0"
+                  "Text": "*baille* Merci de m'avoir invitée, @.$0"
                 }
               },
               "ID": "reaction_6"
@@ -23363,7 +23363,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Susan": "Jas and Vincent are so excited to hunt for the eggs around town. I hope they find lots of them!$1#$e#I'm thinking about getting a second helping of ham and veggies.$0"
+        "Susan": "Jas et Vincent sont tellement excités d'aller chasser les œufs en ville. J'espère qu'ils en trouveront beaucoup!$1#$e#Je pense prendre une deuxième portion de jambon et de légumes.$0"
       }
     },
     //FLOWER DANCE
@@ -23371,7 +23371,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Susan": "What a beautiful day for the Flower Festival.$4#$e#Are you planning on dancing with someone?$1"
+        "Susan": "Quelle belle journée pour la Fête des Fleurs.$4#$e#Avez-vous l'intention de danser avec quelqu'un?$1"
       }
     },
     //LUAU
@@ -23379,7 +23379,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Susan": "It's nice to have the governor in the valley. Mayor Lewis worked so hard to make the Luau perfect.$0#$e#I wonder if that slow roast ham Linus is making is almost ready.$1"
+        "Susan": "C'est agréable d'avoir le gouverneur dans la vallée. Le maire Lewis a travaillé si dur pour que le Luau soit parfait.$0#$e#Je me demande si ce jambon rôti que Linus fait cuir lentement est presque prêt.$1"
       }
     },
     //DANCE OF THE MOONLIGHT JELLIES
@@ -23387,7 +23387,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Susan": "I'm awfully afraid of large bodies of water. I'll be here on the beach, where it's safe.$0"
+        "Susan": "J'ai terriblement peur des grandes étendues d'eau. Je serai ici sur la plage, où je suis en sécurité.$0"
       }
     },
     //STARDEW VALLEY FAIR
@@ -23395,7 +23395,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Susan": "I'm happy I get to showcase my best produce and artisan goods to everyone.$4#$b#Emerald Farm had a strong year!$1"
+        "Susan": "e suis heureux de présenter mes meilleurs produits artisanaux à tout le monde.$4#$b#La Ferme Emeraude a connu une bonne année!$1"
       }
     },
     //SPIRITS EVE FESTIVAL
@@ -23403,7 +23403,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Susan": "So these are shadow brutes? They look menacing...$2"
+        "Susan": "Ce sont donc eux les brutes de l'ombre? Ils ont l'air menaçant...$2"
       }
     },
     //ICE FISHING FESTIVAL
@@ -23411,7 +23411,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Susan": "When I was younger, my father and I loved to fish together. Haven't fished at all since then.$0#$b#I think you'll do great in the contest, @.$1#$e#Best of luck to you, honey!$4"
+        "Susan": "Quand j'étais plus jeune, mon père et moi aimions pêcher ensemble. Je n'ai plus pêché depuis.$0#$b#Je pense que tu réussiras à gagner le concours, @.$1#$e#Bonne chance à toi, chéri!$4"
       }
     },
     //WINTER STAR FESTIVAL
@@ -23427,7 +23427,7 @@
       "Action": "EditData",
       "Target": "data/events/farm",
       "Entries": {
-        "1000077/j 30": "kindadumbautumn/-200 -200/farmer 2 2 2 Susan 3 3 0/skippable/pause 1500/speak Susan \"Hello! I'm Susan, the owner of Emerald Farm up at the railroad.$4#$b#I've been trapped up there alone ever since Joja caused the rockslide, so I've got a little bit of cabin fever.$0#$b#Happy to finally meet you, @.$1\"/pause 1000/faceDirection Susan 1 true/pause 900/faceDirection Susan 0/pause 600/speak Susan \"Stop by and visit Emerald Farm when you have the time!$1\"/pause 250/end dialogue Susan \"I'm thankful Joja cleared the rockslide. Lewis and I went through so much trouble getting them to remove the rocks.$2#$b#Joja still refuses to apologize...$3#$e#I'll see you again soon, dear!$1#$b#It's lovely having another farmer in the valley.$0\"",
+        "1000077/j 30": "kindadumbautumn/-200 -200/farmer 2 2 2 Susan 3 3 0/skippable/pause 1500/speak Susan \"Bonjour! Je suis Susan, la propriétaire de la Ferme Emeraude près du chemin de fer.$4#$b#J'ai été prise au piège toute seule depuis que Joja a provoqué un éboulement, alors Je fais un peu de claustrophobie.$0#$b#Heureuse de vous rencontrer enfin, @.$1\"/pause 1000/faceDirection Susan 1 true/pause 900/faceDirection Susan 0/pause 600/speak Susan \"Arrêtez-vous dans le coin et visitez la Ferme Emeraude quand vous aurez le temps!$1\"/pause 250/end dialogue Susan \"Je suis reconnaissante que Joja es enfin dégagé l'éboulement. Lewis et moi avons eu tellement de mal à les faire enlever ces rochers.$2#$b#Joja refuse toujours de présenter ses excuses...$3#$e#Je te reverrai bientôt, mon cher!$1#$b#C'est agréable d'avoir un autre fermier dans la vallée.$0\"",
       },
     },
     //SUSAN 2 HEART EVENT
@@ -23523,7 +23523,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Sophia": "Ooo! This is one of my favorite things. I'll always treasure it!/577 595/For me? Thank you so much!/872 220 221 232 237 240 -80 428 376 446/Oh... I don't know about this./456 393 457 397 199 215 242 244/N-no! Get it away from me!/346 303 459 149 798 151 155 -4/You're sweet. Thanks./-75 -81 18 -18 -79 -2 -7 -26 -75 -80 72 446 348 395 613 634 635 636 637 638 724 459 402/"
+        "Sophia": "Oooh! C'est un de mes trucs préférés. Je le chérirai pour toujours!/577 595/Pour moi? Merci Beaucoup!/872 220 221 232 237 240 -80 428 376 446/Oh... je n'en sais rien./456 393 457 397 199 215 242 244/N-non! Éloigne-le de moi!/346 303 459 149 798 151 155 -4/Tu es mignon. Merci./-75 -81 18 -18 -79 -2 -7 -26 -75 -80 72 446 348 395 613 634 635 636 637 638 724 459 402/"
       }
     },
     {
@@ -23714,7 +23714,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "NPC.cs.4406": "I just feel like sleeping today.$0"
+        "NPC.cs.4406": "J'ai juste envie de dormir aujourd'hui.$0"
       }
     },
     //Sophias's Marriage Schedule Dialogue - Patching is necessary to prevent the same "leave" and "return" dialogue five days out of a week
@@ -23726,7 +23726,7 @@
       },
       "Entries": {
         "funReturn_Sophia": "Hey, silly! I made dinner while you were out! [727 231 207 199]$1",
-        "funLeave_Sophia": "Do you smell the pollen and nectar in the air!? Spring has arrived!$1#$e#I need to drop by the vineyard for the day. Gotta set up the grape trellises!$9#$b#Good luck today, silly! It'll be busy. Extra cuddles tonight!$1",
+        "funLeave_Sophia": "Sentez-vous le pollen et le nectar dans l'air ! ? Le printemps est arrivé!$1#$e#Je dois passer la journée au vignoble. Je dois mettre en place les treillis pour le raisin!$9#$b#Bonne chance pour aujourd'hui! Ça va être une journée chargé. Alors plus de câlins ce soir!$1",
       }
     },
     {
@@ -23736,7 +23736,7 @@
         "Date": "Spring 2"
       },
       "Entries": {
-        "funReturn_Sophia": "*yawn* sooo sleepy. Want to go to bed soon, @?$1#$e#Maybe I'll read in bed for a bit. In the middle of a manga!$9",
+        "funReturn_Sophia": "*baille* sooo sleepy. Want to go to bed soon, @?$1#$e#Maybe I'll read in bed for a bit. In the middle of a manga!$9",
         "funLeave_Sophia": "Hey, you! Good morning. Did you sleep okay?$1#$e#Thinking about maybe putting together a new cosplay soon!$9",
       }
     },
@@ -24518,14 +24518,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Sophia": "Mmm. So pretty here.$9#$e#There's no food, but that's okay. I brought snacks.$1"
+        "Sophia": "Mmm. c'est si beau ici.$9#$e#Il n'y a pas de nourriture, mais ça va. j'ai apporté une collations.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Sophia": "I want to build a snowman!$9#$b#Come on! Let's make one, silly.$1#$e#Aww. Okay. After the fishing contest then!$1"
+        "Sophia": "Je veux faire un bonhomme de neige!$9#$b#Allez! Faisons-en un.$1#$e#Aww. D'accord. Après le concours de pêche alors!$1"
       },
       "When": {
         "Spouse": "Sophia"
@@ -24536,7 +24536,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Sophia": "Who's a good boy!? You are!$9#$e#Did you get a present yet?$1"
+        "Sophia": "Qui est un bon garçon !? C'est Vous!$9#$e#Avez-vous déjà reçu un cadeau?$1"
       }
     },
     {
@@ -24814,10 +24814,10 @@
         "HasSeenEvent": "8185295"
       },
       "Entries": {
-        "HaleyHouse_14_23": "Hurray, Sophia! Let's start sewing! There's a new pattern I want to show you.$1",
-        "HaleyHouse_16_25": "I'm happy Sophia is visiting! We don't see each other often.$0",
-        "HaleyHouse_13_22": "OooOo! You're great at this!$1",
-        "HaleyHouse_14_7": "You're excellent at cutting fabric, Sophia!$0",
+        "HaleyHouse_14_23": "Hourra, Sophie ! Commençons la couture ! Il y a un nouveau motif que je veux te montrer.$1",
+        "HaleyHouse_16_25": "Je suis heureux que Sophia me rende visite ! On ne se voit pas souvent.$0",
+        "HaleyHouse_13_22": "OooOo! Tu es douée dans ce domaine!$1",
+        "HaleyHouse_14_7": "Tu es douée pour couper le tissu, Sophia!$0",
       },
     },
     { //Blue Moon Vineyard - 10 heart - The Prairie Queen
@@ -25614,7 +25614,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "MarlonFay": "This is a mighty gift, @. Thank you./773 244 413 437 439 680/Thanks. I'll find some use of this./346 303 348 459 205 422 287 288/Hmmm... that will be a hard pass. My apologies./-81/This unfortunately doesn't suit me./-80 283 233/Thanks./286 424 426 436 438 803 184 186 420 -28/"
+        "MarlonFay": "C'est un super cadeau, @. Merci./773 244 413 437 439 680/Merci. Je vais en trouver une utilité./346 303 348 459 205 422 287 288/Hmmm... ce sera difficile. Mes excuses./-81/Ca ne me va pas./-80 283 233/Merci./286 424 426 436 438 803 184 186 420 -28/"
       }
     },
     {
@@ -25674,12 +25674,12 @@
       "Action": "EditData",
       "Target": "Strings/SpeechBubbles",
       "Entries": {
-        "AdventureGuild_Marlon_Greeting_Male": "He's back!",
-        "AdventureGuild_Marlon_Greeting_Female": "She's back!",
-        "AdventureGuild_Marlon_Greeting1": "Need a new sword?",
-        "AdventureGuild_Marlon_Greeting2": "Greetings.",
-        "AdventureGuild_Marlon_Greeting3": "Greetings.",
-        "AdventureGuild_Marlon_Greeting4": "Good evening.",
+        "AdventureGuild_Marlon_Greeting_Male": "Il est de retour!",
+        "AdventureGuild_Marlon_Greeting_Female": "Elle est de retour!",
+        "AdventureGuild_Marlon_Greeting1": "Besoin d'une nouvelle épée?",
+        "AdventureGuild_Marlon_Greeting2": "Salutations.",
+        "AdventureGuild_Marlon_Greeting3": "Bien le Bonjour.",
+        "AdventureGuild_Marlon_Greeting4": "Bonsoir.",
       }
     },
     //MOVIE THEATER
@@ -25735,17 +25735,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Horror films test my integrity. Let us procure our seats.$0"
+                  "Text": "Les films d'horreur mettent mon intégrité à rude épreuve. Procurons-nous des sièges.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "No jump scare will get to me...$2"
+                  "Text": "Aucun sursaut ne m'atteindra...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thank you kindly for the invite, @. That was quite enjoyable.$0"
+                  "Text": "Merci bien pour l'invitation, @. C'était plutôt sympa.$0"
                 }
               },
               "ID": "reaction_2"
@@ -25758,7 +25758,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This genre of film is not my favorite, but I'll give it a go...$2"
+                  "Text": "Ce genre de film n'est pas celui que je préfére, mais je vais essayer...$2"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -25768,7 +25768,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm. I don't have much to say about the film...$0"
+                  "Text": "Hmm. Je n'ai pas grand chose à dire sur le film...$0"
                 }
               },
               "ID": "reaction_3"
@@ -25781,13 +25781,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Well. Let us grab seats post haste, @."
+                  "Text": "Bien. Prenons des sièges en toute hâte, @."
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Interesting film. Acting was a little sub-par, though."
+                  "Text": "Film intéressant. Le jeu d'acteur était un peu bidon, cependant."
                 }
               },
               "ID": "reaction_4"
@@ -25800,13 +25800,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm. There's something magical about this theater. I can feel it in the air...$0"
+                  "Text": "Hmm. Il y a quelque chose de magique dans ce cinéma. Je peux le sentir dans l'air...$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I was engrossed in the film. Thank you kindly for the invite, @."
+                  "Text": "J'ai été captivé par le film. Merci bien pour l'invitation, @."
                 }
               },
               "ID": "reaction_5"
@@ -25819,7 +25819,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Well. Let's watch the movie, @.$1"
+                  "Text": "Bien. Regardons le film, @.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -25829,7 +25829,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm. I didn't pay too much attention.$0"
+                  "Text": "Hmm. je n'ai pas trop fait attention.$0"
                 }
               },
               "ID": "reaction_6"
@@ -25864,49 +25864,49 @@
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "MarlonFay": "Even with my bad leg, I never miss a town festival.",
+        "MarlonFay": "Même avec ma mauvaise jambe, je ne rate jamais une fête en ville.",
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "MarlonFay": "Marnie looks lovely today...",
+        "MarlonFay": "Marnie est ravissante aujourd'hui...",
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "MarlonFay": "I'll be back here by the trees... the air is a lot cooler.",
+        "MarlonFay": "Je reviendrai près des arbres... l'air est beaucoup plus frais.",
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "MarlonFay": "Clint's blades get sharper every year.#$e#So do his prices...$2",
+        "MarlonFay": "Les lames de Clint s'affûtent chaque année.#$e#d'ou ses prix...$2",
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "MarlonFay": "Took a mighty amount of effort to catch these monsters.$2#$b#Most of the credit goes to the Castle Village adventurers.#$e#Don't get too close to the cage."
+        "MarlonFay": "Il a fallu beaucoup d'efforts pour attraper ces monstres .$2#$b#La plupart du mérite revient aux aventuriers de Castle Village.#$e#Ne t'approche pas trop de la cage."
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/Winter8",
       "Entries": {
-        "MarlonFay": "If you spot any frost slimes, alert me.$0#$e#We're deep in the forest. Anything can be out there in the woods.",
+        "MarlonFay": "Si vous repérez des slimes de givre, alertez-moi.$0#$e#Nous sommes au fond de la forêt. N'importe quoi peut être là dans les bois.",
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/Winter25",
       "Entries": {
-        "MarlonFay": "Hey, good afternoon."
+        "MarlonFay": "Salut, bonne après-midi."
       }
     },
     { //ADVENTURER GUILD INITIATION
@@ -25916,7 +25916,7 @@
         "HasFlag": "guildMember"
       },
       "Entries": {
-        "1000034/j 10": "MarlonsTheme/-500 -500/farmer 6 19 0 MarlonFay 6 13 2/pause 500/showFrame MarlonFay 17/viewport 6 14 true/skippable/playSound doorClose/pause 800/shake MarlonFay 600/textAboveHead MarlonFay \"You've proven yourself!\"/pause 150/move farmer 0 -4 0/pause 700/showFrame MarlonFay 0/pause 600/speak MarlonFay \"You've ventured into the mines with utmost courage, @!#$b#We could use someone with your skills. Do you want to join the Adventurer's Guild?\"/pause 1000/jump farmer/pause 800/jump farmer/pause 1200/speak MarlonFay \"@...$2#$b#Do you swear under oath, to protect humanity from monsters, and to do everything in your power to uphold the traditions, values, and ideology of the Adventurer's Guild?$0\"/pause 500/jump farmer/pause 1400/move MarlonFay 0 1 2/pause 700/speak MarlonFay \"On behalf of Stardew Valley and the Order of the Knights of Pythagoras, I officially accept you as the 23rd Adventurer's Guild member!$1\"/pause 1000/speak MarlonFay \"As a member of the Adventurer's Guild, you will be allowed to purchase rare weapons we commission and discover!#$b#There are also bounties and quests you can access from the notice board behind me!\"/pause 750/speak MarlonFay \"Welcome to the guild, @. I expect great things from you.\"/pause 250/globalFade/viewport -1000 -1000/pause 700/end dialogue MarlonFay \"Adventuring can be dangerous. If you need a sharper sword, I can put in a good word with Clint.\"",
+        "1000034/j 10": "MarlonsTheme/-500 -500/farmer 6 19 0 MarlonFay 6 13 2/pause 500/showFrame MarlonFay 17/viewport 6 14 true/skippable/playSound doorClose/pause 800/shake MarlonFay 600/textAboveHead MarlonFay \"Vous avez fait vos preuves!\"/pause 150/move farmer 0 -4 0/pause 700/showFrame MarlonFay 0/pause 600/speak MarlonFay \"Vous vous êtes aventuré dans les mines avec courage, @!#$b#Nous pourrions avoir besoin de quelqu'un avec vos compétences. Voulez-vous rejoindre la guilde des aventuriers?\"/pause 1000/jump farmer/pause 800/jump farmer/pause 1200/speak MarlonFay \"@...$2#$b#Jurez-vous sous serment de protéger l'humanité des monstres et de faire tout ce qui est en votre pouvoir pour faire respecter les traditions, les valeurs et l'idéologie de la Guilde des Aventuriers?$0\"/pause 500/jump farmer/pause 1400/move MarlonFay 0 1 2/pause 700/speak MarlonFay \"Au nom de Stardew Valley et de l'Ordre des Chevaliers de Pythagore, je vous accepte officiellement en tant que membre de la 23e guilde des aventuriers!$1\"/pause 1000/speak MarlonFay \"En tant que membre de la Guilde des Aventuriers, vous êtes autorisé à acheter des armes rares que nous commandons et découvrons lors d'expéditions!#$b#Il y a aussi des primes et des quêtes auxquelles vous pouvez accéder depuis le tableau d'affichage derrière moi!\"/pause 750/speak MarlonFay \"Bienvenue dans la guilde, @. J'attends de grandes choses de toi.\"/pause 250/globalFade/viewport -1000 -1000/pause 700/end dialogue MarlonFay \"L'aventure peut être dangereuse. Si vous avez besoin d'une épée tranchante, je peux en dire un mot à Clint.\"",
       },
     },
     { //Marlon 2 HEART EVENT [[[Player receives sewer key]]] - friendship
@@ -25944,30 +25944,30 @@
       "Action": "EditData",
       "Target": "data/events/sewer",
       "Entries": {
-        "1090502/e 1090501": "Upper_Ambient/-500 -500/farmer 20 21 1 Krobus 31 17 2/pause 500/skippable/viewport 28 23 true/viewport move 0 -1 5000/move farmer 11 0 0 true/pause 4000/emote Krobus 16 true/pause 2500/speak Krobus \"Oh? You're back. Marlon gave you a key?\"/pause 500/question fork0 \"#He did. It's nice to meet you.#Why are you hiding in the Sewer?\"/fork 1090502_MeetYou/pause 500/speak Krobus \"Oh... I...#$b#I'm not ready to talk about that yet.\"/pause 600/emote Krobus 40/pause 500/speak Krobus \"I've collected many exotic goods throughout my travels.#$b#If you have gold, you're welcome to purchase them.\"/pause 700/speak Krobus \"Come, take a look!\"/pause 300/emote farmer 32/pause 300/move farmer 0 -3 0 true/pause 700/globalFade/viewport -1000 -1000/pause 500/end position 31 18",
-        "1090502_MeetYou": "pause 500/speak Krobus \"I'm happy to meet someone new. It gets lonely down here...$4\"/pause 750/speak Krobus \"I've collected many exotic goods throughout my travels.$1#$b#If you have gold, you're welcome to purchase them.\"/pause 700/speak Krobus \"Come, take a look!$1\"/pause 300/emote farmer 32/pause 300/move farmer 0 -3 0 true/pause 700/globalFade/viewport -1000 -1000/pause 500/end position 31 18",
+        "1090502/e 1090501": "Upper_Ambient/-500 -500/farmer 20 21 1 Krobus 31 17 2/pause 500/skippable/viewport 28 23 true/viewport move 0 -1 5000/move farmer 11 0 0 true/pause 4000/emote Krobus 16 true/pause 2500/speak Krobus \"Oh? Tu es de retour. Marlon t'a donné une clé?\"/pause 500/question fork0 \"#Il l'a fait. C'est un plaisir de vous rencontrer.#Pourquoi te caches-tu dans les égouts?\"/fork 1090502_MeetYou/pause 500/speak Krobus \"Oh... Je...#$b#Je ne suis pas encore prêt à parler de ça.\"/pause 600/emote Krobus 40/pause 500/speak Krobus \"J'ai collectionné de nombreuses marchandises exotiques au cours de mes voyages.#$b#Si vous avez de l'or, vous pouvez les acheter.\"/pause 700/speak Krobus \"Venez, jetez un coup d'oeil!\"/pause 300/emote farmer 32/pause 300/move farmer 0 -3 0 true/pause 700/globalFade/viewport -1000 -1000/pause 500/end position 31 18",
+        "1090502_MeetYou": "pause 500/speak Krobus \"Je suis heureux de rencontrer quelqu'un de nouveau. C'est la solitude par ici...$4\"/pause 750/speak Krobus \"J'ai collectionné de nombreuses marchandises exotiques au cours de mes voyages.$1#$b#Si vous avez de l'or, vous pouvez les acheter.\"/pause 700/speak Krobus \"Venez, jetez un coup d'oeil!$1\"/pause 300/emote farmer 32/pause 300/move farmer 0 -3 0 true/pause 700/globalFade/viewport -1000 -1000/pause 500/end position 31 18",
       },
     },
     { //MARLON 4 HEART EVENT
       "Action": "EditData",
       "Target": "data/events/railroad",
       "Entries": {
-        "1004200/b 1/w rainy/f MarlonFay 1000": "continue/-500 -500/farmer 24 37 0 MarlonFay 24 15 2/pause 1000/skippable/viewport 22 28 true/viewport move 0 -1 4000 true/move MarlonFay 0 9 2 true/move farmer 0 -11 0 true/pause 5000/speak MarlonFay \"Greetings, @. I don't believe I've seen you up here before.\"/pause 1150/speak MarlonFay \"I visit this graveyard to pay my respects to those who sacrificed their lives to keep the valley safe.\"/pause 1200/showFrame MarlonFay 19/pause 1600/speak MarlonFay \"Many of these adventurers were my friends...$2\"/pause 750/showFrame MarlonFay 0/pause 1250/speak MarlonFay \"I went on an expedition in the mines with a couple First Slash adventurers who were eager to test their mettle.#$b#Imagine their disappointment when we found that the monsters have been thinned out! The progress you've made single-handedly is impressive.$1#$b#Your assistance in keeping the valley safe is a debt I don't think I'll ever be able to repay.$0#$b#To tell you the truth, you remind me of myself when I was your age.$2\"/pause 500/emote MarlonFay 40/speak MarlonFay \"Magnus Rasmodius and I privately meet regarding new monster hunters, wizards, witches, and adventurers who join our order.\"/move MarlonFay 0 1 2/pause 700/speak MarlonFay \"I want you to join our meetings, @. Your insight would prove most helpful. What do you say?\"/pause 500/question fork0 \"#I would be honored to join the meetings.#I'm humbled, but I'll leave that to you two.\"/fork 1004200_Agree/pause 1000/speak MarlonFay \"I understand, @. Keep up the good work protecting Stardew Valley.\"/pause 1200/speak MarlonFay \"I'll speak to you again regarding other matters.$2\"/move MarlonFay 0 8 2 true/move farmer -1 0 2 true/pause 2000/globalFade/viewport -1000 -1000/pause 1200/end position 21 27",
-        "1004200_Agree": "pause 1000/speak MarlonFay \"I'll let you know when we have our next meeting.#$b#We usually meet at the guild building or at Magnus' tower.#$b#Sometimes we rent a room at the Stardrop Saloon so we can enjoy good food and drink too.\"/pause 1500/showFrame MarlonFay 18/pause 1500/showFrame MarlonFay 0/pause 1200/speak MarlonFay \"I must be on my way, @...$2\"/pause 800/move MarlonFay 0 8 2 true/move farmer -1 0 2 true/pause 2000/globalFade/viewport -1000 -1000/pause 1200/end dialogue MarlonFay \"I'll inform you the next time there's a council meeting.\"",
+        "1004200/b 1/w rainy/f MarlonFay 1000": "continue/-500 -500/farmer 24 37 0 MarlonFay 24 15 2/pause 1000/skippable/viewport 22 28 true/viewport move 0 -1 4000 true/move MarlonFay 0 9 2 true/move farmer 0 -11 0 true/pause 5000/speak MarlonFay \"Salutations, @. Je ne crois pas t'avoir déjà vu ici.\"/pause 1150/speak MarlonFay \"Je visite ce cimetière pour rendre hommage à ceux qui ont sacrifié leur vie pour protéger la vallée.\"/pause 1200/showFrame MarlonFay 19/pause 1600/speak MarlonFay \"Beaucoup de ces aventuriers étaient mes amis...$2\"/pause 750/showFrame MarlonFay 0/pause 1250/speak MarlonFay \"Je suis parti en expédition dans les mines avec quelques aventuriers du First Slash qui avaient hâte de tester leur courage.#$b#Imaginez leur déception quand nous avons découvert que les monstres avaient été tué! Les progrès que vous avez réalisés à vous seul est impressionnants.$1#$b#Votre aide pour garder la vallée en sécurité est une dette que je ne pense pas pouvoir rembourser.$0#$b#Pour te dire la vérité tu me rappelles moi même quand j'avais ton âge.$2\"/pause 500/emote MarlonFay 40/speak MarlonFay \"Magnus Rasmodius et moi même nous nous rencontrons en privé au sujet des nouveaux chasseurs de monstres, sorciers, sorcières et aventuriers qui rejoignent notre ordre.\"/move MarlonFay 0 1 2/pause 700/speak MarlonFay \"Je veux que vous vous joigniez à nos réunions, @. Votre perspicacité se révélerait des plus utiles. Qu'en dis-tu?\"/pause 500/question fork0 \"#Je serais honoré de me joindre aux réunions.#Je suis honoré, mais je vous laisse vous occuper de cela.\"/fork 1004200_Agree/pause 1000/speak MarlonFay \"Je comprend, @. Continuez votre travail pour protéger la vallée de Stardew.\"/pause 1200/speak MarlonFay \"On se reverra, et nous pourrons discuter d'autres sujets.$2\"/move MarlonFay 0 8 2 true/move farmer -1 0 2 true/pause 2000/globalFade/viewport -1000 -1000/pause 1200/end position 21 27",
+        "1004200_Agree": "pause 1000/speak MarlonFay \"Je vous tiendrai au courant de notre prochaine rencontre.#$b#Nous nous rejoignons généralement au bâtiment de la guilde ou à la tour de Magnus.#$b#Parfois, nous louons une chambre au Stardrop Saloon afin de pouvoir bien manger et boire.\"/pause 1500/showFrame MarlonFay 18/pause 1500/showFrame MarlonFay 0/pause 1200/speak MarlonFay \"je dois être en route, @...$2\"/pause 800/move MarlonFay 0 8 2 true/move farmer -1 0 2 true/pause 2000/globalFade/viewport -1000 -1000/pause 1200/end dialogue MarlonFay \"Je vous préviendrai la prochaine fois qu'il y aura une réunion du conseil.\"",
       },
     },
     { //SLIME HUTCH EGGS
       "Action": "EditData",
       "Target": "Data/Events/farm",
       "Entries": {
-        "690006/n slimeHutchBuilt/H": "continue/64 15/farmer 64 16 2 MarlonFay 66 15 0/broadcastEvent/pause 1000/speak MarlonFay \"Bumped into Robin this morning... she told me you've got a new Slime Hutch!$1#$b#I was into slime breeding at your age. It's a great hobby... but dangerous.$1#$b#How'd you think I lost this eye?$2\"/shake MarlonFay 1000/showFrame MarlonFay 16/textAboveHead MarlonFay \"Hah!\"/pause 1000/textAboveHead MarlonFay \"Just Kidding.\"/showFrame MarlonFay 17/pause 700/showFrame MarlonFay 8/pause 800/speak MarlonFay \"Here, I've got something for you.\"/itemAboveHead slimeEgg/pause 1000/pause 1000/pause 1300/awardFestivalPrize slimeEgg/pause 300/faceDirection farmer 2 true/pause 500/speak MarlonFay \"It's a slime egg. You can place that inside a slime incubator to hatch it.#$b#Now, take a good hard look at that egg. Next time you're out slime-hunting keep your eyes peeled for more eggs. They're rare, but slimes do drop them from time to time.#$b#Collect eggs from different slimes to add some variety to your herd!\"/pause 500/end",
+        "690006/n slimeHutchBuilt/H": "continue/64 15/farmer 64 16 2 MarlonFay 66 15 0/broadcastEvent/pause 1000/speak MarlonFay \"J'ai croisé Robin ce matin... elle m'a dit que tu avais un nouveau Clapier à Slime!$1#$b#Je faisais de l'élevage de slime à votre âge. C'est un super passe-temps... mais dangereux.$1#$b#Comment penses-tu que j'ai perdu cet oeil?$2\"/shake MarlonFay 1000/showFrame MarlonFay 16/textAboveHead MarlonFay \"Haha!\"/pause 1000/textAboveHead MarlonFay \"Je Plaisante.\"/showFrame MarlonFay 17/pause 700/showFrame MarlonFay 8/pause 800/speak MarlonFay \"Tiens, j'ai quelque chose pour toi.\"/itemAboveHead slimeEgg/pause 1000/pause 1000/pause 1300/awardFestivalPrize slimeEgg/pause 300/faceDirection farmer 2 true/pause 500/speak MarlonFay \"C'est un oeuf de slime. Vous pouvez le placer à l'intérieur d'un incubateur à slime pour le faire éclore.#$b#Maintenant, regardez attentivement cet oeuf. La prochaine fois que vous irez à la chasse au slime, gardez l'oeil ouvert pour trouver plus d'oeufs. Ils sont rares, mais les slimes en laissent tomber de temps en temps.#$b#Collectez des oeufs de différents types de slimes pour ajouter de la variété à votre élevage!\"/pause 500/end",
       },
     },
     { //MARLON MINE EVENT ALTERATION
       "Action": "EditData",
       "Target": "data/events/mine",
       "Entries": {
-        "100162/t 600 2600": "MarlonsTheme/21 9/farmer -100 -100 0 MarlonFay 23 6 2/addQuest 14/skippable/pause 1000/move MarlonFay 0 2 2/pause 500/showFrame MarlonFay 19/pause 1000/speak MarlonFay \"Hmmm... \"/pause 500/warp farmer 18 13/playSound stoneStep/move farmer 0 -3 1/move farmer 5 0 0/pause 500/showFrame MarlonFay 0/pause 500/speak MarlonFay \"...I was just wondering how far down this mine shaft goes.#$b#I'm going to take care of some of the monsters in here before they start climbing out into the valley.$0\"/pause 500/showFrame MarlonFay 18/pause 2000/showFrame MarlonFay 0/pause 500/speak MarlonFay \"I've met a lot of adventurers in my time. I recognize that look in your eye.$1#$b#Old age hasn't robbed me of my eyesight, or my skill with a sword, quite yet.$2\"/pause 1500/speak MarlonFay \"Take this weapon. It may not look like much, but it's imbued with magic. With it, you'll be able to battle the monsters here.\"/playSound dwop/faceDirection farmer 1 true/pause 50/faceDirection farmer 2/itemAboveHead sword/pause 3300/awardFestivalPrize sword/pause 300/faceDirection farmer 1 true/pause 100/faceDirection farmer 0/pause 500/speak MarlonFay \"I'll keep my eye on you. Prove yourself and I might think about making you a member.\"/pause 750/end",
+        "100162/t 600 2600": "MarlonsTheme/21 9/farmer -100 -100 0 MarlonFay 23 6 2/addQuest 14/skippable/pause 1000/move MarlonFay 0 2 2/pause 500/showFrame MarlonFay 19/pause 1000/speak MarlonFay \"Hummm... \"/pause 500/warp farmer 18 13/playSound stoneStep/move farmer 0 -3 1/move farmer 5 0 0/pause 500/showFrame MarlonFay 0/pause 500/speak MarlonFay \"...Je me demandais juste jusqu'où va le puits de cette mine.#$b#Je vais m'occuper de quelques-uns des monstres présent ici avant qu'ils ne commencent à envahir la vallée.$0\"/pause 500/showFrame MarlonFay 18/pause 2000/showFrame MarlonFay 0/pause 500/speak MarlonFay \"J'ai rencontré beaucoup d'aventuriers à mon époque. Je reconnais ce regard dans tes yeux.$1#$b#La vieillesse ne m'a pas encore volé ma vue ou mon habileté à manier l'épée.$2\"/pause 1500/speak MarlonFay \"Prenez cette arme. Elle ne ressemble peut-être pas à grand-chose, mais elle est imprégné de magie. Avec elle, vous pourrez affronter les monstres.\"/playSound dwop/faceDirection farmer 1 true/pause 50/faceDirection farmer 2/itemAboveHead sword/pause 3300/awardFestivalPrize sword/pause 300/faceDirection farmer 1 true/pause 100/faceDirection farmer 0/pause 500/speak MarlonFay \"Je vais garder un œil sur toi. Faites vos preuves et je pourrais penser à faire de vous un membre.\"/pause 750/end",
       }
     },
     { //MARLON GALAXY SWORD EVENT
@@ -25977,28 +25977,28 @@
         "HasFlag": "galaxySword"
       },
       "Entries": {
-        "1337098": "MarlonsTheme/-500 -500/farmer -200 -200 0 MarlonFay 4 11 2/viewport 6 13 true/skippable/pause 2000/warp farmer 6 19/playSound doorClose/pause 500/showFrame MarlonFay 17/pause 150/textAboveHead MarlonFay \"You found something!\"/pause 350/move farmer 0 -5 3/move farmer -2 0 0/move farmer 0 -1 0/showFrame MarlonFay 0/pause 500/speak MarlonFay \"That weapon! There's no mistaking it!$1#$b#You received a galaxy sword!\"/pause 1000/showFrame MarlonFay 18/pause 1000/speak MarlonFay \"You have been deemed worthy, @. This is a true honor.$2#$b#I obtained my first galaxy weapon after a night of harsh battles at Castle Village.#$b#There was a purple blinding light as a sword slowly fell into my hands. I felt the power of the cosmos for a brief second.#$b#Wizards and scholars believe Yoba gifts these weapons to true peacekeepers of humanity.\"/pause 1200/speak MarlonFay \"I will allow you to purchase galaxy weapons from our hidden weapons cache, adventurer.$0#$b#I'm proud of you!$1\"/showFrame MarlonFay 0/pause 500/playSound reward/message \"I can now purchase galaxy weapons from Marlon!\"/pause 500/end",
+        "1337098": "MarlonsTheme/-500 -500/farmer -200 -200 0 MarlonFay 4 11 2/viewport 6 13 true/skippable/pause 2000/warp farmer 6 19/playSound doorClose/pause 500/showFrame MarlonFay 17/pause 150/textAboveHead MarlonFay \"Vous avez trouvé quelque chose!\"/pause 350/move farmer 0 -5 3/move farmer -2 0 0/move farmer 0 -1 0/showFrame MarlonFay 0/pause 500/speak MarlonFay \"Cette arme ! Il n'y a pas de doute!$1#$b#Vous avez reçu une épée galactique!\"/pause 1000/showFrame MarlonFay 18/pause 1000/speak MarlonFay \"Vous avez été jugé digne, @. C'est un véritable honneur.$2#$b#J'ai obtenu ma première arme galactique après une nuit de batailles acharnées à Castle Village.#$b#Il y eut une lumière violette aveuglante alors qu'une épée tombait lentement entre mes mains. J'ai ressenti la puissance du cosmos pendant une brève seconde.#$b#Les sorciers et les érudits croient que Yoba offre ces armes aux véritables gardiens de la paix de l'humanité.\"/pause 1200/speak MarlonFay \"Je vais vous permettre d'acheter des armes galactiques dans notre cache d'armes secrete, aventurier.$0#$b#I'm proud of you!$1\"/showFrame MarlonFay 0/pause 500/playSound reward/message \"Je peux maintenant acheter des armes galactique à Marlon!\"/pause 500/end",
       },
     },
     { //VOID SHARD EVENT
       "Action": "EditData",
       "Target": "Data/Events/adventureguild",
       "Entries": {
-        "1579123/i {{spacechase0.JsonAssets/ObjectId:Void Shard}}": "MarlonsTheme/-500 -500/farmer -100 -100 0 MarlonFay 8 11 0 Wizard -101 -101 2/pause 1300/viewport 6 15 true/skippable/pause 1250/playSound doorClose/warp farmer 6 19/pause 700/faceDirection MarlonFay 1 true/pause 200/faceDirection MarlonFay 2 true/pause 200/speed farmer 1/move farmer 0 -4 0 true/pause 400/textAboveHead MarlonFay \"What is that?...\"/pause 2000/move MarlonFay 0 2 3/move MarlonFay -2 0 2/pause 700/speak MarlonFay \"That shard...$0#$b#There's an immense amount of void energy emitting from it!$1#$b#Where did you find this?$1\"/pause 600/emote farmer 40/pause 300/speak MarlonFay \"A void serpent from the Crimson Badlands?\"/pause 500/emote farmer 40/speak MarlonFay \"Much stronger than the others?#$b#Hmm...$2\"/pause 800/showFrame MarlonFay 19/pause 700/speak MarlonFay \"The corruption is growing faster than we thought. Not good news.$2#$b#We must inform Magnus about this immediately.$0#$b#Accompany me, @.\"/pause 400/showFrame MarlonFay 0/pause 300/globalFade/viewport -1000 -1000/pause 50/stopMusic/pause 50/changeLocation WizardHouse/playSound doorClose/pause 600/playSound doorClose/pause 700/playMusic WizardSong/warp Wizard 10 17/showFrame Wizard 20/warp farmer 10 23/warp MarlonFay 9 23/faceDirection MarlonFay 0 true/faceDirection farmer 0 true/pause 50/viewport 8 19 true/speed MarlonFay 1/move MarlonFay 0 -3 0 true/speed farmer 1/move farmer 0 -3 0 true/pause 800/speak Wizard \"Hmm...$0#$b#Powerful void energy is emanating from you, @.#$b#And Marlon here, too...?$0\"/pause 700/showFrame Wizard 21/pause 600/speak Wizard \"What in the world have you brought to my abode?$0\"/pause 800/showFrame Wizard 22/pause 200/showFrame Wizard 0/pause 800/speak MarlonFay \"@ defeated a void serpent in the Crimson Badlands.$0#$b#The monster dropped this shard where it once flew.$1#$b#I have never in all my years seen something like this. Can you decipher it, Magnus?$2\"/pause 1000/speak Wizard \"...#$b#@. Place the shard on the hex.#$b#I will call upon the elementals to decode its origin and maker.\"/pause 800/move Wizard -2 0 1/pause 700/speed farmer 1/move farmer 0 -2 0/pause 700/ShowFrame farmer 15/pause 500/addObject 10 17 {{spacechase0.JsonAssets/ObjectId:Void Shard}}/pause 175/playSound stoneStep/playSound stoneStep/pause 500/showFrame farmer 12/pause 500/faceDirection farmer 1 true/pause 150/faceDirection farmer 2 true/pause 200/move farmer 0 2 0/pause 800/stopMusic/pause 1000/showFrame Wizard 19/pause 1000/shake Wizard 700/pause 1400/playSound healSound/glow 255 0 0/pause 1000/playSound healSound/glow 255 0 0/pause 1200/shake Wizard 1800/pause 600/playSound shadowpeep/pause 300/glow 255 0 0/playSound shadowpeep/pause 400/playSound shadowpeep/pause 100/playSound shadowpeep/pause 150/playSound shadowpeep/pause 270/playSound shadowpeep/pause 100/playSound shadowpeep/glow 255 0 0/pause 300/playSound shadowpeep/pause 150/playSound shadowpeep/pause 200/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/screenFlash 2/playSound thunder/removeSprite 10 17/removeItem {{spacechase0.JsonAssets/ObjectId:Void Shard}}/playSound breakingGlass/playSound breakingGlass/playSound breakingGlass/pause 900/showFrame Wizard 4/pause 200/emote farmer 16 true/pause 300/emote MarlonFay 16 true/pause 2500/move Wizard 1 0 1/pause 1000/emote Wizard 40/pause 600/faceDirection Wizard 2 true/pause 1200/showFrame Wizard 18/pause 850/speak Wizard \"The 'Void Shard' self-destructed...\"/pause 700/showFrame Wizard 0/pause 500/speak Wizard \"I was, however, able to ascertain some of its arcane properties.\"/pause 700/speak MarlonFay \"What did you discover?$0\"/pause 1000/showFrame Wizard 18/pause 600/speak Wizard \"The shard isn't natural.#$b#It was made by someone - or something -  with the intent to corrupt monsters, consuming them with inconceivable power.\"/pause 500/speak MarlonFay \"...$2\"/pause 300/showFrame Wizard 0/pause 500/speak Wizard \"I must take my leave. It's paramount the council be notified of these events.#$b#Join me in the warp hall.\"/pause 300/globalFade/viewport -1000 -1000/pause 100/changeLocation Custom_WizardBasement/warp MarlonFay 22 22/warp farmer 24 22/warp Wizard 23 20/pause 100/positionOffset MarlonFay 20 -10/positionOffset farmer -20 -10/viewport 23 21 true/pause 1200/speak Wizard \"I'm teleporting to the Ferngill Republic Ministry of Magic to discuss the 'Void Shard'.#$b#By law, only I may go.\"/pause 700/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 0 true/pause 250/move Wizard 0 -2 0/pause 150/faceDirection Wizard 1 true/pause 150/faceDirection Wizard 2 true/pause 600/speak Wizard \"Your accomplishment won't go unnoticed, @.#$b#I'll ensure you're given proper credit.\"/pause 800/showFrame Wizard 16/pause 500/screenFlash 2/playSound wand/playSound wand/warp Wizard -105 -105/pause 1000/globalFade/viewport -1000 -1000/pause 600/end dialogue MarlonFay \"Magnus' warp hall was constructed for long distance teleportation - a true triumph of magical ingenuity.#$b#It's what makes travel to Castle Village and other far away locations possible.#$e#So. Tell me. Just how difficult was it to defeat that corrupted void serpent?$1#$e#Ah. Hmm. I see.$2#$e#That shard may foretell trouble in the future. I'm hoping for the best...$2#$e#You know, I don't recall the last time I was this...chatty.#$e#Pleasure speaking with you, @. Keep up the good work.$0\"",
+        "1579123/i {{spacechase0.JsonAssets/ObjectId:Void Shard}}": "MarlonsTheme/-500 -500/farmer -100 -100 0 MarlonFay 8 11 0 Wizard -101 -101 2/pause 1300/viewport 6 15 true/skippable/pause 1250/playSound doorClose/warp farmer 6 19/pause 700/faceDirection MarlonFay 1 true/pause 200/faceDirection MarlonFay 2 true/pause 200/speed farmer 1/move farmer 0 -4 0 true/pause 400/textAboveHead MarlonFay \"Qu'est-ce que c'est?...\"/pause 2000/move MarlonFay 0 2 3/move MarlonFay -2 0 2/pause 700/speak MarlonFay \"Ce fragment...$0#$b#Il y a une immense quantité d'énergie du vide qui en est émise!$1#$b#Où as tu trouvé ça?$1\"/pause 600/emote farmer 40/pause 300/speak MarlonFay \"Un serpent du vide des Crimson Badlands?\"/pause 500/emote farmer 40/speak MarlonFay \"Bien plus fort que les autres?#$b#Humm...$2\"/pause 800/showFrame MarlonFay 19/pause 700/speak MarlonFay \"La corruption se développe plus rapidement que nous ne le pensions. Ce n'est pas une bonne nouvelle.$2#$b#Nous devons en informer Magnus immédiatement.$0#$b#Accompagne moi, @.\"/pause 400/showFrame MarlonFay 0/pause 300/globalFade/viewport -1000 -1000/pause 50/stopMusic/pause 50/changeLocation WizardHouse/playSound doorClose/pause 600/playSound doorClose/pause 700/playMusic WizardSong/warp Wizard 10 17/showFrame Wizard 20/warp farmer 10 23/warp MarlonFay 9 23/faceDirection MarlonFay 0 true/faceDirection farmer 0 true/pause 50/viewport 8 19 true/speed MarlonFay 1/move MarlonFay 0 -3 0 true/speed farmer 1/move farmer 0 -3 0 true/pause 800/speak Wizard \"Humm...$0#$b#Une puissante énergie du vide émane de vous, @.#$b#Et de Marlon ici aussi...?$0\"/pause 700/showFrame Wizard 21/pause 600/speak Wizard \"Que diable as-tu apporté dans ma demeure?$0\"/pause 800/showFrame Wizard 22/pause 200/showFrame Wizard 0/pause 800/speak MarlonFay \"@ à vaincu un serpent du vide dans les Crimson Badlands.$0#$b#Le monstre a laissé tomber ce fragment là où il à été vaincu.$1#$b#De toutes ma vie, je n'ai jamais vu quelque chose comme ça. Pouvez-vous le déchiffrer, Magnus?$2\"/pause 1000/speak Wizard \"...#$b#@. Placez le fragment sur l'hexagone.#$b#Je ferai appel aux éléments pour décoder son origine et son créateur.\"/pause 800/move Wizard -2 0 1/pause 700/speed farmer 1/move farmer 0 -2 0/pause 700/ShowFrame farmer 15/pause 500/addObject 10 17 {{spacechase0.JsonAssets/ObjectId:Void Shard}}/pause 175/playSound stoneStep/playSound stoneStep/pause 500/showFrame farmer 12/pause 500/faceDirection farmer 1 true/pause 150/faceDirection farmer 2 true/pause 200/move farmer 0 2 0/pause 800/stopMusic/pause 1000/showFrame Wizard 19/pause 1000/shake Wizard 700/pause 1400/playSound healSound/glow 255 0 0/pause 1000/playSound healSound/glow 255 0 0/pause 1200/shake Wizard 1800/pause 600/playSound shadowpeep/pause 300/glow 255 0 0/playSound shadowpeep/pause 400/playSound shadowpeep/pause 100/playSound shadowpeep/pause 150/playSound shadowpeep/pause 270/playSound shadowpeep/pause 100/playSound shadowpeep/glow 255 0 0/pause 300/playSound shadowpeep/pause 150/playSound shadowpeep/pause 200/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/screenFlash 2/playSound thunder/removeSprite 10 17/removeItem {{spacechase0.JsonAssets/ObjectId:Void Shard}}/playSound breakingGlass/playSound breakingGlass/playSound breakingGlass/pause 900/showFrame Wizard 4/pause 200/emote farmer 16 true/pause 300/emote MarlonFay 16 true/pause 2500/move Wizard 1 0 1/pause 1000/emote Wizard 40/pause 600/faceDirection Wizard 2 true/pause 1200/showFrame Wizard 18/pause 850/speak Wizard \"Le 'Fragment du Vide' s'est auto-détruit...\"/pause 700/showFrame Wizard 0/pause 500/speak Wizard \"J'ai cependant pu déterminer certaines de ses mystérieuses propriétés.\"/pause 700/speak MarlonFay \"Qu'avez-vous découvert?$0\"/pause 1000/showFrame Wizard 18/pause 600/speak Wizard \"Le fragment n'est pas naturel.#$b#l a été fabriqué par quelqu'un - ou quelque chose - avec l'intention de corrompre les monstres, en les consummant avec un pouvoir incommensurable..\"/pause 500/speak MarlonFay \"...$2\"/pause 300/showFrame Wizard 0/pause 500/speak Wizard \"Je dois partir. Il est primordial que le conseil soit informé de ces événements.#$b#Rejoignez-moi dans la salle de distorsion.\"/pause 300/globalFade/viewport -1000 -1000/pause 100/changeLocation Custom_WizardBasement/warp MarlonFay 22 22/warp farmer 24 22/warp Wizard 23 20/pause 100/positionOffset MarlonFay 20 -10/positionOffset farmer -20 -10/viewport 23 21 true/pause 1200/speak Wizard \"Je me téléporte au Ministère de la Magie de la République de Ferngill pour discuter de l' 'Éclat du Vide'.#$b#Selon la loi, je suis le seul à pouvoir y aller.\"/pause 700/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 0 true/pause 250/move Wizard 0 -2 0/pause 150/faceDirection Wizard 1 true/pause 150/faceDirection Wizard 2 true/pause 600/speak Wizard \"Votre travail ne passera pas inaperçu, @.#$b#Je veillerai à ce que vous receviez les honneurs approprié.\"/pause 800/showFrame Wizard 16/pause 500/screenFlash 2/playSound wand/playSound wand/warp Wizard -105 -105/pause 1000/globalFade/viewport -1000 -1000/pause 600/end dialogue MarlonFay \"La salle de téléportation de Magnus a été construite pour la téléportation longue distance - une véritable oeuvre d'art de l'ingéniosité magique.#$b#C'est ce qui rend possible les voyages vers Castle Village et d'autres lieux lointains.#$e#Alors. Dis moi. À quel point a-t-il été difficile de vaincre ce serpent du vide corrompu?$1#$e#Ah. Humm. Je vois.$2#$e#Ce fragment peut crée des problèmes à l'avenir. j'espere mineure spour le mieux...$2#$e#Tu sais, je ne me souviens pas de la dernière fois où j'ai été aussi bavard.#$e#Au plaisir de discuter avec vous, @. Continue ton bon travail.$0\"",
       },
     },
     { //VOID SHARD EVENT WIZARD END DIALOGUE
       "Action": "EditData",
       "Target": "Data/Events/wizardhouse",
       "Entries": {
-        "1579124/e 1579123": "none/-500 -500/farmer -100 -100 0/pause 50/end dialogue Wizard \"Hmm?#$e#The Ferngill Republic Ministry of Magic?#$e#I'm forbidden from telling you about any developments regarding the 'Void Shard'.\"",
+        "1579124/e 1579123": "none/-500 -500/farmer -100 -100 0/pause 50/end dialogue Wizard \"Humm?#$e#Ministère de la Magie de la République de Ferngill?#$e#Il m'est interdit de vous parler de tout développement concernant l''Éclat du Vide'.\"",
       },
     },
     { //SEWER KEY EVENT - Marlon
       "Action": "EditData",
       "Target": "Data/Events/town",
       "Entries": {
-        "1579125/e 103042015/k 1090501": "continue/-500 -500/MarlonFay 41 101 3 farmer 26 94 1/pause 1250/skippable/viewport 35 97 clamp true/move MarlonFay -6 0 0/move MarlonFay 0 -4 0/pause 1200/faceDirection MarlonFay 3 true/pause 850/faceDirection MarlonFay 0 true/pause 225/faceDirection MarlonFay 1 true/pause 1000/faceDirection MarlonFay 0 true/pause 900/playSound trashcanlid/shake MarlonFay 600/pause 1150/playSound stairsdown/warp MarlonFay -100 -100/pause 1000/move farmer 3 0 2/move farmer 0 2 1/move farmer 1 0 1/pause 600/emote farmer 8/globalFade/viewport -1000 -1000/pause 1000/end dialogue MarlonFay \"Hmm? The sewers?...$0#$b#You'll need to earn my trust first before I talk about that.#$e#I've been craving 'roots platter' and 'slime eggs' as of late...$0\""
+        "1579125/e 103042015/k 1090501": "continue/-500 -500/MarlonFay 41 101 3 farmer 26 94 1/pause 1250/skippable/viewport 35 97 clamp true/move MarlonFay -6 0 0/move MarlonFay 0 -4 0/pause 1200/faceDirection MarlonFay 3 true/pause 850/faceDirection MarlonFay 0 true/pause 225/faceDirection MarlonFay 1 true/pause 1000/faceDirection MarlonFay 0 true/pause 900/playSound trashcanlid/shake MarlonFay 600/pause 1150/playSound stairsdown/warp MarlonFay -100 -100/pause 1000/move farmer 3 0 2/move farmer 0 2 1/move farmer 1 0 1/pause 600/emote farmer 8/globalFade/viewport -1000 -1000/pause 1000/end dialogue MarlonFay \"Humm? Les égouts?...$0#$b#Tu devras d'abord gagner ma confiance avant que je puisse te parle de ça.#$e#J'ai eu envie d'' 'assiette de racines' et 'oeufs de slime' dernièrement...$0\""
       },
     },
     { //Marlon's boat quest
@@ -26081,13 +26081,13 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "MarlonFay2_Name": "Marlon's Boat",
-        "MarlonFay2_Text": "If I bring Marlon these monster parts, he'll let me use his boat docked at the adventure guild.",
-        "MarlonFay2_Objective_0_Text": "Deliver 50 'Void Essence' to Marlon.",
-        "MarlonFay2_Objective_1_Text": "Deliver 40 'Solar Essence' to Marlon.",
-        "MarlonFay2_Objective_2_Text": "Deliver 30 'Slime' to Marlon.",
-        "MarlonFay2_Objective_3_Text": "Deliver 25 'Bat Wing' to Marlon.",
-        "MarlonFay2_Objective_4_Text": "Deliver 20 'Bug Meat' to Marlon."
+        "MarlonFay2_Name": "Le bateau de Marlon",
+        "MarlonFay2_Text": "Si j'apporte ces morceaux de monstre à Marlon, il me laissera utiliser son bateau qui est amarré prêt de la guilde.",
+        "MarlonFay2_Objective_0_Text": "Livrer  50 'Essence du Vide' à Marlon.",
+        "MarlonFay2_Objective_1_Text": "Livrer  40 'Essence Solaire' à Marlon.",
+        "MarlonFay2_Objective_2_Text": "Livrer  30 'Slime' à Marlon.",
+        "MarlonFay2_Objective_3_Text": "Livrer  25 'Aile de chauve-souris' à Marlon.",
+        "MarlonFay2_Objective_4_Text": "Livrer  20 'Viande d'insecte' à Marlon."
       }
     },
     //Event #1 - Marlon's Boat    <<ID tagged by quest
@@ -26099,7 +26099,7 @@
         "HasSeenEvent |contains=6951321": true
       },
       "Entries": {
-        "65360182/t 600 1100": "none/-500 -500/farmer -200 -200 0 MarlonFay -30 -30 0/skippable/pause 1500/speak MarlonFay \"Good morning, @. There's something I want to discuss with you. Drop by the guild when you have a moment.$0\"/pause 1000/end"
+        "65360182/t 600 1100": "none/-500 -500/farmer -200 -200 0 MarlonFay -30 -30 0/skippable/pause 1500/speak MarlonFay \"Bonjour, @. Il y a quelque chose dont j'aimerais discuter avec vous. Passez à la guilde quand vous avez un moment.$0\"/pause 1000/end"
       },
     },
     //Event #2 - Marlon's Boat    <<ID tagged by framework
@@ -26107,7 +26107,7 @@
       "Action": "EditData",
       "Target": "data/events/adventureguild",
       "Entries": {
-        "65360183/e 65360182": "MarlonsTheme/-500 -500/farmer 6 19 0 MarlonFay 10 12 1/skippable/pause 1000/viewport 7 14 true/move farmer 0 -4 1/pause 1250/faceDirection MarlonFay 2 true/pause 250/faceDirection MarlonFay 3 true/pause 500/speak MarlonFay \"Ah, you're here.$0\"/pause 500/move MarlonFay -2 0 2/move MarlonFay 0 1 3/move MarlonFay -2 0 2 true/pause 500/faceDirection farmer 0 true/pause 1250/speak MarlonFay \"It has come to my attention that Lance owns an outpost far up north in the highlands.#$b#My boat docked outside is capable of traveling there.\"/pause 500/emote farmer 16/pause 300/speak MarlonFay \"I'll give you permission to use my boat, but in return I want you to do something for me first...$0\"/pause 400/emote farmer 8/pause 250/speak MarlonFay \"I need a variety of monster parts. Let's talk specifics.$0\"/pause 500/speed MarlonFay 1/move MarlonFay 0 1 2 true/globalFade/viewport -1000 -1000/stopMusic/pause 1000/end dialogue MarlonFay \"Hmm? What are the monster parts for? I'm afraid I'm not at liberty to say.$0#$e#From what I've been told, the highlands are a dangerous place.$0\""
+        "65360183/e 65360182": "MarlonsTheme/-500 -500/farmer 6 19 0 MarlonFay 10 12 1/skippable/pause 1000/viewport 7 14 true/move farmer 0 -4 1/pause 1250/faceDirection MarlonFay 2 true/pause 250/faceDirection MarlonFay 3 true/pause 500/speak MarlonFay \"Ah, tu es là.$0\"/pause 500/move MarlonFay -2 0 2/move MarlonFay 0 1 3/move MarlonFay -2 0 2 true/pause 500/faceDirection farmer 0 true/pause 1250/speak MarlonFay \"J'ai appris que Lance possédait un avant-poste loin au nord dans les hautes terres.#$b#Mon bateau qui est amarré à l'extérieur est capable de s'y rendre.\"/pause 500/emote farmer 16/pause 300/speak MarlonFay \"Je vais te donner la permission d'utiliser mon bateau, mais en retour je veux que tu fasses quelque chose pour moi...$0\"/pause 400/emote farmer 8/pause 250/speak MarlonFay \"J'ai besoin de différentes pièces de monstres. Parlons des détails.$0\"/pause 500/speed MarlonFay 1/move MarlonFay 0 1 2 true/globalFade/viewport -1000 -1000/stopMusic/pause 1000/end dialogue MarlonFay \"Humm? A quoi servent les morceaux des monstres ? Je crains de ne pas être libre de pouvoir le dire.$0#$e#D'après ce qu'on m'a dit, c'est un endroit dangereux.$0\""
       },
     },
     //Event #3 - Marlon's Boat  <<Triggers map patch
@@ -26118,7 +26118,7 @@
         "HasFlag": "marlonsBoat"
       },
       "Entries": {
-        "65360184": "continue/-50 -50/farmer 64 15 2 MarlonFay -30 -30 0/skippable/pause 1500/speak MarlonFay \"I looked over the monster parts you delivered. Great job.#$b#Meet me at the guild dock when you're ready.\"/pause 500/end"
+        "65360184": "continue/-50 -50/farmer 64 15 2 MarlonFay -30 -30 0/skippable/pause 1500/speak MarlonFay \"J'ai examiné les pièces de monstre que vous avez livrées. Excellent travail.#$b#Retrouve-moi au quai de la guilde quand tu seras prêt.\"/pause 500/end"
       },
     },
     //>>>go to event ID: 65360185 (Lance 2 hrt)
@@ -26153,7 +26153,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Morgan": "For me? You're amazing!/337 305 308/Nice to see you! Thanks!/268 155 768 769 773 772 392 394/Um. I don't want this./395 399 402 406 410 248 256 190 188 -75/I don't like it.../348 346 283 459 303/Thanks for the present./446 -18 -4 -80/"
+        "Morgan": "Pour moi? Tu es incroyable!/337 305 308/Ravi de vous voir! Merci!/268 155 768 769 773 772 392 394/Hum. Je ne veux pas de cela./395 399 402 406 410 248 256 190 188 -75/je n'aime pas ça.../348 346 283 459 303/Merci pour le cadeau./446 -18 -4 -80/"
       }
     },
     {
@@ -26204,27 +26204,27 @@
         "HasMod": "misscoriel.razolyn"
       },
       "Entries": {
-        "Introduction": "Um... Greetings! My name is Morgan. I'm a pupil of Razolyn the Magnificent. What's your name?$0#$e#It's been a pleasure!$1",
-        "spring_12": "Razolyn and I are traveling deep into the forest tomorrow.$1#$b#I won't be attending the town festival.$0#$e#She found a place with a really high concentration of raw magic. I'm excited!$3",
-        "Mon4": "Razolyn is teaching me about the magical properties of mystical ancient plants.$3#$e#She tells me the valley used to be full of them a long time ago.$1",
-        "Tue2": "I have an exam soon. I'm ready to pass it!$1#$e#I want to protect people.$1",
-        "Thu": "Do you like my hat?$1#$e#Razolyn made it for me!$3",
-        "Thu2": "Razolyn told me there's forest sprites deep in the woods.$1#$b#Their magical powers are intertwined with the valley.$3",
-        "Sat10": "Hi, @.!$1",
-        "Sun4": "Razolyn is showing me a place called 'Sprite Spring'. She's gonna introduce me her forest sprite friends.$1#$e#One of them goes by 'Claus'. He gave her the ancient seeds for her arcane studies.$1",
-        "summer_Mon": "I'm going on a special quest to gather something called 'fiddlehead' in the forest.$1#$b#Razolyn needs it for a potion.$3",
-        "summer_Tue": "Sometimes I ask Razolyn if Vincent or Jas can come visit.$1#$e#She always says no....$2",
-        "summer_Wed8": "I'm going on a field trip tomorrow!$3#$e#I asked if you could come but Razolyn said no.$0",
-        "summer_Thu": "*yawn*...$3#$b#I didn't sleep much last night.$0#$e#Why? I was practicing magic!$1#$e#Don't tell Razolyn!$5",
-        "fall_15": "Welwick is running her clairvoyance booth tomorrow.$1#$e#Razolyn says she's really powerful.$0",
-        "fall_Mon": "Did you know someone named Magnus Rasmodius built the tower on a 'magical field'?$0#$e#I wonder who he is...$3",
-        "fall_Fri": "Razolyn is teaching me the 'Merlin Doctrine'. It's like a big rulebook for mages.$0#$e#It's reeeeeally boring.$2",
-        "fall_Sat6": "There's a blocked warp with the sign scratched off in the warp hall. I wonder what it was?$0#$b#Razolyn forbids me from asking about it. But She'll tell me someday.$4",
-        "fall_Sun": "I want to try fire magic but I'm not allowed to.$8#$e#Razolyn says it's very hard to control.$0",
-        "fall_Sun8": "Hello, @!$1#$e#Um. How are you?$0",
-        "winter_7": "The area where the ice fishing festival takes place has a great mana pool too.$1#$e#Um. Razolyn and I will be nearby. Try to find us!$1",
-        "winter_Tue": "Since it's freezing outside, I'm gonna convince Razolyn to let me try fire magic.$1#$e#Hmm, you're right. I guess it could be dangerous.$2",
-        "winter_Thu": "I've asked Razolyn about adopting an animal from Marnie's. She said 'maybe'!$3",
+        "Introduction": "Hum... Salutations! Mon nom est Morgan. Je suis un élève de Razolyn le Magnifique. Quel est votre nom?$0#$e#Cela a été un plaisir!$1",
+        "spring_12": "Razolyn et moi voyagerons au plus profond de la forêt demain.$1#$b#Je n'irai pas à la fête en ville.$0#$e#Elle a trouvé un endroit avec une concentration très élevée de magie brute. Je suis surexcité!$3",
+        "Mon4": "Razolyn m'apprend les propriétés magiques des anciennes plantes mystiques.$3#$e#Elle me dit qu'il y a longtemps la vallée en était pleine.$1",
+        "Tue2": "J'ai un examen bientôt. je suis prêt à le passer!$1#$e#Je veux protéger les gens.$1",
+        "Thu": "Est-ce que tu aimes mon chapeau?$1#$e#Razolyn l'a fait pour moi!$3",
+        "Thu2": "Razolyn m'a dit qu'il y avait des lutins au fond des bois.$1#$b#Leurs pouvoirs magiques sont étroitement liés à cette vallée.$3",
+        "Sat10": "Salut, @.!$1",
+        "Sun4": "Razolyn m'a montré un endroit appelé 'Le printemps des lutin'. Elle va me présenter ses amis lutin de la forêt.$1#$e#L'un d'eux s'appelle 'Claus'. Il lui a donné les graines anciennes pour ses études arcaniques.$1",
+        "summer_Mon": "Je pars dans une quête spéciale pour trouver quelque chose appelé 'crosse de fougère' dans la foret.$1#$b#Razolyn en a besoin pour une potion.$3",
+        "summer_Tue": "Parfois je demande à Razolyn si Vincent ou Jas peuvent venir nous rendre visite.$1#$e#Elle dit toujours non....$2",
+        "summer_Wed8": "Je pars en excursion demain!$3#$e#J'ai demandé si tu pouvais venir mais Razolyn a dit non.$0",
+        "summer_Thu": "*baille*...$3#$b#Je n'ai pas beaucoup dormi la nuit dernière.$0#$e#Pourquoi? je pratiquais la magie!$1#$e#Ne le dis pas à Razolyn!$5",
+        "fall_15": "Welwick gère son stand de voyance demain.$1#$e#Razolyn dit qu'elle est vraiment puissante.$0",
+        "fall_Mon": "Saviez-vous que quelqu'un du nom de Magnus Rasmodius a construit la tour sur un 'champ magique'?$0#$e#Je me demande qui c'est...$3",
+        "fall_Fri": "Razolyn m'enseigne la 'Doctrine de Merlin'. C'est comme un gros livre de règles pour mages.$0#$e#C'est vraiment ennuyeux.$2",
+        "fall_Sat6": "Il y a un téléporteur bloquée avec le signe rayé dans la salle de téléportation. Je me demande ce que c'était?$0#$b#Razolyn m'interdit de poser des questions à ce sujet. Mais un jour elle me le dira.$4",
+        "fall_Sun": "J'aimerais essayer de faire de la magie du feu mais je n'ai pas le droit de le faire.$8#$e#Razolyn dit que c'est très difficile à contrôler.$0",
+        "fall_Sun8": "Bonjour, @!$1#$e#Hum. Comment vas-tu?$0",
+        "winter_7": "La zone où se déroule le festival de pêche sur glace possède également une grande réserve de mana.$1#$e#Hum. Razolyn et moi serons à proximité. Essayez de nous trouver!$1",
+        "winter_Tue": "Puisqu'il gèle dehors, je vais convaincre Razolyn de me laisser essayer de faire de la magie du feu.$1#$e#Hmm, tu as raison. je suppose que ça peut être dangereux.$2",
+        "winter_Thu": "J'ai demandé à Razolyn pour adopter un animal chez Marnie. Elle a dit 'peut-être'!$3",
       }
     },
     {
@@ -26262,7 +26262,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thanks for inviting me to the movies, @!$1"
+                  "Text": "Merci de m'avoir invité au cinéma, @!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -26272,7 +26272,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was a magical film! Thank you, @.$1#$e#Maybe I'll try creating the 'Brave Little Sappling' myself with magic some day!$1"
+                  "Text": "C'était un film magique ! Merci, @.$1#$e#Peut-être que j'essaierai de créer moi-même le 'Brave petit arbre' avec de la magie un jour!$1"
                 }
               },
               "ID": "reaction_0"
@@ -26285,7 +26285,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror film? Okay...$8"
+                  "Text": "Un film d'horreur? Okay...$8"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -26295,7 +26295,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was scary...$2"
+                  "Text": "C'était effrayant...$2"
                 }
               },
               "ID": "reaction_1"
@@ -26308,17 +26308,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thanks for inviting me, @.$1"
+                  "Text": "Merci de m'avoir invité, @.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*yawn*$6"
+                  "Text": "*baille*$6"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*yawn* that was kinda boring.$0#$e#Oh! Um. I enjoyed the movie!$3#$e#...$3",
+                  "Text": "*baille* tle chapeau était plutôt ennuyeux.$0#$e#Oh! Hum. j'ai apprécié le film!$3#$e#...$3",
                 }
               },
               "ID": "reaction_2"
@@ -26331,7 +26331,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "People are staring at my hat.$8"
+                  "Text": "Les gens regardent mon chapeau.$8"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -26341,7 +26341,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I was on the edge of my seat there at the end!$1"
+                  "Text": "A la fin j'étais sur le bord de mon siège!$1"
                 }
               },
               "ID": "reaction_3"
@@ -26354,7 +26354,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "People are staring at my hat.$8"
+                  "Text": "Les gens regardent mon chapeau.$8"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -26364,7 +26364,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie! I can't wait to tell Magnus about it!$1"
+                  "Text": "C'était un bon film! J'ai hâte d'en parler à Magnus!$1"
                 }
               },
               "ID": "reaction_4"
@@ -26377,7 +26377,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Can we play the 'crane game'?$1#$e#I could use a little magic to 'sweeten the odds'.$7"
+                  "Text": "Pouvons-nous jouer au 'jeu de la grue'?$1#$e#Je pourrais utiliser un peu de magie pour 'augmenter les chances'.$7"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
@@ -26388,7 +26388,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thank you for the invite, @!$1"
+                  "Text": "Merci pour l'invitation, @!$1"
                 }
               },
               "ID": "reaction_5"
@@ -26401,17 +26401,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Can we play the 'crane game'?$1"
+                  "Text": "Pouvons-nous jouer au 'jeu de la grue'?$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*yawn*$6",
+                  "Text": "*baille*$6",
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Um. Thanks, @.$0"
+                  "Text": "Hum. Merci, @.$0"
                 }
               },
               "ID": "reaction_6"
@@ -26442,7 +26442,7 @@
         "Spouse |contains=Wizard": false
       },
       "Entries": {
-        "5978924/y 3/d Mon Tue/e 1724095": "none/-500 -500/farmer 64 14 2 Wizard 64 16 0/skippable/pause 1000/speak Wizard \"Greetings, @. I have news from the Ferngill Republic Ministry of Magic.$0#$b#They've assigned me a pupil to train in the elementals. Their name is Morgan.\"/pause 800/speak Wizard \"There was already someone in the valley I would have taught magic to...#$b#But the ministry has spoken. I must do as they command.$0\"/pause 700/faceDirection Wizard 1 true/pause 250/faceDirection Wizard 2 true/pause 500/speak Wizard \"Morgan arrives tomorrow.$0#$b#That is all.$0\"/pause 800/showFrame Wizard 0/pause 500/showFrame Wizard 16/pause 600/screenFlash 2/warp Wizard -100 -100/playSound wand/pause 700/globalFade/viewport -1000 -1000/stopMusic/pause 1000/message \"Someone new is arriving in the valley tomorrow!\"/pause 1000/end dialogue Wizard \"Morgan's family made the request to visit once a season, but I denied it.#$e#Allow me to explain.#$b#Mages take an oath to follow the 'Merlin Doctrine'.#$b#The Ministry of Magic has the final say in all things.#$e#Now, I must prepare their reading material.\""
+        "5978924/y 3/d Mon Tue/e 1724095": "none/-500 -500/farmer 64 14 2 Wizard 64 16 0/skippable/pause 1000/speak Wizard \"Salutations, @. J'ai des nouvelles du Ministère de la Magie de la République de Ferngill.$0#$b#Ils m'ont assigné un élève pour l'entraîner aux élémentaires. Ils s'appelle Morgan.\"/pause 800/speak Wizard \"Il y avait déjà quelqu'un dans la vallée à qui j'aurais voulu enseigné la magie...#$b#Mais le ministère a parlé. Je dois faire ce qu'ils ordonnent.$0\"/pause 700/faceDirection Wizard 1 true/pause 250/faceDirection Wizard 2 true/pause 500/speak Wizard \"Morgan arrive demain.$0#$b#C'est tout.$0\"/pause 800/showFrame Wizard 0/pause 500/showFrame Wizard 16/pause 600/screenFlash 2/warp Wizard -100 -100/playSound wand/pause 700/globalFade/viewport -1000 -1000/stopMusic/pause 1000/message \"Quelqu'un de nouveau arrivera demain dans la vallée!\"/pause 1000/end dialogue Wizard \"La famille de Morgan a fait une demande de visite d'une fois par saison, mais je l'ai refusée.#$e#Laisse moi t'expliquer.#$b#Les mages prêtent serment de suivre la 'Doctrine de Merlin'.#$b#Le Ministère de la Magie a le dernier mot sur toutes choses.#$e#Maintenant, je dois préparer leur matériel de lecture.\""
       },
     },
     { //player is married to Wizard and Morgan arrives 
@@ -26452,7 +26452,7 @@
         "Spouse |contains=Wizard": true
       },
       "Entries": {
-        "5978924/y 3/d Mon Tue/e 1724095/t 600 2600": "none/-500 -500/farmer -20 -20 0 Wizard -21 -21 0/skippable/pause 1000/speak Wizard \"My dearest, I've returned from the Ferngill Republic Ministry of Magic.$0#$b#I bring important news. They've assigned me a pupil to train in the elementals. Their name is Morgan.$0#$b#I would have preferred to teach you magic...#$b#But the ministry has spoken. I must do as they command.#$b#Morgan will arrive tomorrow.$0\"/pause 500/end dialogue Wizard \"Morgan's family made the request to visit once a season, but I denied it.#$e#Allow me to explain.#$b#Mages take an oath to follow the 'Merlin Doctrine'.#$b#The Ministry of Magic has the final say in all things.#$e#Now, I must prepare their reading material.#$e#I'm somewhat excited. I've never had a pupil before. This feel likes a new chapter in my life.$1\""
+        "5978924/y 3/d Mon Tue/e 1724095/t 600 2600": "none/-500 -500/farmer -20 -20 0 Wizard -21 -21 0/skippable/pause 1000/speak Wizard \"Ma chérie, je reviens du ministère de la magie de la République de Ferngill.$0#$b#J'apporte des nouvelles importantes. Ils m'ont assigné un élève pour l'entraîner aux élémentaires. Ils s'appelle Morgan.$0#$b#J'aurais préféré t'apprendre la magie à toi...#$b#Mais le ministère a parlé. Je dois faire ce qu'ils ordonnent.#$b#Morgan arrivera demain.$0\"/pause 500/end dialogue Wizard \"La famille de Morgan a fait une demande de visite d'une fois par saison, mais je l'ai refusée.#$e#Laisse moi t'expliquer.#$b#Les mages prêtent serment de suivre la 'Doctrine de Merlin'.#$b#Le Ministère de la Magie a le dernier mot sur toutes choses.#$e#Maintenant, je dois préparer leur matériel de lecture.#$e#Je suis un peu excité. Je n'ai jamais eu d'élève auparavant. Ce sentiment ressemble à un nouveau chapitre dans ma vie.$1\""
       },
     },
     { //MORGAN SPAWNS NEXT DAY - Razolyn the Magnificent Compatibility patch

@@ -20993,14 +20993,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "I must say, I'm looking forward to seeing Willy show off his fishing skills.$1#$b#You can tell how talented he is. He's been fishing all of his life!$3"
+        "Victor": "Je dois dire que je suis impatient de voir Willy montrer ses talents de pêcheur.$1#$b#Vous pouvez dire à quel point il est doué. Il a pêcher toute sa vie!$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "Good luck in the fishing contest, sweetheart. You're going to do great!$4#$e#I'll be cheering for you!$1"
+        "Victor": "Bonne chance au concours de pêche, jolie coeur. tu vas gagner!$4#$e#je t'encouragerai!$1"
       },
       "When": {
         "Spouse": "Victor"
@@ -22513,7 +22513,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Olivia": "Brr... I should have worn an extra layer.$2#$e#Are you participating in the fishing competition?$3"
+        "Olivia": "Brr... J'aurais dû en mettre une couche supplémentaire.$2#$e#Participez-vous au concours de pêche?$3"
       }
     },
     {
@@ -22747,7 +22747,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Andy": "Now this is something I really love! Thank you!/346 459 303 240 611/This ain't that bad. Thank you kindly for the gift!/167 296 20 18 16 396 410 420 422 416 414/What in tarnation is this? I don't like it!/60 62 64 66 68 70 72 80 82 84 86 418 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578/Am I some kind of joke to you? Get this horrible thing away from me. Now./350 348 74/Thanks for the gift./398 404 446 395 373/"
+        "Andy": "Maintenant, c'est quelque chose que j'aime vraiment ! Merci!/346 459 303 240 611/Ce n'est pas si mal. Merci bien pour le cadeau!/167 296 20 18 16 396 410 420 422 416 414/Qu'est-ce que c'est que ça? je n'aime pas ça!/60 62 64 66 68 70 72 80 82 84 86 418 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578/Suis-je une sorte de plaisanterie pour vous ? Éloignez-moi de cette horrible chose. Maintenant./350 348 74/Merci pour le cadeau./398 404 446 395 373/"
       }
     },
     {
@@ -22862,13 +22862,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Heard about this here movie on the radio. Suppose' to be good!$0"
+                  "Text": "J'ai entendu parler de ce film ici à la radio. Supposons qu'il soit bon!$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now that is what I call a movie. Thank you kindly for invitin' me!$1"
+                  "Text": "Voilà ce que j'appelle un film. Merci de m'avoir invité!$1"
                 }
               },
               "ID": "reaction_3"
@@ -22881,13 +22881,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a mighty good show.$1"
+                  "Text": "C'était un très bon spectacle.$1"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Heh. Film was alright. Actin' could use some work.$1"
+                  "Text": "Heh. Le film était correct. L'acteur aurait besoin d'un peu de travail.$1"
                 }
               },
               "ID": "reaction_4"
@@ -22900,13 +22900,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Suppose I will give this genre a shot...$2"
+                  "Text": "Supposons que je vais donner une chance à ce genre...$2"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Was not a fan of that film. Brought back some memories I don't want to be doin' any thinkin' about...$2"
+                  "Text": "Je n'étais pas fan de ce film. ça m'a rappelé quelques souvenirs auxquels je ne voulait pas penser...$2"
                 }
               },
               "ID": "reaction_5"
@@ -22920,7 +22920,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Andy": "The food at these festivals ain't so bad.$1#$e#It'd taste even better if Pierre and Lewis used my crops.$2"
+        "Andy": "La nourriture de ce festival n'est pas si mal.$1#$e#Ça aurait encore meilleur goût si Pierre et Lewis utilisaient mes cultures.$2"
       }
     },
     //FLOWER DANCE
@@ -22928,7 +22928,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Andy": "I found some leeks durin' our walk over here! This stuff is better than most of the food here.$1#$e#Nothin' like some ale with a leek.$0"
+        "Andy": "J'ai trouvé des poireaux lors de notre promenade! Ce truc est meilleur que la plupart des plats ici.$1#$e#Rien de tel qu'une bière avec un poireau.$0"
       }
     },
     //LUAU
@@ -22936,7 +22936,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Andy": "Mayor Lewis has been chattin' up the governor this entire festival. What are those two talkin' about?$2#$e#I hope they're not talkin' bout me. He's probably got nothin' good to say.$2"
+        "Andy": "Le maire Lewis a bavardé avec le gouverneur pendant tout le festival. De quoi ces deux-là parlent-ils?$2#$e#J'espère qu'ils ne parlent pas de moi. Il n'a sans doute rien de bon à dire.$2"
       }
     },
     //DANCE OF THE MOONLIGHT JELLIES
@@ -22944,7 +22944,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Andy": "If these jellies don't show in the next 10 minutes, I'm gettin' outta here. Wastin' my evening.$2",
+        "Andy": "Si ces gelées n'apparaissent pas dans les 10 prochaines minutes, je pars d'ici. Je gâche ma soirée.$2",
       }
     },
     //STARDEW VALLEY FAIR
@@ -22952,7 +22952,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Andy": "I know I don't have a snowball's chance in you-know-where at winnin'. Just wanna show everyone how hard I've been workin' this season.$0#$e#I pride myself in what I do.$1",
+        "Andy": "Je sais que je n'ai aucune chance de gagner. Je veux juste montrer à tout le monde à quel point j'ai travaillé dur cette saison.$0#$e#Je suis fier de ce que je fais.$1",
       }
     },
     //SPIRITS EVE FESTIVAL
@@ -22960,7 +22960,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Andy": "Pierre's spiced pumpkin cider is amazin'! I wish he'd let me buy it off of him!$1#$e#He should at least sell some of it to Gus so I can get it at the saloon.$2#$e#Good luck in that there maze, farmer. I've heard some screams comin' from that direction.$0",
+        "Andy": "Le cidre de citrouille épicé de Pierre est incroyable! J'aimerais qu'il me laisse le lui en acheter!$1#$e#Il devrait au moins en vendre une partie à Gus pour que je puisse en obtenir au saloon..$2#$e#Bonne chance dans ce labyrinthe, fermier. J'ai entendu des cris venant de cette direction.$0",
       }
     },
     {
@@ -22970,7 +22970,7 @@
         "IsOddYear": false
       },
       "Entries": {
-        "Andy": "These here sauteed mushrooms are amazin'. Gus really outdid himself.$0#$e#I heard somethin' about the town fountain missin'...$2",
+        "Andy": "Ce sautés de champignons est incroyables'. Gus s'est vraiment surpassé.$0#$e#J'ai entendu dire que la fontaine de la ville manquait'...$2",
       }
     },
     //ICE FISHING FESTIVAL
@@ -22978,7 +22978,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Andy": "I overheard Willy talkin' about you. It'll be a close match between you two.$0#$e#Good luck fishin', @.$1"
+        "Andy": "J'ai entendu Willy parler de toi. Ce sera un match serré entre vous deux.$0#$e#Bonne chance à la pêche', @.$1"
       }
     },
     //WINTER STAR FESTIVAL
@@ -22986,7 +22986,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Andy": "Best part about today is the free food and drink. Don't care much about gift givin'.$2"
+        "Andy": "La meilleure partie de la journée est la nourriture et les boissons gratuites. Je ne me soucie pas beaucoup des cadeaux'.$2"
       }
     },
     //ANDY 1/2 Heart event - 'Strawberries'
@@ -27005,7 +27005,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/Winter8",
       "Entries": {
-        "Wizard": "There's a significant concentration of mana in this spot. I must analyze its origin.$0#$e#You should head back to the others, @.$0",
+        "Wizard": "Il y a une concentration importante de mana à cet endroit. Il faut que j'analyse son origine.$0#$e#Tu devrais retourner avec les autres, @.$0",
       }
     },
     //WIZARD SCHEDULE: Morgan = 'true'
@@ -28288,322 +28288,322 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Elliott",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Demetrius",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Dwarf",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/George",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jas",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Krobus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leo",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Linus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Marnie",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pam",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sandy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Vincent",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Willy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sophia",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Olivia",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Victor",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Andy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Susan",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Morgan",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Apples",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarlonFay",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/GuntherSilvian",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Claire",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Martin",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Lewis",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MorrisTod",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%I shouldn't gift this..."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Mermaid's Bracelet}}": "%Je ne devrais pas offrir çela..."
       }
     },
     //*** Load temporary actors for wizard 14 heart event***
@@ -28774,7 +28774,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Wizard": "Ah, hello, dearest! Are you enjoying the festivities?$1#$e#I don't come into town to mingle with the residents. This is a good change of pace for me.$0"
+        "Wizard": "Ah, Bonjour mon cher! Appréciez-vous les festivités?$1#$e#Je ne viens pas souvent en ville pour me mêler aux habitants. C'est pour moi un bon changement de rythme.$0"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28830,7 +28830,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Wizard": "I usually find a spot on the cliff and observe the flower dance from afar, but I have a feeling that you won't let me get away with that.$1#$e#If you wish to take my hand in dance, I'll be happy to oblige.$4"
+        "Wizard": "Je trouve généralement un endroit sur la falaise et j'observe de loin la danse des fleurs, mais j'ai le sentiment que vous ne me laisserez pas m'en tirer comme ça.$1#$e#Si vous souhaitez prendre ma main pour la danse, je serai heureux d'accepter.$4"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28841,7 +28841,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Wizard": "Can you feel them, dearest? The ocean creatures are alerted to the human presence on the beach.$0#$e#Go and enjoy the festivities. I shall join you later.$0#$b#Also.. err. Save me some of that roasted ham Linus is cooking up, will you?$1"
+        "Wizard": "Peux-tu les sentir, très chère ? Les créatures de l'océan sont alertées de la présence humaine sur la plage.$0#$e#Va et profite des festivités. je te rejoins plus tard.$0#$b#Aussi... euh. Garde-moi un peu de ce jambon rôti que Linus est en train de cuisiner, veux-tu?$1"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28852,7 +28852,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Wizard": "I prefer this spot in the shade to being out in the moonlight. Eyes aren't required to experience the Lunaloos' arrival.#$e#The Lunaloos... or 'Moonlight Jellies', as they're more commonly known, possess an unusually potent magical aura for an aquatic life form.$0"
+        "Wizard": "Je préfère cet endroit à l'ombre que d'être au clair de lune. Il n'est pas nécessaire d'avoir des yeux pour vivre l'arrivée des Lunaloos.#$e#Les Lunaloos... ou 'Méduse clair de lune', comme on les appelle plus communément, possèdent une aura magique exceptionnellement puissante pour une forme de vie aquatique.$0"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28863,7 +28863,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Wizard": "*sniff sniff* Something in the fall air smells both delicious and fried. Perhaps I should... investigate.$0#$e#I believe it's coming from the town fountain.$1"
+        "Wizard": "*sniff sniff* Quelque chose dans l'air sent à la fois délicieux et frit. Je devrais peut-être... enquêter.$0#$e#Je crois que ça vient de la fontaine de la ville.$1"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28874,7 +28874,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Wizard": "This is the one day out of the year where I get to show the town my full power as Stardew Valley's resident magic practitioner.$0#$b#Say, are you impressed with this year's maze?$1#$e#It took a great deal of time and energy to summon it...$2"
+        "Wizard": "C'est le seul jour de l'année où je peux montrer à la ville tout mon pouvoir en tant que sorcier résident de Stardew Valley.$0#$b#Dites, êtes-vous impressionné par le labyrinthe de cette année?$1#$e#Il a fallu beaucoup de temps et d'énergie pour l'invoquer...$2"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28885,7 +28885,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Wizard": "Oh, @! I'm overjoyed to see you here.$1#$e#Perhaps after the festivities are over, I can show you the arcane potential this particular spot holds...$4"
+        "Wizard": "Oh, @! Je suis ravi de te voir ici.$1#$e#Peut-être qu'une fois les festivités terminées, je pourrai vous montrer le potentiel arcanique que recèle cet endroit...$4"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28911,7 +28911,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Wizard": "Linus is a close and dear friend of mine. He doesn't feel comfortable at the plaza, so I'm here to accompany him.$0#$e#Spread joy wherever you can, dearest.$1"
+        "Wizard": "Linus est un ami proche et cher à moi. Il ne se sent pas à l'aise sur la place, alors je suis là pour l'accompagner.$0#$e#Répandez la joie partout où vous le pouvez, très chère.$1"
       },
       "When": {
         "Spouse": "Wizard"
@@ -28937,7 +28937,7 @@
         "ApplesHere": "true"
       },
       "Entries": {
-        "Apples": "You give Apples starfruit!? Yay! Starfruit! Yummy!/268 434/This is good gift! Makes Apples happy!/394 392 578 486 74 373 797 446 444 279 417 454/Apples no understand what you give./-18 -15 -16 -5 -6 -7 -4 -28/Apples don't like it. Apples no understand.../286 287 288 441 167 168 169 170 171 172 178/Yay! Apples-friend give gift!/283 114 273 299 301 302 310 311 309 347 433 472 473 474 475 476 477 478 479 480 481 482 483 484 485 487 488 489 490 491 492 493 494 495 496 497 498 499 427 429 453 455 431 425 770 802 745 -74 -81/"
+        "Apples": "Tu donnes la carambole à Pomme!? Yay! Carambole! Délicieuse !/268 434/C'est bon cadeau! Rend Pomme heureux!/394 392 578 486 74 373 797 446 444 279 417 454/Pomme ne comprends pas ce que tu donnes./-18 -15 -16 -5 -6 -7 -4 -28/Pomme n'aime pas ça. Pomme ne comprends pas.../286 287 288 441 167 168 169 170 171 172 178/Yay! Pomme-ami donner cadeaux!/283 114 273 299 301 302 310 311 309 347 433 472 473 474 475 476 477 478 479 480 481 482 483 484 485 487 488 489 490 491 492 493 494 495 496 497 498 499 427 429 453 455 431 425 770 802 745 -74 -81/"
       }
     },
     {
@@ -29012,15 +29012,15 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Apples_EngagedRoommate": "You give Apples purple starfruit? Yay!#$b#Apples move in with you! Excited!$1#$e#Apples set up new home in good-friend's home in a few days.$0"
+        "Apples_EngagedRoommate": "Tu donnes carambole violette à Pomme? Yay!#$b#Pomme emménager avec toi! Excité !$1#$e#Pomme installer une nouvelle maison chez un bon ami dans quelques jours.$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "ApplesRoommate0": "Apples has many starfruit to carry to new home!$1",
-        "ApplesRoommate1": "Apples has many starfruit to carry to new home!$1"
+        "ApplesRoommate0": "Pomme a beaucoup de carambole à emporter dans sa nouvelle maison!$1",
+        "ApplesRoommate1": "Pomme a beaucoup de carambole à emporter dans sa nouvelle maison!$1"
       }
     },
     //Prevents players from gifting the super starfruit
@@ -29028,315 +29028,315 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Elliott",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Demetrius",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Dwarf",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/George",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jas",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Krobus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leo",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Linus",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Marnie",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pam",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sandy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Vincent",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Willy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sophia",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Olivia",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Victor",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Andy",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Susan",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Morgan",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarlonFay",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/GuntherSilvian",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Claire",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Martin",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Lewis",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MorrisTod",
       "Entries": {
-        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo."
+        "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%Je ne peux donner ça qu'à un Junimo."
       }
     },
     {
@@ -29354,17 +29354,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "No one see Apples! Only Apples-friend!$0"
+                  "Text": "Personne ne voit Pomme! Seulement ami de Pomme!$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's other friend! Yay!$1"
+                  "Text": "C'est l'autre ami! Yay!$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Fun! Fun! Take Apples again?"
+                  "Text": "Amusant! Amusant! Prends encore Pomme?"
                 }
               },
               "ID": "reaction_0"
@@ -29377,17 +29377,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "No one see Apples! Only Apples-friend!$0"
+                  "Text": "Personne ne voit Pomme! Seulement ami de Pomme!$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Apples scared...$2"
+                  "Text": "Pomme peur...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Apples no like scary moving pictures...$2"
+                  "Text": "Pomme n'aime pas les images animées effrayantes...$2"
                 }
               },
               "ID": "reaction_1"
@@ -29400,17 +29400,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah. This should be quite an interesting film.$1"
+                  "Text": "Ah. Cela devrait être un film intéressant.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is quite intriguing!$1"
+                  "Text": "C'est assez intrigant!$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Really puts the world in perspective. Do you think we'll ever visit the stars someday?$1"
+                  "Text": "Met réellement le monde en perspective. Penses-tu que nous visiterons les étoiles un jour?$1"
                 }
               },
               "ID": "reaction_2"
@@ -29423,7 +29423,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hurry! Apples want to watch moving pictures!#$e#No one here see Apples!$1"
+                  "Text": "Vite! Pomme veux regarder des images animées!#$e#Personne ne voit Pomme!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -29433,7 +29433,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Apples no understand moving pictures, but still fun!$1"
+                  "Text": "Pomme pas comprendre les images animées, mais toujours amusant!$1"
                 }
               },
               "ID": "reaction_3"
@@ -29446,7 +29446,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Apples curious about movie!$1"
+                  "Text": "Pomme curieux propos de film!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -29456,7 +29456,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Fun! Take Apples again!$1"
+                  "Text": "Fun! Prendre Pomme encore!$1"
                 }
               },
               "ID": "reaction_4"
@@ -29469,7 +29469,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "No one here see Apples!$1"
+                  "Text": "Personne ici, ne voit Pomme!$1"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
@@ -29488,7 +29488,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Apples-friend show moving pictures to Apples!$1"
+                  "Text": "Pomme-ami montre des images animées à Pomme!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -29498,7 +29498,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Apples no understand moving pictures.$0"
+                  "Text": "Pomme pas comprendre les images animées.$0"
                 }
               },
               "ID": "reaction_6"
@@ -29828,7 +29828,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Apples": "You find me! You win!#$e#You are good friend!$1"
+        "Apples": "Tu me trouves! Tu gagne!#$e#Tu es un bon ami!$1"
       }
     },
     //ICE FISHING FESTIVAL
@@ -29836,7 +29836,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Apples": "I follow humans into forest!#$b#Me curious what you all doing!$1#$e#People with funny hats can't see me!$1"
+        "Apples": "Je suis les humains en forêt!#$b#Je suis curieux de savoir ce que vous faites tous!$1#$e#Les gens avec des chapeaux drôles ne peuvent pas me voir!$1"
       }
     },
     /*
@@ -30067,21 +30067,21 @@
       "Action": "EditData",
       "Target": "data/events/Custom_HighlandsCavernPrison",
       "Entries": {
-        "55134259/e 55134261/k 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/removeItem {{spacechase0.JsonAssets/ObjectId:Golden Key}}/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"You're not one of them...#$b#Have you come to help me?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...You defeated that terrible monster and obtained the key to my prison?#$b#It must have been quite the fight...\"/pause 750/faceDirection farmer 1 true/pause 400/move farmer 2 0 0 true/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 350/faceDirection HighlandsDwarf 1 true/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"I can't recall how many moon phases have passed since my capture...#$b#My home... isn't what it once was...#$b#I shall find a new one.\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...Thank you.#$b#I shall find a way to repay you...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
+        "55134259/e 55134261/k 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/removeItem {{spacechase0.JsonAssets/ObjectId:Golden Key}}/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"Tu n'es pas l'un d'eux...#$b#Es-tu venu m'aider?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...Tu as vaincu ce terrible monstre et obtenu la clé de ma prison?#$b#Ça a dû être un sacré combat...\"/pause 750/faceDirection farmer 1 true/pause 400/move farmer 2 0 0 true/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 350/faceDirection HighlandsDwarf 1 true/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"Je ne me souviens pas combien d'années se sont écoulées depuis ma capture...#$b#Ma maison... n'est plus ce qu'elle était...#$b#j'en trouverai une nouvelle.\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...Merci.#$b#Je trouverai un moyen de te rembourser...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
       }
     },
     { //Highlands Dwarf event - first entry, player has no key
       "Action": "EditData",
       "Target": "data/events/Custom_HighlandsCavernPrison",
       "Entries": {
-        "55134260/k 55134259": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"You're not one of them...#$b#Have you come to help me?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...#$b#There's a terrible monster on the peak of this mountain...#$b#It has the key to my prison, along with many treasures it swallowed...#$b#You would need to defeat it...\"/pause 500/emote farmer 32/pause 400/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 500/move farmer 0 2 2 true/viewport move 0 1 1000 true/pause 400/speak HighlandsDwarf \"A word of caution...\"/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 500/speak HighlandsDwarf \"If it touches you, you'll surely be met with a horrible fate. Be careful...\"/pause 500/globalFade/viewport -1000 -1000/end position 19 22"
+        "55134260/k 55134259": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"Tu n'es pas l'un d'eux...#$b#Es-tu venu m'aider?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...#$b#Il y a un terrible monstre au sommet de cette montagne...#$b#Il a la clé de ma prison, avec de nombreux trésors qu'il a engloutis...#$b#Vous devez le vaincre...\"/pause 500/emote farmer 32/pause 400/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 500/move farmer 0 2 2 true/viewport move 0 1 1000 true/pause 400/speak HighlandsDwarf \"Un mot d'avertissement...\"/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 500/speak HighlandsDwarf \"S'il vous touche, vous subirez sûrement un sort horrible. Faites attention...\"/pause 500/globalFade/viewport -1000 -1000/end position 19 22"
       }
     },
     { //Highlands Dwarf event - second entry, player has the key
       "Action": "EditData",
       "Target": "data/events/Custom_HighlandsCavernPrison",
       "Entries": {
-        "55134259/e 55134261/e 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 2/removeItem {{spacechase0.JsonAssets/ObjectId:Golden Key}}/changeLocation Custom_HighlandsCavernPrisonEvent/positionOffset DwarfPrisonDoor 0 -14 true/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/move farmer 2 0 0/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 250/move HighlandsDwarf 0 1 1/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"I can't recall how many moon phases have passed since my capture...#$b#My home... isn't what it once was...#$b#I shall find a new one.\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...Thank you.#$b#I shall find a way to repay you...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
+        "55134259/e 55134261/e 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 2/removeItem {{spacechase0.JsonAssets/ObjectId:Golden Key}}/changeLocation Custom_HighlandsCavernPrisonEvent/positionOffset DwarfPrisonDoor 0 -14 true/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/move farmer 2 0 0/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 250/move HighlandsDwarf 0 1 1/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"Je ne me souviens pas combien d'années se sont écoulées depuis ma capture...#$b#Ma maison... n'est plus ce qu'elle était...#$b#je vais en trouver une nouvelle.\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...Thank you.#$b#Je trouverai un moyen de te rembourser...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
       }
     },
     {
@@ -30123,7 +30123,7 @@
         "HasSeenEvent": "55134259"
       },
       "Entries": {
-        "55134263": "continue/-500 -500/farmer 129 139 0 HighlandsDwarf -30 -30 -30/addConversationTopic highlandsDwarf 10/skippable/viewport 129 135 true/viewport move 0 -1 4000 true/move farmer 0 -8 0 true/pause 4750/faceDirection farmer 3 true/pause 800/emote farmer 8 true/pause 200/globalFade/viewport -1000 -1000/warp farmer 116 135/faceDirection farmer 0 true/positionOffset farmer -25 -10 true/viewport 116 134 true/pause 1500/speak HighlandsDwarf \"Ah. You've returned...#$b#I decided to make this ravine my new home. It's rich in ore and has a pretty view...\"/pause 1000/speak HighlandsDwarf \"Do you want to buy anything?...\"/pause 500/globalFade/viewport -1000 -1000/pause 300/end position 116 135"
+        "55134263": "continue/-500 -500/farmer 129 139 0 HighlandsDwarf -30 -30 -30/addConversationTopic highlandsDwarf 10/skippable/viewport 129 135 true/viewport move 0 -1 4000 true/move farmer 0 -8 0 true/pause 4750/faceDirection farmer 3 true/pause 800/emote farmer 8 true/pause 200/globalFade/viewport -1000 -1000/warp farmer 116 135/faceDirection farmer 0 true/positionOffset farmer -25 -10 true/viewport 116 134 true/pause 1500/speak HighlandsDwarf \"Ah. Vous êtes de retour...#$b#J'ai décidé de faire de ce ravin ma nouvelle maison. Il est riche en minerai et offre une jolie vue...\"/pause 1000/speak HighlandsDwarf \"Voulez-vous acheter quelque chose?...\"/pause 500/globalFade/viewport -1000 -1000/pause 300/end position 116 135"
       }
     },
     //CLAIRE NPC
@@ -30140,7 +30140,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Claire": "Oh! I love it. Thank you so much!/614 349 421 618 634 560/Thank you./613 635 636 637 638 88 90 607 815 408 395/Only if you insist.../396 16 152 153 218 219 226 296 309 310 311 283 346 459 303 304/Please... take it away./167 342 412 416 330 372 723 722 721 720 718 717 716 715 233/Oh, for me? Thank you./394 393 392 406 410 414/"
+        "Claire": "Oh! J'aime cela. Merci Beaucoup!/614 349 421 618 634 560/Merci./613 635 636 637 638 88 90 607 815 408 395/Uniquement si vous insistez.../396 16 152 153 218 219 226 296 309 310 311 283 346 459 303 304/S'il vous plaît... emportez-le plus loin./167 342 412 416 330 372 723 722 721 720 718 717 716 715 233/Oh, pour moi? Merci./394 393 392 406 410 414/"
       }
     },
     {
@@ -30538,10 +30538,10 @@
       "Action": "EditData",
       "Target": "strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5367": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Claire in the bonds of marriage.",
-        "Utility.cs.5369": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Claire in the bonds of marriage.",
-        "Utility.cs.5371": "@... Claire... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
-        "Utility.cs.5377": "@... Claire... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",
+        "Utility.cs.5367": "Lorsque @ est arrivé pour la première fois à Pélican Ville, personne ne savait s'il s'intégrerait à notre communauté..#$b#Mais à partir d'aujourd'hui, @ va faire autant partie de cette ville que n'importe lequel d'entre nous!$h#$b#C'est un grand honneur en ce jour {0} de {1}, d'unir @ et Claire par les liens sacré du mariage.",
+        "Utility.cs.5369": "Lorsque @ est arrivé pour la première fois à Pélican Ville, personne ne savait si elle s'intégrerait à notre communauté...#$b#Mais à partir d'aujourd'hui, @ iva faire autant partie de cette ville que n'importe lequel d'entre nous!$h#$b#C'est un grand honneur en ce jour {0} de {1}, d'unir @ et Claire par les liens sacré du mariage.",
+        "Utility.cs.5371": "@... Claire... #$b# En tant que maire de Pélican Ville, et porteur régional du sceau matrimonial, je vous déclare mari et femme!$h",
+        "Utility.cs.5377": "@... Claire... #$b# En tant que maire de Pélican Ville, et porteur régional du sceau matrimonial, je vous déclare maintenant femme et..., eh bien, femme!$h",
       },
       "When": {
         "Relationship:Claire": "Engaged"
@@ -30555,9 +30555,9 @@
         "HasSeenEvent |contains=191393": false
       },
       "Entries": {
-        "Mon": "I work most of the cashier shifts at Joja Mart. It's a pretty easy job.$1",
-        "summer_Sun": "If you want air conditioning, Joja Mart has you covered.$1#$e#It's a little too cold for me though.$2",
-        "winter_Wed": "Working at Joja Mart has its perks. I get 10 percent off each purchase.$1#$e#Have you tried any frozen Joja meals?$1",
+        "Mon": "Je travaille la plupart de mes postes de caissier chez Joja Mart. C’est un travail assez facile.$1",
+        "summer_Sun": "Si vous voulez la climatisation, Joja Mart a ce qu'il vous faut.$1#$e#il fait un peu trop froid pour moi avec la clim.$2",
+        "winter_Wed": "Travailler chez Joja Mart a ses avantages. Je reçois 10% de réduction sur chaque achat.$1#$e#Avez-vous essayé les plats surgelés Joja?$1",
       }
     },
     {
@@ -30569,14 +30569,14 @@
         "HasSeenEvent": "191393"
       },
       "Entries": {
-        "Mon8": "Hey @. Here's a free movie ticket![809]$6#$e#The showings this week are incredible.$1",
-        "Thu4": "I've never worked somewhere as nice as the theater.$1#$e#I look forward to seeing the birds everyday!$5",
-        "Sat8": "There's a family of blue jays nesting in a tree near the movie theater.$1#$e#Birds are majestic creatures, wouldn't you agree?$5",
-        "summer_1": "I'm so glad it's summer...$1",
-        "summer_10": "The air conditioning at the theater is perfect.$0",
-        "summer_Wed4": "I can recommend some movies you should see...$1",
-        "fall_Tue4": "Leaves keep finding their way into the theater and I have to sweep...$0#$e#Sometimes the birds help.$1",
-        "winter_Sun4": "There aren't many jobs where I live. When the position opened up at the movie theater, I took it!$1#$e#It's fun working there...$1",
+        "Mon8": "Salut @. Voici un billet de cinéma gratuit![809]$6#$e#Les séances de cette semaine sont incroyables.$1",
+        "Thu4": "Je n'ai jamais travaillé dans un endroit aussi sympa qu'au théâtre.$1#$e#Je suis impatient de voir les oiseaux tous les jours!$5",
+        "Sat8": "Il y a une famille de geais bleus qui nichent dans un arbre près du cinéma.$1#$e#Les oiseaux sont des créatures majestueuses, n'est-ce pas?$5",
+        "summer_1": "Je suis si contente que ce soit l'été...$1",
+        "summer_10": "L'air conditionné au théâtre est parfait.$0",
+        "summer_Wed4": "Je peux vous recommander quelques films que vous devriez voir...$1",
+        "fall_Tue4": "Les feuilles continuent de se frayer un chemin dans le théâtre et je dois balayer...$0#$e#Les oiseaux aident parfois.$1",
+        "winter_Sun4": "Il n'y a pas beaucoup de travail ici où je vis. Lorsque le poste s'est libérer au cinéma, je l'ai prise!$1#$e#C'est amusant d'y travailler...$1",
       }
     },
     {
@@ -30584,8 +30584,8 @@
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "Claire0": "This is the start of something wonderful...$4",
-        "Claire1": "This is the start of something wonderful...$4"
+        "Claire0": "C'est le début de quelque chose de magnifique...$4",
+        "Claire1": "C'est le début de quelque chose de magnifique...$4"
       }
     },
     //Claire's Marriage Schedule Dialogue
@@ -30596,8 +30596,8 @@
         "Date": "Spring 1"
       }, //Mon
       "Entries": {
-        "funReturn_Claire": "Work was exhausting today... but I did talk to some interesting people.",
-        "funLeave_Claire": "Happy new year. I have a feeling this year will be eventful...$1"
+        "funReturn_Claire": "Le travail a été épuisant aujourd'hui... mais j'ai parlé avec des gens intéressants.",
+        "funLeave_Claire": "Bonne année. Je sens que cette année va être mouvementée...$1"
       }
     },
     {
@@ -30607,8 +30607,8 @@
         "Date": "Spring 2"
       }, //Tue
       "Entries": {
-        "funReturn_Claire": "How was your day, dear?$1",
-        "funLeave_Claire": "Good morning. I got up early and made coffee. [395]$1"
+        "funReturn_Claire": "Comment s'est passée ta journée, cher?$1",
+        "funLeave_Claire": "Bonjour. Je me suis levé tôt et j'ai fait du café. [395]$1"
       }
     },
     {
@@ -30618,8 +30618,8 @@
         "Date": "Spring 3"
       }, //Wed
       "Entries": {
-        "funReturn_Claire": "I met some interesting people at work. Someone traveled from Zuzu city!$5",
-        "funLeave_Claire": "I'm going to work soon. What will you be doing today?$1"
+        "funReturn_Claire": "J'ai rencontré des gens intéressants au travail. Quelqu'un venait de Zuzu Ville!$5",
+        "funLeave_Claire": "Je vais bientôt travailler. Que vas-tu faire aujourd'hui?$1"
       }
     },
     {
@@ -30630,8 +30630,8 @@
         "HasSeenEvent |contains=4269704": true
       },
       "Entries": {
-        "funReturn_Claire": "I met some interesting people at work. Someone traveled all the way from Pine Mesa city!$5",
-        "funLeave_Claire": "I have a photoshoot in the city today.$5#$e#What will you be doing while I'm gone?$1"
+        "funReturn_Claire": "J'ai rencontré des gens intéressants au travail. Quelqu'un venait de la ville de Pine Mesa!$5",
+        "funLeave_Claire": "J'ai un shooting en ville aujourd'hui.$5#$e#Que feras-tu pendant mon absence?$1"
       }
     },
     {
@@ -30641,8 +30641,8 @@
         "Date": "Spring 4"
       }, //Thu
       "Entries": {
-        "funReturn_Claire": "My skin is getting a bit pale... a little sunshine should help.$1",
-        "funLeave_Claire": "What's on the calendar today for you?$1#$e#Sounds fun!$5"
+        "funReturn_Claire": "Ma peau pâlit un peu... un peu de soleil devrait m'aider.$1",
+        "funLeave_Claire": "Qu'y a-t-il de beau sur le calendrier aujourd'hui pour vous?$1#$e#Ça a l'air amusant!$5"
       }
     },
     {
@@ -30652,8 +30652,8 @@
         "Date": "Spring 7"
       }, //Sun
       "Entries": {
-        "funReturn_Claire": "Welcome home! How was your day?$1",
-        "funLeave_Claire": "The smell of breakfast woke you? Well, dig in! [201 195 194 210 211]$5#$e#I made it the way you like it...$1"
+        "funReturn_Claire": "Bienvenue à la maison! Comment s'est passée ta journée?$1",
+        "funLeave_Claire": "L'odeur du petit déjeuner ta réveillé ? Eh bien, mangez! [201 195 194 210 211]$5#$e#Je l'ai fait comme tu l'aimes...$1"
       }
     },
     {
@@ -30663,8 +30663,8 @@
         "Date": "Spring 8"
       }, //Mon
       "Entries": {
-        "funReturn_Claire": "You always watch out for me. It's very encouraging...$1",
-        "funLeave_Claire": "Good morning. You managed to roll out of bed...$1#$e#I have work today. Visit me if you have the time!$6"
+        "funReturn_Claire": "Tu veilles toujours sur moi. C'est très encourageant...$1",
+        "funLeave_Claire": "Bonjour. Tu as réussi à sortir du lit...$1#$e#J'ai du boulot aujourd'hui. Viens me voir si tu as le temps!$6"
       }
     },
     {
@@ -31509,11 +31509,11 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Claire_TheaterMessage_Monday": "Hi! Can I get you anything?$1",
-        "Claire_TheaterMessage_Wednesday": "I see movies for free!$1#$b#Perks of working here!$5",
-        "Claire_TheaterMessage_Thursday": "Let me know if you want any concessions.$1",
-        "Claire_TheaterMessage_Friday": "Management here is much better than Joja...$5",
-        "Claire_TheaterMessage_Sunday": "The wildlife adds to the atmosphere of the theater.$1#$b#It's 'magical'!$5"
+        "Claire_TheaterMessage_Monday": "Bonjour! Puis-je vous offrir quelque chose?$1",
+        "Claire_TheaterMessage_Wednesday": "Je vois des films gratuitement!$1#$b#Avantages de travailler ici!$5",
+        "Claire_TheaterMessage_Thursday": "Faites-moi savoir si vous voulez des concessions.$1",
+        "Claire_TheaterMessage_Friday": "La gestion ici est bien meilleure que celle de chez Joja...$5",
+        "Claire_TheaterMessage_Sunday": "La vie sauvage ajouté à l'atmosphère du théâtre.$1#$b#C'est 'magique'!$5"
       }
     },
     {
@@ -31792,7 +31792,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Claire": "Not a cloud in the sky. The weather today is perfect.$1#$e#*sips juice*$5"
+        "Claire": "Pas un nuage dans le ciel. Le temps aujourd'hui est parfait.$1#$e#*sirote du jus*$5"
       },
       "When": {
         "Spouse": "Claire"
@@ -31803,14 +31803,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Claire": "The flowers here are beautiful. There's such a large variety.$1"
+        "Claire": "Les fleurs ici sont magnifiques. Il y a tellement de variété.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Claire": "I've been practicing the flower dance in preparation for today.$6#$e#Um. Are you ready?$4"
+        "Claire": "J'ai préparer ma pratique de la danse des fleurs pour aujourd'hui.$6#$e#Hum. Tu est prêt?$4"
       },
       "When": {
         "Spouse": "Claire"
@@ -31821,14 +31821,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Claire": "%She's lost in a trance."
+        "Claire": "%Elle est en transe."
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Claire": "Come dance with me, dear.$4#$e#Hehe!$7"
+        "Claire": "Viens danser avec moi, mon cher.$4#$e#Hehe!$7"
       },
       "When": {
         "Spouse": "Claire"
@@ -31839,14 +31839,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Claire": "Is it just me, or is it getting colder?$2#$e#I should've layered up more...$0",
+        "Claire": "Est-ce juste moi, ou est-ce qu'il fait de plus en plus froid?$2#$e#j'aurais dû mettre plus de couches de vêtements...$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Claire": "Is it just me, or is it getting colder?$2#$b#I should've layered up more...$0#$e#Maybe we can cuddle together in bed when we get back...$5"
+        "Claire": "Est-ce juste moi, ou est-ce qu'il fait de plus en plus froid?$2#$b#j'aurais dû mettre plus de couches de vêtements...$0#$e#Peut-être que nous pourrons nous blottir l'un contre l'autre,dans le lit quand nous rentrerons...$5"
       },
       "When": {
         "Spouse": "Claire"
@@ -31857,14 +31857,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Claire": "These hens are adorable...$5#$e#They're from Marnie's Ranch you say?$1",
+        "Claire": "Ces poules sont adorables...$5#$e#Elles viennent du Ranch de Marnie tu dis?$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Claire": "Is your grange display ready, dear?$1#$e#Don't mind me! I'm just admiring Marnie's farm animals.$5"
+        "Claire": "Ton présentoir de grange est-il prêt ?$1#$e#Ne m'en veux pas! J'admire juste les animaux de Marnie.$5"
       },
       "When": {
         "Spouse": "Claire"
@@ -31875,14 +31875,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Claire": "This hand-crafted grape juice from Blue Moon Vineyard is tempting...$1",
+        "Claire": "Ce jus de raisin artisanal du Vignoble de Blue Moon est tentant...$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Claire": "Spreading goat butter on these pumpkin roles gives them an appetizing taste.$5#$e#You look nice tonight...$1"
+        "Claire": "Étaler du beurre de chèvre sur ces potirons leur donne un goût appétissant.$5#$e#Tu es beau ce soir...$1"
       },
       "When": {
         "Spouse": "Claire"
@@ -31893,14 +31893,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Claire": "So... c-cold...$2"
+        "Claire": "Si... f-froid...$2"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Claire": "H-hello, d-dear. V-very chilly today...$2#$e#%You hug Claire and warm her.#$e#...$4#$b#Um. Good luck ice fishing.$7"
+        "Claire": "B-bonjour, c-cher. I-il fait très frais aujourd'hui...$2#$e#%Tu serres Claire dans tes bras et tu la réchauffes.#$e#...$4#$b#Um. Bonne pêche sur glace.$7"
       },
       "When": {
         "Spouse": "Claire"
@@ -31911,7 +31911,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Claire": "What are you thankful for, @?$1#$e#I'm thankful for having a friendly community to spend Winter Star with...$1"
+        "Claire": "De quoi es-tu reconnaissant, @?$1#$e#Je suis reconnaissant d'avoir une communauté si amicale avec qui passer la fête del'Étoile d'hiver...$1"
       }
     },
     /*
@@ -31937,7 +31937,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Claire": "I'm thankful for the wonderful life we are living together on %farm farm...$1"
+        "Claire": "Je suis reconnaissante pour la merveilleuse vie que nous vivons ensemble à la Ferme %farm...$1"
       },
       "When": {
         "Spouse": "Claire"
@@ -32080,21 +32080,21 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Marnie",
       "Entries": {
-        "claireAerobics": "Someone new joined our weekly workout group.$1",
+        "claireAerobics": "Une nouvelle personne a rejoint notre groupe d'entraînement hebdomadaire.$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "claireAerobics": "Do you know who Claire is? She joined the aerobics class.$0#$e#She can really dance!$1",
+        "claireAerobics": "Vous savez qui est Claire ? Elle a rejoint le cours d'aérobic.$0#$e#Elle sait vraiment bien danser!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "claireAerobics": "I sense a curious aura from Claire. She has hidden potential!$1",
+        "claireAerobics": "Je sens une curieuse aura de Claire. Elle a un potentiel caché!$1",
       },
     },
     {
@@ -32417,105 +32417,105 @@
       "Action": "EditData",
       "Target": "characters/dialogue/clint",
       "Entries": {
-        "ClaireMovie": "Claire looked good... Do you think I can ask for an autograph?$0",
+        "ClaireMovie": "Claire avait l'air bien... Tu penses que je peux demander un autographe?$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/robin",
       "Entries": {
-        "ClaireMovie": "I have never seen the theater packed like that.$0",
+        "ClaireMovie": "Je n'ai jamais vu le théâtre rempli comme ça.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/demetrius",
       "Entries": {
-        "ClaireMovie": "The movie exceeded my expectations.$0",
+        "ClaireMovie": "Le film a dépassé mes attentes.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/olivia",
       "Entries": {
-        "ClaireMovie": "'The Thief of Justice' had an astonshing story. I was captivated the entire time!$3#$e#Claire looked breathtaking in her costume.$1",
+        "ClaireMovie": "'Le voleur de justice' avait une histoire étonnante. J'ai été captivé tout le temps!$3#$e#Claire était à couper le souffle dans son costume.$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/victor",
       "Entries": {
-        "ClaireMovie": "I must say, I quite enjoyed that movie.$1#$e#What was your favorite part, @?$0",
+        "ClaireMovie": "Je dois dire que j'ai bien aimé ce film.$1#$e#Quelle était votre partie préférée, @?$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/lewis",
       "Entries": {
-        "ClaireMovie": "It's hard to believe someone in our community starred in a film with a lead role.$1#$b#It certainly gave Pelican Town a spotlight in the news.$0",
+        "ClaireMovie": "Il est difficile de croire que quelqu'un dans notre communauté a joué un rôle principal dans un film à gros budget.$1#$b#Cela a certainement donné à Pélican Ville un coup de projecteur dans l'actualité.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/marnie",
       "Entries": {
-        "ClaireMovie": "I think I have a new favorite movie!$1",
+        "ClaireMovie": "Je pense que j'ai un nouveau film favori!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/jas",
       "Entries": {
-        "ClaireMovie": "I want to be a thief of justice when I grow up!$1",
+        "ClaireMovie": "J'veux être un voleur de justice quand je serai grand!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/jodi",
       "Entries": {
-        "ClaireMovie": "It's crazy we have a celebrity in our aerobics class now.$0",
+        "ClaireMovie": "C'est fou, nous avons une célébrité dans notre cours d'aérobic maintenant.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/caroline",
       "Entries": {
-        "ClaireMovie": "Maybe I should let Claire lead aerobics class next week. She can teach us choreography from the movie!$0#$e#I imagine it'd be a good workout!$1",
+        "ClaireMovie": "Peut-être que je devrais laisser Claire diriger le cours d'aérobic la semaine prochaine. Elle peut nous enseigner la chorégraphie du film!$0#$e#J'imagine que ce serait un bon entraînement!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/pierre",
       "Entries": {
-        "ClaireMovie": "Jajo sounds like Joja, don't you think?$0",
+        "ClaireMovie": "Jajo sonne comme Joja, tu ne trouve pas?$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/emily",
       "Entries": {
-        "ClaireMovie": "Claire was amazing! Go Claire! Woo!$1",
+        "ClaireMovie": "Claire était incroyable ! Allez Claire ! Woo!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/elliott",
       "Entries": {
-        "ClaireMovie": "I was impressed with the plot of 'The Thief of Justice'. That quality of writing is uncommon for an indie film.$0#$b#I'll keep my eye out for future releases from the studio.$1",
+        "ClaireMovie": "J'ai été impressionné par l'intrigue de 'Le voleur de justice'. Cette qualité d'écriture est rare pour un film indépendant.$0#$b#Je garderai un oeil sur les prochaines sorties du studio.$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/leah",
       "Entries": {
-        "ClaireMovie": "I appreciate the cinema carries healthy snacks.$0#$e#Oh, what did you think of 'The Thief of Justice'? It wasn't bad!$1",
+        "ClaireMovie": "J'apprécie que le cinéma propose des en-cas sains.$0#$e#Oh, qu'est-ce que tu as pensé du film 'Le voleur de justice'? C'était pas mal!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/martin",
       "Entries": {
-        "ClaireMovie": "Hey there. What did you think of the movie, @? Didn't Claire do a great job?$0#$e#I really hope she gets more film opportunities in the future. I know how much it means to her.#",
+        "ClaireMovie": "Salut. Qu'avez-vous pensé du film, @? Claire n'a-t-elle pas fait un excellent travail?$0#$e#J'espère vraiment qu'elle aura plus d'opportunités cinématographiques à l'avenir. Je sais à quel point cela compte pour elle.#",
       },
     },
     //CAMILLA NPC
@@ -32642,7 +32642,7 @@
         "HasSeenEvent": "6951319"
       },
       "Entries": {
-        "Lance": "This will serve me well. You have my gratitude./896 907/Ah, this is incredible. Thank you./905 74 797 261 688 689 690 446 96 97 98 99 121 122 158 159 161 160 162 163 166 305 306 704 909 857/I suppose I could practice my magic on this.../-80 -74 338 80 82/I'm afraid this doesn't suit me./-81 330 283 206 211 216 233 234 245 220 221 222 223 224 279 612 611 608 604/Perhaps I'll find a way to make use of this./-4 -28 286 287 288 829 396 393 397 392 394/"
+        "Lance": "Cela va bien me servir. Tu as ma gratitude./896 907/Ah, c'est incroyable. Merci./905 74 797 261 688 689 690 446 96 97 98 99 121 122 158 159 161 160 162 163 166 305 306 704 909 857/Je suppose que je pourrais exercer ma magie là-dessus.../-80 -74 338 80 82/J'ai peur que cela ne me convienne pas./-81 330 283 206 211 216 233 234 245 220 221 222 223 224 279 612 611 608 604/Peut-être que je trouverai un moyen d'utiliser ça./-4 -28 286 287 288 829 396 393 397 392 394/"
       }
     },
     //LOVES: Galaxy Soul, Tropical Curry, Void Shard, Swirl Stone, Green Mushroom, Ornate Treasure Chest, Gemfish, <MONSTER CROP>, and Torpedo Trout

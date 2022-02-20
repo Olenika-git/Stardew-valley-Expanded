@@ -9683,14 +9683,14 @@
         "HasWalletItem": "SkullKey"
       },
       "Entries": {
-        "8050107/t 600 1500/H": "continue/-500 -500/farmer 33 26 1 Clint 45 26 0 MarlonFay 14 19 0 Susan 43 51 0/positionOffset MarlonFay 4 15/positionOffset Susan -12 -6/viewport 44 32 clamp true/viewport move 0 -1 5000 true/skippable/move farmer 10 0 1 true/pause 6250/faceDirection Clint 3 true/pause 500/speak Clint \"Oh. Hi, @.$0\"/pause 500/faceDirection Clint 0 true/pause 500/speak Clint \"Lewis hired me to get rid of this boulder. It's gonna require an explosive that packs a punch.$0#$b#Problem is, the materials I need to make it aren't exactly easy to come by...$2\"/pause 500/jump farmer/pause 1150/faceDirection Clint 3 true/pause 500/speak Clint \"You'll help me out? That's kind of you.$0#$b#Meet me at my house. We can go over the list of materials I need.$1\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Lewis \"Ah, the summit boulder? I commissioned Clint for some of his handiwork to deal with it.$0\""
+        "8050107/t 600 1500/H": "continue/-500 -500/farmer 33 26 1 Clint 45 26 0 MarlonFay 14 19 0 Susan 43 51 0/positionOffset MarlonFay 4 15/positionOffset Susan -12 -6/viewport 44 32 clamp true/viewport move 0 -1 5000 true/skippable/move farmer 10 0 1 true/pause 6250/faceDirection Clint 3 true/pause 500/speak Clint \"Oh. Salut, @.$0\"/pause 500/faceDirection Clint 0 true/pause 500/speak Clint \"Lewis m'a embauché pour se débarrasser de ce rocher. Il va falloir un explosif qui a du punch.$0#$b#Le problème est que les matériaux dont j'ai besoin pour le fabriquer ne sont pas vraiment faciles à trouver...$2\"/pause 500/jump farmer/pause 1150/faceDirection Clint 3 true/pause 500/speak Clint \"Tu vas m'aider ? C'est gentil de votre part.$0#$b#Retrouve-moi chez moi. Nous pouvons passer en revue la liste des matériaux dont j'ai besoin.$1\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Lewis \"Ah, le rocher au sommet ? J'ai embauché Clint pour qu'il s'occupe de ça.$0\""
       },
     },
     { //Railroad boulder - part 2   <<ID tagged in framework
       "Action": "EditData",
       "Target": "data/events/Blacksmith",
       "Entries": {
-        "8050108/e 8050107": "continue/-500 -500/farmer 5 19 0 Clint 7 12 0/pause 700/viewport 8 15 true/skippable/move farmer 0 -3 1/move farmer 2 0 0/move farmer 0 -1 0/pause 1300/emote farmer 40/pause 500/faceDirection Clint 3 true/pause 200/faceDirection Clint 2 true/pause 300/emote Clint 16 true/speak Clint \"Oh! Hey, @.$0#$b#Sorry. Didn't hear you over the furnace.$1\"/pause 1000/move Clint 0 1 2/pause 500/speak Clint \"I need coal and iridium ore to make a bomb powerful enough to destroy that boulder.$0#$b#You can drop off the materials in that crate to your right.$0\"/pause 500/faceDirection farmer 1 true/pause 500/speak Clint \"Er... thanks for helping me.$0#$b#Check your journal for the specific amounts.$0\"/pause 500/faceDirection farmer 0 true/pause 500/emote farmer 32 true/pause 400/globalFade/viewport -1000 -1000/pause 500/end dialogue Clint \"So uhh... how are you going to get that iridium, anyway?$0\""
+        "8050108/e 8050107": "continue/-500 -500/farmer 5 19 0 Clint 7 12 0/pause 700/viewport 8 15 true/skippable/move farmer 0 -3 1/move farmer 2 0 0/move farmer 0 -1 0/pause 1300/emote farmer 40/pause 500/faceDirection Clint 3 true/pause 200/faceDirection Clint 2 true/pause 300/emote Clint 16 true/speak Clint \"Oh! Salut, @.$0#$b#Pardon. Je ne t'ai pas entendu au-dessus de la fournaise.$1\"/pause 1000/move Clint 0 1 2/pause 500/speak Clint \"J'ai besoin de charbon et de minerai d'iridium pour fabriquer une bombe assez puissante pour détruire ce rocher.$0#$b#Vous pouvez déposer les matériaux dans cette caisse à votre droite.$0\"/pause 500/faceDirection farmer 1 true/pause 500/speak Clint \"Euh... merci de m'aider.$0#$b#Consultez votre journal pour connaître les montants spécifiques.$0\"/pause 500/faceDirection farmer 0 true/pause 500/emote farmer 32 true/pause 400/globalFade/viewport -1000 -1000/pause 500/end dialogue Clint \"Alors euh... comment allez-vous obtenir cet iridium?$0\""
       },
     },
     { //Railroad boulder - part 3  <<ID tagged for map patch
@@ -9708,35 +9708,35 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Clint",
       "Entries": {
-        "railroadBoulder": "Er... that boulder is gone now.$0#$e#I'd check out the summit, but it's too far a climb for me.$0",
+        "railroadBoulder": "Euh... ce rocher a disparu maintenant.$0#$e#Je vérifierais bien le sommet, mais c'est trop loin pour moi.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Lewis",
       "Entries": {
-        "railroadBoulder": "The boulder removal was a success!$1#$e#Say, do you think this'll improve my public relations?$0",
+        "railroadBoulder": "L'enlèvement du rochers a été un succès!$1#$e#Dites, pensez-vous que cela améliorera mes relations publiques?$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Susan",
       "Entries": {
-        "railroadBoulder": "@! The summit is open again!$1",
+        "railroadBoulder": "@! Le sommet est à nouveau accessible!$1",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Leah",
       "Entries": {
-        "railroadBoulder": "Since we can get to the summit now, maybe I'll start hiking again.$0",
+        "railroadBoulder": "Puisque nous pouvons aller au sommet maintenant, je recommencerai peut-être la randonnée.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Kent",
       "Entries": {
-        "railroadBoulder": "So, the summit is open?$0#$e#Would be nice to get my mind off things with a long walk.$1",
+        "railroadBoulder": "Alors, le sommet est ouvert?$0#$e#Ce serait bien de me changer les idées en faisant une longue marche.$1",
       },
     },
     {
@@ -9746,7 +9746,7 @@
         "Season": "Spring"
       },
       "Entries": {
-        "railroadBoulder": "Good forage can be found at the summit, @. There's plenty to go around!$0#$b#Here, I'll share some with you.[20]$1",
+        "railroadBoulder": "Des ressources de bonne qualité peuvent être trouvé au sommet, @. Il y a beaucoup à faire!$0#$b#Tenez, en voici quelques-uns.[20]$1",
       },
     },
     {
@@ -9756,7 +9756,7 @@
         "Season": "Summer"
       },
       "Entries": {
-        "railroadBoulder": "Good forage can be found at the summit, @. There's plenty to go around!$0#$b#Here, I'll share some with you.[396]$1",
+        "railroadBoulder": "Des ressources de bonne qualité peuvent être trouvé au sommet, @. Il y a beaucoup à faire!$0#$b#Tenez, en voici quelques-uns.[396]$1",
       },
     },
     {
@@ -9766,7 +9766,7 @@
         "Season": "Fall"
       },
       "Entries": {
-        "railroadBoulder": "Good forage can be found at the summit, @. There's plenty to go around!$0#$b#Here, I'll share some with you.[422]$1",
+        "railroadBoulder": "Des ressources de bonne qualité peuvent être trouvé au sommet, @. Il y a beaucoup à faire!$0#$b#Tenez, en voici quelques-uns.[422]$1",
       },
     },
     {
@@ -9776,7 +9776,7 @@
         "Season": "Winter"
       },
       "Entries": {
-        "railroadBoulder": "Good forage can be found at the summit, @. There's plenty to go around!$0#$b#Here, I'll share some with you [414]$1",
+        "railroadBoulder": "Des ressources de bonne qualité peuvent être trouvé au sommet, @. Il y a beaucoup à faire!$0#$b#Tenez, en voici quelques-uns.[414]$1",
       },
     },
     //Summit schedule additions
@@ -9808,7 +9808,7 @@
         "HasSeenEvent": "8050109"
       },
       "Entries": {
-        "Summit_11_13": "Hiking is a good workout.$1",
+        "Summit_11_13": "La randonnée est un bon entraînement.$1",
       },
     },
     { //Leah summit
@@ -9828,7 +9828,7 @@
         "HasSeenEvent": "8050109"
       },
       "Entries": {
-        "Summit_11_13": "You hiked up here too, @?$0",
+        "Summit_11_13": "Vous avez marché jusqu'ici vous aussi, @?$0",
       },
     },
     { //Susan summit
@@ -9852,8 +9852,8 @@
         "HasSeenEvent": "8050109"
       },
       "Entries": {
-        "Summit_11_13": "Breathtaking up here.$0",
-        "Summit_21_25": "I wonder what her story was...$2"
+        "Summit_11_13": "À couper le souffle par ici.$0",
+        "Summit_21_25": "Je me demande quelle était son histoire...$2"
       },
     },
     { //Linus summit
@@ -9875,7 +9875,7 @@
         "HasSeenEvent": "8050109"
       },
       "Entries": {
-        "Summit_17_20": "Nature isn't afraid of showing you her true beauty. The view up here is proof enough of that.$1",
+        "Summit_17_20": "La nature n'a pas peur de vous dévoiler sa vraie beauté. La vue d'ici en est une preuve suffisante.$1",
       },
     },
     { //Lewis summit
@@ -9976,12 +9976,12 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "Robin3_Name": "Grandpa's Shed",
-        "Robin3_Text": "If I gather these materials, Robin will refurbish my grandpa's old shed. There's a trunk in the building where I can drop them off.",
-        "Robin3_Objective_1_Text": "Drop off hardwood.",
-        "Robin3_Objective_2_Text": "Drop off stone.",
-        "Robin3_Objective_3_Text": "Drop off iron bars.",
-        "Robin3_Objective_4_Text": "Drop off battery packs.",
+        "Robin3_Name": "La cabane de grand-père",
+        "Robin3_Text": "Si je rassemble ces matériaux, Robin remettra à neuf l'ancien cabanon de mon grand-père. Il y a un coffre dans le bâtiment où je peux les déposer.",
+        "Robin3_Objective_1_Text": "Déposer du bois dur.",
+        "Robin3_Objective_2_Text": "Déposer la pierre.",
+        "Robin3_Objective_3_Text": "Déposez des barres de fer.",
+        "Robin3_Objective_4_Text": "Déposer des batteries.",
       }
     },
     { //Configuration - Clears refurbished shed interior of static objects (barrels, desks, boxes, etc.)
@@ -10115,7 +10115,7 @@
         "HasSeenEvent": "2554901"
       },
       "Entries": {
-        "2554902/H/t 700 2000": "continue/-500 -500/farmer 64 15 2 Robin 64 17 0/skippable/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"Someone's knocking on the front door.\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Robin 10 -25/viewport 64 16 clamp true/pause 1000/speak Robin \"Hey @!$0#$b#I'm about to check the structural integrity of that abandoned shed on your property!$0#$b#I'm licensed by the 'Ferngill Republic Building Association' to make sure abandoned buildings aren't on the verge of collapsing...$0\"/pause 1000/faceDirection Robin 1 true/pause 1300/faceDirection Robin 0 true/pause 500/speak Robin \"If you have a moment, you can watch my inspection progress.$0\"/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_GrandpasShedRuins/warp Robin 16 7/warp farmer 16 10/faceDirection farmer 0 true/faceDirection Robin 0 true/playSound doorClose/pause 600/playSound doorClose/pause 400/stopMusic/pause 200/viewport 16 9 true/pause 1700/faceDirection Robin 3 true/pause 1600/faceDirection Robin 0 true/pause 250/faceDirection Robin 1 true/pause 1600/faceDirection Robin 2 true/pause 1000/animate Robin false true 200 34 35/textAboveHead Robin \"Hmm...\"/pause 3500/stopAnimation Robin/pause 800/speak Robin \"I could actually refurbish this shed if I had the materials.$0#$b#It'd be a challenge, that's for sure!$1\"/pause 200/emote farmer 16/jump farmer/pause 1000/speak Robin \"Visit me at my workshop and we can talk more about the specifics.$0\"/pause 500/globalFade/viewport -1000 -1000/pause 750/end dialogue Robin \"Whenever you want to discuss repairing that shed, find me at my workshop.$0\""
+        "2554902/H/t 700 2000": "continue/-500 -500/farmer 64 15 2 Robin 64 17 0/skippable/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"Quelqu'un frappe à la porte d'entrée.\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Robin 10 -25/viewport 64 16 clamp true/pause 1000/speak Robin \"Bonjour @!$0#$b#Je suis sur le point de vérifier l'intégrité structurelle de cette remise abandonnée sur votre propriété!$0#$b#Je suis agréé par l''Association de construction de la République de Ferngill ' pour m'assurer que les bâtiments abandonnés ne sont pas sur le point de s'effondrer...$0\"/pause 1000/faceDirection Robin 1 true/pause 1300/faceDirection Robin 0 true/pause 500/speak Robin \"Si vous avez un moment, vous pouvez suivre l'avancement de mon inspection.$0\"/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_GrandpasShedRuins/warp Robin 16 7/warp farmer 16 10/faceDirection farmer 0 true/faceDirection Robin 0 true/playSound doorClose/pause 600/playSound doorClose/pause 400/stopMusic/pause 200/viewport 16 9 true/pause 1700/faceDirection Robin 3 true/pause 1600/faceDirection Robin 0 true/pause 250/faceDirection Robin 1 true/pause 1600/faceDirection Robin 2 true/pause 1000/animate Robin false true 200 34 35/textAboveHead Robin \"Hum...\"/pause 3500/stopAnimation Robin/pause 800/speak Robin \"Je pourrais en fait rénover cette remise si j'avais les matériaux.$0#$b#Ce serait un défi, c'est sûr!$1\"/pause 200/emote farmer 16/jump farmer/pause 1000/speak Robin \"Rendez-moi visite à mon atelier et nous pourrons parler plus des détails.$0\"/pause 500/globalFade/viewport -1000 -1000/pause 750/end dialogue Robin \"Chaque fois que vous voulez discuter de la réparation de ce cabanon, retrouvez-moi à mon atelier.$0\""
       },
     },
     { //Event #2 - Robin's Inspection (Grandpa's Farm viewport)
@@ -10127,14 +10127,14 @@
         "FarmType": "Standard",
       },
       "Entries": {
-        "2554902/H/t 700 2000": "continue/-500 -500/farmer 95 49 2 Robin 95 51 0/skippable/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"Someone's knocking on the front door.\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Robin 10 -25/viewport 95 49 clamp true/pause 1000/speak Robin \"Hey @!$0#$b#I'm about to check the structural integrity of that abandoned shed on your property!$0#$b#I'm licensed by the 'Ferngill Republic Building Association' to make sure abandoned buildings aren't on the verge of collapsing...$0\"/pause 1000/faceDirection Robin 3 true/pause 1300/faceDirection Robin 0 true/pause 500/speak Robin \"If you have a moment, you can watch my inspection progress.$0\"/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_GrandpasShedRuins/warp Robin 16 7/warp farmer 16 10/faceDirection farmer 0 true/faceDirection Robin 0 true/playSound doorClose/pause 600/playSound doorClose/pause 400/stopMusic/pause 200/viewport 16 9 true/pause 1700/faceDirection Robin 3 true/pause 1600/faceDirection Robin 0 true/pause 250/faceDirection Robin 1 true/pause 1600/faceDirection Robin 2 true/pause 1000/animate Robin false true 200 34 35/textAboveHead Robin \"Hmm...\"/pause 3500/stopAnimation Robin/pause 800/speak Robin \"I could actually refurbish this shed if I had the materials.$0#$b#It'd be a challenge, that's for sure!$1\"/pause 200/emote farmer 16/jump farmer/pause 1000/speak Robin \"Visit me at my workshop and we can talk more about the specifics.$0\"/pause 500/globalFade/viewport -1000 -1000/pause 750/end dialogue Robin \"Whenever you want to discuss repairing that shed, find me at my workshop.$0\""
+        "2554902/H/t 700 2000": "continue/-500 -500/farmer 95 49 2 Robin 95 51 0/skippable/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"Quelqu'un frappe à la porte d'entrée.\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Robin 10 -25/viewport 95 49 clamp true/pause 1000/speak Robin \"Bonjour @!$0#$b#I'm about to check the structural integrity of that abandoned shed on your property!$0#$b#Je suis agréé par l''Association de construction de la République de Ferngill ' pour m'assurer que les bâtiments abandonnés ne sont pas sur le point de s'effondrer...$0\"/pause 1000/faceDirection Robin 3 true/pause 1300/faceDirection Robin 0 true/pause 500/speak Robin \"Si vous avez un moment, vous pouvez suivre l'avancement de mon inspection.$0\"/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_GrandpasShedRuins/warp Robin 16 7/warp farmer 16 10/faceDirection farmer 0 true/faceDirection Robin 0 true/playSound doorClose/pause 600/playSound doorClose/pause 400/stopMusic/pause 200/viewport 16 9 true/pause 1700/faceDirection Robin 3 true/pause 1600/faceDirection Robin 0 true/pause 250/faceDirection Robin 1 true/pause 1600/faceDirection Robin 2 true/pause 1000/animate Robin false true 200 34 35/textAboveHead Robin \"Hmm...\"/pause 3500/stopAnimation Robin/pause 800/speak Robin \"Je pourrais en fait rénover cette remise si j'avais les matériaux.$0#$b#Ce serait un défi, c'est sûr!$1\"/pause 200/emote farmer 16/jump farmer/pause 1000/speak Robin \"Rendez-moi visite à mon atelier et nous pourrons parler plus des détails.$0\"/pause 500/globalFade/viewport -1000 -1000/pause 750/end dialogue Robin \Chaque fois que vous voulez discuter de la réparation de ce cabanon, retrouvez-moi à mon atelier.$0\""
       },
     },
     { //Event #3 - Robin's material list     <<Tagged for framework
       "Action": "EditData",
       "Target": "data/events/ScienceHouse",
       "Entries": {
-        "2554903/H/e 2554902": "none/-500 -500/farmer 6 24 0 Robin 7 18 2 Maru 27 9 1 Sebastian 29 9 3 Demetrius 19 18 0/playMusic jaunty/viewport 7 21 true/skippable/speed farmer 1/move farmer 0 -2 0/pause 300/jump Robin/pause 900/faceDirection Robin 3 true/pause 250/faceDirection Robin 0 true/pause 300/speed Robin 4/move Robin 0 -1 3/speed Robin 4/move Robin -2 0 2/speed Robin 4/move Robin 0 3 1/speed Robin 4/move Robin 1 0 2/pause 400/speak Robin \"Hey! I know what materials I need! So let's get right to business.$1#$b#I'm estimating 150 pieces of hardwood, 600 pieces of stone, 50 iron bars, and 20 battery packs...$0\"/pause 500/emote farmer 16/pause 500/speak Robin \"There's a lot of rotten wood and rust. That's what age can do to a building over the years.$0\"/pause 500/emote farmer 40/pause 200/speak Robin \"There's no rush on this project, @. Gather the materials on your own time!$1#$b#I put a trunk in the building for you to drop off materials as you procure them.$0\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Robin \"I'll put my craftsmanship skills to the test with this project!$1#$e#I'm crafting a special storage chest for the project. We'll need more than just hardwood to refurbish the shed.$0\"",
+        "2554903/H/e 2554902": "none/-500 -500/farmer 6 24 0 Robin 7 18 2 Maru 27 9 1 Sebastian 29 9 3 Demetrius 19 18 0/playMusic jaunty/viewport 7 21 true/skippable/speed farmer 1/move farmer 0 -2 0/pause 300/jump Robin/pause 900/faceDirection Robin 3 true/pause 250/faceDirection Robin 0 true/pause 300/speed Robin 4/move Robin 0 -1 3/speed Robin 4/move Robin -2 0 2/speed Robin 4/move Robin 0 3 1/speed Robin 4/move Robin 1 0 2/pause 400/speak Robin \"Hé! Je sais de quels matériaux j'ai besoin ! Alors passons directement aux choses sérieuses.$1#$b#J'estime 150 morceaux de bois dur, 600 morceaux de pierre, 50 barres de fer et 20 batteries...$0\"/pause 500/emote farmer 16/pause 500/speak Robin \"Il y a beaucoup de bois pourri et de rouille. C'est ce que l'âge fait aux bâtiment au fil des ans.$0\"/pause 500/emote farmer 40/pause 200/speak Robin \"Rien ne presse sur ce projet, @. Rassemblez les matériaux à $1#$b#J'ai mis une caisse dans le bâtiment pour que vous y déposiez les matériaux au fur et à mesure que vous vous les procurez .$0\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Robin \"Je vais mettre mes compétences à l'épreuve avec ce projet!$1#$e#Je suis en train de fabriquer un coffre de rangement spécial pour le projet. Nous aurons besoin de plus que du bois dur pour remettre à neuf le cabanon .$0\"",
       },
     },
     { //Event #4 - Quest Complete
@@ -10144,7 +10144,7 @@
         "HasFlag": "ShedRepaired"
       },
       "Entries": {
-        "2554906": "continue/-500 -500/farmer 6 24 0 Robin 7 18 2/skippable/pause 1000/speak Robin \"I checked over all the materials you gathered, good job!$1#$b#You did your part, now I'll do mine. I work fast, so the shed should be refurbished tomorrow!$0\"/pause 500/emote farmer 32/pause 300/end dialogue Robin \"%Robin is busy.\""
+        "2554906": "continue/-500 -500/farmer 6 24 0 Robin 7 18 2/skippable/pause 1000/speak Robin \"J'ai vérifié tous les matériaux que vous avez rassemblés, bon travail!$1#$b#Tu as fait ta part, maintenant je fais la mienne. Je travaille vite, donc le cabanon doit être remis à neuf demain!$0\"/pause 500/emote farmer 32/pause 300/end dialogue Robin \"%Robin est occupé.\""
       },
     },
     { //Event #5 - Refurbished interior
@@ -10154,7 +10154,7 @@
         "HasSeenEvent": "2554906"
       },
       "Entries": {
-        "2554907": "none/-500 -500/farmer -200 -200 0 Robin 13 13 0/skippable/viewport 16 9 true/playMusic jaunty/pause 2500/playSound doorClose/warp farmer 16 16/pause 300/move farmer 0 -2 0 true/pause 300/faceDirection Robin 1 true/pause 600/emote farmer 16/pause 200/speak Robin \"Hey @!$1\"/pause 200/faceDirection farmer 3 true/pause 700/speak Robin \"So... what do you think?$0#$b#You may have seen new window panes on the roof.#$b#There's a great space to grow plants up there now.\"/pause 500/jump farmer/pause 1000/speak Robin \"I couldn't have fixed it up without all the materials you gathered.$1#$b#I actually had a lot of fun and learned some new things.$0\"/pause 1000/faceDirection Robin 0/pause 750/speak Robin \"This bottom floor would be great for aging wine...$0\"/pause 750/faceDirection Robin 1 true/pause 700/speak Robin \"Well, enjoy the refurbished shed @!$1\"/pause 500/end dialogue Robin \"Oh, I almost forgot! There are some plants upstairs already, a gift from Susan. She thought you'd appreciate some plants to get your greenhouse started!$1#$e#Mmm, I wonder if she wants a greenhouse of her own?$0\""
+        "2554907": "none/-500 -500/farmer -200 -200 0 Robin 13 13 0/skippable/viewport 16 9 true/playMusic jaunty/pause 2500/playSound doorClose/warp farmer 16 16/pause 300/move farmer 0 -2 0 true/pause 300/faceDirection Robin 1 true/pause 600/emote farmer 16/pause 200/speak Robin \"Salut @!$1\"/pause 200/faceDirection farmer 3 true/pause 700/speak Robin \"Alors... qu'en pensez-vous?$0#$b#Vous avez peut-être vu de nouvelles vitres sur le toit.#$b#Il y a un grand espace pour cultiver des plantes là-haut maintenant.\"/pause 500/jump farmer/pause 1000/speak Robin \"Je n'aurais pas pu le réparer sans tous les matériaux que vous avez rassemblés.$1#$b#I actually had a lot of fun and learned some new things.$0\"/pause 1000/faceDirection Robin 0/pause 750/speak Robin \"Ce rez-de-chaussée serait idéal pour faire vieillir le vin...$0\"/pause 750/faceDirection Robin 1 true/pause 700/speak Robin \"Eh bien, profitez du cabanon remis à neuf @!$1\"/pause 500/end dialogue Robin \"Oh j'ai presque oublié! Il y a déjà des plantes en haut, un cadeau de Susan. Elle a pensé que vous apprécieriez ces plantes pour démarrer votre serre!$1#$e#Mmm, je me demande si elle veut sa propre serre?$0\""
       },
     },
     { //Refurbished Shed (No IF2R or Grandpa's Farm)
@@ -10236,16 +10236,16 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "Apples_Name": "Aurora Vineyard",
-        "Apples_Text": "A forest spirit is requesting starfruit.",
-        "Apples_Objective_1_Text": "Leave starfruit on the Junimo plaque in Aurora Vineyard.",
+        "Apples_Name": "Vignoble Aurora",
+        "Apples_Text": "Un esprit de la forêt demande des caramboles.",
+        "Apples_Objective_1_Text": "Laissez la carambole sur la plaque Junimo dans le vignoble Aurora.",
       }
     },
     { //Event #1 - The Junimo Tile        <<To start quest: Community Center must be built, player visited Lost Woods at least once, played for 138 days, event triggers in farmhouse at start of day
       "Action": "EditData",
       "Target": "data/events/farmhouse",
       "Entries": {
-        "77759254/e 191393/e 1000037/j 138/t 600 630/H": "none/-500 -500/Abigail -301 -301 2/pause 1500/changeLocation Custom_ForestWest/viewport 58 16 true/pause 2000/playSound junimoMeep1/pause 700/playSound junimoMeep1/pause 400/playSound junimoMeep1/pause 300/playSound junimoMeep1/pause 1000/globalFade/viewport -1000 -1000/pause 1500/message \"You sense something west of Cindersap Forest...\"/pause 1250/end dialogue Abigail \"I couldn't sleep last night...$2#$b#I felt as if 'something' was calling to me deep in the forest.$0#$e#Strange, right?$1\"",
+        "77759254/e 191393/e 1000037/j 138/t 600 630/H": "none/-500 -500/Abigail -301 -301 2/pause 1500/changeLocation Custom_ForestWest/viewport 58 16 true/pause 2000/playSound junimoMeep1/pause 700/playSound junimoMeep1/pause 400/playSound junimoMeep1/pause 300/playSound junimoMeep1/pause 1000/globalFade/viewport -1000 -1000/pause 1500/message \"Vous sentez quelque chose à l'ouest de la forêt Cindersap...\"/pause 1250/end dialogue Abigail \"Je n'ai pas pu dormir la nuit dernière...$2#$b#Je me sentais comme si 'quelque chose' m'appelait au fond de la forêt.$0#$e#Bizarre, hein?$1\"",
       },
     },
     { //Event #2 - ???          <<Tagged by quest
@@ -10341,7 +10341,7 @@
         //"SVEadvertisement5": "ON SALE FOR A LIMITED TIME:^^Special yeast starter with nutrients designed to optimize wine fermentation from a quality-controlled yeast ranch. Has produced award-winning wine consistently since the strain was started almost twenty years ago. Inquiries welcome at Sunshine Vineyard.",
         //"SVEadvertisement6": "Are you homebrewing beer? Fermenting your own grapes? Sick of your pricy liquids leaking or drying up in low-quality storage? Try hardwood barrels! They don't leak, they naturally repel liquids, and they're almost completely immune to temperature changes, so no more nasty cracks. Craft them yourself, or take the train to Grampleton and pick some up from one of our many talented artisans!",
         "robinKitchenLetter": "Cher Fermier @,^^C'est là que je peux vous aider. Si vous m'apportez des matières premières et payez des frais, je peux agrandir votre maison. La première extension que je propose comprend une cuisine. Avec une cuisine, vous pourrez cuisiner toutes les recettes que vous aurez apprises !^^Quoi qu'il en soit, j'espère que vous commencez à vous sentir chez vous à Stardew Valley!^^   Vôtre Charpentier Local,^   Robin",
-        "JasThankYouLetter": "To Farmer @,^^Aunt Marnie said I needed to write a thank you letter. So... thanks for finding me in the forest and taking me back home. I won't go that far in the forest again.^^  -Jas",
+        "JasThankYouLetter": "Pour le Fermier @,^^Aunt Marnie said I needed to write a thank you letter. So... thanks for finding me in the forest and taking me back home. I won't go that far in the forest again.^^  -Jas",
         "winter_7": "Cher @,^^Demain, nous nous rassemblons tous près de la maison d'Andy et marcherons vers un coin de pêche dans la forêt pour le Festival de la glace. ^^ C'est une célébration de l'hiver... il y aura des bonshommes de neige, des sculptures de glace et un concours de pêche sur glace.!^Arrivez entre 9h et 14h si vous souhaitez participer.^  -Maire Lewis",
         "OliviaDatingLetter": "Cher @,^^J'ai eu des sentiments à propos de notre relation que nous venons de commencer. J'ai besoin de te dire certaines choses. Pouvez-vous me rendre visite à ma résidence quand vous en aurez l'occasion ?^^  -Olivia",
         "OliviaPartyLetter": "Bonjour chérie,^^J'organise une fête ce soir chez moi. La plupart des citadins seront là, ainsi que mon invité spécial : le gouverneur !! J'aimerais absolument que tu viennes, @. The party starts at 6:00PM. Don't be late!^^  -Your love, Olivia",
@@ -39234,132 +39234,132 @@
       "Target": "characters/dialogue/caroline",
       "Entries": {
         "election": "Je ne fais pas confiance à Morris...$2#$e#Notre magasin est en danger. Je devrai peut-être trouver un travail à temps partiel en ville.$2",
-        "jojaEmporium": "I'm earning a modest amount from my clerk position. Still getting used to the long commute...$2#$e#I didn't think I'd return to my office job.$2"
+        "jojaEmporium": "Je gagne un salaire modeste grâce à mon poste d'employé. J'essaye toujours de m'habituer aux longs trajets...$2#$e#Je ne pense pas que je retournerais à mon travail de bureau.$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/pierre",
       "Entries": {
-        "election": "Morris must have cheated! It isn't possible he won the election!$3#$e#Pierre's General Store is done for...$2",
-        "jojaEmporium": "Caroline went back to her day job to keep the store afloat.$2#$b#We will overcome this!$3#$e#Oh. @. Give Morris my regards next time you chat with him!$1#$e#%Pierre called me out..."
+        "election": "Morris a dû tricher ! Ce n'est pas possible qu'il ait gagné les élections!$3#$e#Le magasin général de Pierre est terminé pour...$2",
+        "jojaEmporium": "Caroline a repris son travail en ville pour maintenir le magasin à flot.$2#$b#Nous surmonterons cela!$3#$e#Oh. @. Transmettez mes salutations à Morris la prochaine fois que vous discuterez avec lui!$1#$e#%Pierre m'a appelé..."
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/clint",
       "Entries": {
-        "election": "So... Morris is Mayor now...$2#$e#I wonder how Lewis is doing...$0",
-        "jojaEmporium": "There's a parking lot behind my house now.$2#$e#I'll miss that park...$2"
+        "election": "Alors... Morris est maire maintenant...$2#$e#Je me demande comment Lewis va...$0",
+        "jojaEmporium": "Il y a maintenant un parking derrière chez moi.$2#$e#Ce parc me manque...$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/demetrius",
       "Entries": {
-        "election": "Joja Co. has a history of treating the environment poorly. And now Morris is our Mayor...$2#$e#Robin is worried her carpentry trade will be replaced with a cheaper alternative...$2",
+        "election": "Joja Co. a l'habitude de mal traiter l'environnement. Et maintenant Morris est notre Maire...$2#$e#Robin craint que son métier de menuisier soit remplacé par une alternative moins chère...$2",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/robin",
       "Entries": {
-        "election": "If I wanted roads developed outside the home I built, I would've done it myself...$3#$e#I'm afraid Morris will try running my carpentry trade out of business...$2",
+        "election": "Si je voulais que des routes soient aménagées à l'extérieur de la maison que j'ai construite, je l'aurais fait moi-même...$3#$e#J'ai peur que Morris essaie de me faire faillite...$2",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/willy",
       "Entries": {
-        "election": "I suppose I'll be anglin' more Joja CD's and cola...$2",
+        "election": "Je suppose que je pêcherai plus souvent des CD et des cannettes de Joja Cola...$2",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/elliott",
       "Entries": {
-        "election": "A change in leadership could be a great thing for a small community.$0#$e#I do have my reservations about Morris...$2#$b#But he did win the election, which means he has the faith of the majority.$0",
+        "election": "Un nouveau Maire pourrait être une bonne chose pour une petite communauté.$0#$e#J'ai mes réserves à propos de Morris...$2#$b#Mais il a remporté les élections, ce qui signifie qu'il a la foi de la majorité.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/emily",
       "Entries": {
-        "election": "Lewis looks so sad...$2#$e#I know! I'll sew him some new socks!$0",
+        "election": "Lewis a l'air si triste...$2#$e#Je sais! Je vais lui coudre de nouvelles chaussettes!$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/george",
       "Entries": {
-        "election": "Hmmph! Morris will bring about much needed change here.$0",
+        "election": "Hmmph! Morris apportera des changements lui.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/gus",
       "Entries": {
-        "election": "A more developed Pelican Town could bring in more tourists and help the saloon financially!$1",
-        "jojaEmporium": "Joja Emporium is bringing tourists to the saloon!$1"
+        "election": "Une ville plus développée pourrait attirer plus de touristes et aider financièrement le saloon!$1",
+        "jojaEmporium": "Joja Emporium amène les touristes dans le saloon!$1"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/haley",
       "Entries": {
-        "election": "I'm SO looking forward to actual roads. My shoes always get muddy.$0",
-        "jojaEmporium": "Oh my god! There's a new shopping center in town now!$1"
+        "election": "J'ai tellement hâte d'avoir de vraies routes. Mes chaussures deviennent toujours boueuses.$0",
+        "jojaEmporium": "Oh mon Dieu! Il y a un nouveau centre commercial en ville maintenant!$1"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/harvey",
       "Entries": {
-        "election": "Must say, I didn't expect Morris to pull out a victory.$0",
+        "election": "Je dois dire que je ne m'attendais pas à ce que Morris remporte là victoire.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/jas",
       "Entries": {
-        "election": "Why isn't Lewis Mayor anymore?$2",
+        "election": "Pourquoi Lewis n'est plus maire?$2",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/jodi",
       "Entries": {
-        "election": "I'm overjoyed Morris won! He's a man of his word!$1",
-        "jojaEmporium": "Have you been to the emporium yet, @?$0"
+        "election": "Je suis ravi que Morris ait gagné ! C'est un homme de parole!$1",
+        "jojaEmporium": "Avez-vous déjà été à l'emporium, @?$0"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/alex",
       "Entries": {
-        "election": "I've never voted before. That was fun.$0",
+        "election": "Je n'ai jamais voté auparavant. C'était amusant.$0",
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/leah",
       "Entries": {
-        "election": "I don't want paved roads by my house...$2"
+        "election": "Je ne veux pas de routes goudronnées près de chez moi...$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/marnie",
       "Entries": {
-        "election": "Lewis needs our support more than ever, @.$2#$e#I'll bake one of his favorite meals to cheer him up...$2",
-        "jojaEmporium": "There's a road beside our property now.$0#$e#It looks nice, but I prefer a natural dirt road...$2"
+        "election": "Lewis a plus que jamais besoin de notre soutien, @.$2#$e#Je vais préparer un de ses plats préférés pour lui remonter le moral...$2",
+        "jojaEmporium": "Il y a une route à côté de notre propriété maintenant.$0#$e#C'est bien, mais je préfère un chemin de terre naturel...$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/maru",
       "Entries": {
-        "election": "I imagine there will be light pollution from the paved lit roads.$2#$b#It'll make stargazing difficult...$2",
+        "election": "J'imagine qu'il y aura de la pollution lumineuse provenant des routes pavées éclairées.$2#$b#Cela rendra l'observation des étoiles difficile...$2",
       },
     },
     {

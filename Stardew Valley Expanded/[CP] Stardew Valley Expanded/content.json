@@ -21011,14 +21011,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "I wonder if I should give them the gift now?$0#$e#Timing is everything!$1"
+        "Victor": "Je me demande si je devrais leur donner leur cadeau maintenant?$0#$e#Le timing est primordial!$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "Hey, @. Umm... I have a gift for you at home.$4#$b#I'll show you tonight, okay?$4"
+        "Victor": "Hey, @. Umm... J'ai un cadeau pour toi à la maison.$4#$b#Je te montrerai ça ce soir, d'accord?$4"
       },
       "When": {
         "Spouse": "Victor"
@@ -23419,7 +23419,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Susan": "He loved the gift I gave him! I knew he'd appreciate it.$1"
+        "Susan": "Il a adoré le cadeau que je lui ai offert! Je savais qu'il apprécierait.$1"
       }
     },
     //INTRO EVENT

@@ -37200,56 +37200,56 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Sebastian",
       "Entries": {
-        "museumCompleted": "Je ne comprends pas pourquoi tout le monde s'énerve à propos de ces vieilles choses exposées.$0#$e#Je trouve que c'est plutôt cool.$0",
+        "museumCompleted": "Je ne comprends pas pourquoi tout le monde s'énerve à propos de ces vieilles choses qui sont exposées.$0#$e#Je trouve que c'est plutôt cool.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Shane",
       "Entries": {
-        "museumCompleted": "The chicken statue on display looks just like my chicken Charlie.$0",
+        "museumCompleted": "La statue de poulet exposée ressemble à mon poulet Charlie.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Abigail",
       "Entries": {
-        "museumCompleted": "Wow.. I've never seen anything like the Bone Flute before.. I wonder if it still works. ",
+        "museumCompleted": "Wow .. La flûte en os, je n'ai jamais rien vu de tel auparavant .. je me demande si elle fonctionne toujours. ",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Emily",
       "Entries": {
-        "museumCompleted": "Some of those artifacts give off a unique aura!$1",
+        "museumCompleted": "Certains de ces artefacts dégagent une aura unique!$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Haley",
       "Entries": {
-        "museumCompleted": "Oh my god. The museum is actually sort of worth checking out now.$0",
+        "museumCompleted": "Oh mon Dieu. Le musée vaut vraiment le détour maintenant.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Leah",
       "Entries": {
-        "museumCompleted": "I didn't know all these old things were buried around my house.$0",
+        "museumCompleted": "Je ne savais pas que toutes ces vieilles choses étaient enterrées autour de ma maison.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Maru",
       "Entries": {
-        "museumCompleted": "I want to tinker around with the dwarf gadget",
+        "museumCompleted": "J'ai envie de bricoler avec le gadget nain",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Penny",
       "Entries": {
-        "museumCompleted": "All the artifacts on display will make teaching lessons more interesting.$1",
+        "museumCompleted": "Tous les artefacts qui sont exposés ici rendront les leçons d'enseignement plus intéressantes.$1",
       }
     },
     {
@@ -37270,126 +37270,126 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Demetrius",
       "Entries": {
-        "museumCompleted": "The palm fossil is a particularly well-preserved specimen. I wonder if there's anything I can learn from it.$0",
+        "museumCompleted": "Le fossile de palmier est un spécimen particulièrement bien conservé. Je me demande s'il y a encore quelque chose à apprendre de cela.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Dwarf",
       "Entries": {
-        "museumCompleted": "You're displaying dwarfish artifacts in a museum?#$e#I hope your people can learn more about mine.",
+        "museumCompleted": "Vous exposez des artefacts nains dans un musée?#$e#J'espère que votre peuple pourra en apprendre plus sur le mien.",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Evelyn",
       "Entries": {
-        "museumCompleted": "George thought he saw a fossilized leek in the museum.$1",
+        "museumCompleted": "George a cru voir un poireau fossilisé au musée.$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/George",
       "Entries": {
-        "museumCompleted": "Why is my old spoon on display?$0#$e#...$0#$e#%George looks skeptical.",
+        "museumCompleted": "Pourquoi ma vieille cuillère est-elle exposée ici ??$0#$e#...$0#$e#%George a l'air sceptique.",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Gus",
       "Entries": {
-        "museumCompleted": "Gunther told me you're the one responsible for the museum's completed collection! Superb work.$0",
+        "museumCompleted": "Gunther m'a dit que vous étiez responsable des dons de la collection complète du musée ! Superbe travail.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Jas",
       "Entries": {
-        "museumCompleted": "I didn't know other kids in the past played with toys too!",
+        "museumCompleted": "Je ne savais pas que d'autres enfants dans le passé jouaient eux aussi avec des jouets!",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Jodi",
       "Entries": {
-        "museumCompleted": "I wasn't aware how much history was buried right beneath us.$0",
+        "museumCompleted": "Je ne savais pas à quel point l'histoire pouvait être enfouie si près de nous.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Kent",
       "Entries": {
-        "museumCompleted": "The museum collection looks nice.$0",
+        "museumCompleted": "La collection du musée a l'air sympa.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Lewis",
       "Entries": {
-        "museumCompleted": "Your work on the museum's collection has helped the town's image. Thank you, @.$0",
+        "museumCompleted": "Votre travail sur la collection du musée a contribué à l'image de la ville. Merci, @.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Linus",
       "Entries": {
-        "museumCompleted": "There are many mysteries still buried beneath us.$0",
+        "museumCompleted": "Il y a beaucoup de mystères encore enfouis prêt de nous.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Marnie",
       "Entries": {
-        "museumCompleted": "Jas is excited to visit the museum again soon.$1#$e#I wonder if all those old things you dug up on your farmland were from your Grandpa.$0",
+        "museumCompleted": "Jas est impatient de visiter à nouveau le musée bientôt.$1#$e#Je me demande si toutes ces vieilles choses que vous avez déterrées sur vos terres venaient de votre grand-père.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Pam",
       "Entries": {
-        "museumCompleted": "There sure are some weird artifacts on display.$0#$e#I just want to know where that weird disc comes from.$0",
+        "museumCompleted": "Il y a bien sûr des artefacts étranges exposés ici.$0#$e#Je veux juste savoir d'où vient cet étrange disque.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Pierre",
       "Entries": {
-        "museumCompleted": "Ancient Seed... would it still grow?$4",
+        "museumCompleted": "Ancienne Graine... est-ce qu'elle pousserait encore?$4",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Robin",
       "Entries": {
-        "museumCompleted": "My husband won't stop talking about the artifacts on display.$0",
+        "museumCompleted": "Mon mari n'arrête pas de parler des artefacts exposés ici.$0",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Vincent",
       "Entries": {
-        "museumCompleted": "I want to go to the museum!$1",
+        "museumCompleted": "Je veux aller au musée!$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Willy",
       "Entries": {
-        "museumCompleted": "I'm curious which ship that anchor was apart of.",
+        "museumCompleted": "Je suis curieux de savoir à quel navire appartenait cette ancre.",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/MorrisTod",
       "Entries": {
-        "museumCompleted": "I'm certain the completed museum collection will attract more tourism to the valley, which means more business for Joja mart!$1",
+        "museumCompleted": "Je suis certain que la collection complète du musée attirera des touristes dans la vallée, ce qui signifie plus d'affaires pour le Joja mart!$1",
       }
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/MarlonFay",
       "Entries": {
-        "museumCompleted": "The petrified slime on display caught my eye.$0#$e#They've existed for a long time...$2",
+        "museumCompleted": "Le slime pétrifié exposé a attiré mon attention.$0#$e#Ils existent depuis longtemps...$2",
       }
     },
     //MARTIN NPC
@@ -37406,7 +37406,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Martin": "Hey! This is awesome. Thanks!/350 233/I like this. Thanks!/184 186/Uhh... this really isn't for me./-75 196 197 199 200 205 219 218 231 242/Sorry. I'm not feeling it.../348 346 459 303 304 283 -4 80 648/A gift? Thanks!/270/"
+        "Martin": "Hé! C'est génial. Merci!/350 233/J'aime ça. Merci!/184 186/Euh... ce n'est vraiment pas pour moi./-75 196 197 199 200 205 219 218 231 242/Pardon. je ne le sens pas.../348 346 459 303 304 283 -4 80 648/Un cadeau? Merci!/270/"
       }
     },
     {
@@ -37734,8 +37734,8 @@
         "HasMod": "Hana.GenderNeutralityMod"
       },
       "Entries": {
-        "BusStop_12_8": "%Bus Driver: Either get on the bus or step off.",
-        "fall_Tue": "Hello.$0",
+        "BusStop_12_8": "%Chauffeur de Bus: Montez dans le bus ou descendez.",
+        "fall_Tue": "Bonjour.$0",
       }
     },
     {
@@ -37747,9 +37747,9 @@
         "HasSeenEvent": "191393"
       },
       "Entries": {
-        "summer_Tue2": "Claire mentioned the air conditioning in the theater is perfect.$0#$b#She gets cold easilly...$2#$e#My previous manager had it on full blast because it attracted customers.$3",
-        "fall_Tue2": "My mom always says 'manners are key'. I try my best to be polite to everyone.$0#$e#Maybe that's why I got the job at the movie theater!$1",
-        "fall_Sun8": "Hey there, @. I could maybe talk to my manager and get you some free movie tickets!$0"
+        "summer_Tue2": "Claire a mentionné que la climatisation du théâtre est parfaite.$0#$b#Elle a froid facilement...$2#$e#Mon ancien manager le mettait à fond, car ça attirait les clients.$3",
+        "fall_Tue2": "Ma mère dit toujours 'les bonnes manières sont la clé'. Je fais de mon mieux pour être poli avec tout le monde.$0#$e#C'est peut-être pour ça que j'ai eu le boulot au cinéma!$1",
+        "fall_Sun8": "Salut, @. Je pourrais peut-être parler à mon manager et essayez de vous avoir des billets de cinéma gratuits!$0"
       }
     },
     {
@@ -37760,15 +37760,15 @@
         "Spouse": "Claire"
       },
       "Entries": {
-        "Mon": "Uhh. Hi. Wet day today.$0",
-        "Mon2": "There wasn't many people on the bus this morning.$0",
-        "Mon6": "I don't know why, but I'm feeling great today.$1#$e#It's probably the breakfast my mom made me!$1",
-        "Wed": "Hello.$0#$e#Err. Do you need assistance with anything, sir?^Err. Do you need assistance with anything, ma'am?",
-        "Wed6": "Hey there @. Up to anything cool today?$0",
-        "Thu": "Why does time move so slow when working?...$4",
-        "Thu8": "How's Claire doing?$0#$e#I'm glad you two are living a happy life together.$0",
-        "Fri": "I've been putting more hours in. I'm trying to save up as much as I can!$0",
-        "Fri6": "Hi, @. Keeping yourself busy as always.$0#$e#Well, see you around.$6",
+        "Mon": "Euh. Salut. Aujourd'hui journée humide.$0",
+        "Mon2": "Il n'y avait pas grand monde dans le bus ce matin.$0",
+        "Mon6": "Je ne sais pas pourquoi, mais je me sens très bien aujourd'hui.$1#$e#C'est probablement le petit déjeuner que ma mère m'a fait!$1",
+        "Wed": "Bonjour.$0#$e#Euh. Avez-vous besoin d'aide pour quoi que ce soit, Monsieur?^Euh. Avez-vous besoin d'aide pour quoi que ce soit, Madame?",
+        "Wed6": "Bonjour @. tu fais quoi de beau aujourd'hui?$0",
+        "Thu": "Pourquoi le temps passe-t-il si lentement quand on travaille?...$4",
+        "Thu8": "Comment va Claire?$0#$e#Je suis content que vous viviez une vie heureuse ensemble.$0",
+        "Fri": "J'ai mis plus d'heures. J'essaie d'économiser autant que je peux !$0",
+        "Fri6": "Salut, @. Occupez-vous toujours.$0#$e#Eh bien, à bientôt.$6",
       }
     },
     {
@@ -37776,10 +37776,10 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Martin_TheaterMessage_Tuesday": "Hey there. How may I help you?$0",
-        "Martin_TheaterMessage_Friday": "Cleanin' up after these birds is kind of a drag...$4",
-        "Martin_TheaterMessage_Saturday": "If you want movie recommendations, let me know!$1",
-        "Martin_TheaterMessage_Rain": "Pefect weather to stay indoors and watch a movie!$1",
+        "Martin_TheaterMessage_Tuesday": "Salut. Comment puis-je vous aider?$0",
+        "Martin_TheaterMessage_Friday": "Le nettoyage après ces oiseaux est une corvée...$4",
+        "Martin_TheaterMessage_Saturday": "Si vous voulez des recommandations sur des films, faites le moi savoir!$1",
+        "Martin_TheaterMessage_Rain": "C'est un temps idéal pour rester à l'intérieur et regarder un film!$1",
       }
     },
     {
@@ -37790,10 +37790,10 @@
         "Hearts:Martin": "8, 9, 10"
       },
       "Entries": {
-        "Martin_TheaterMessage_Tuesday": "Hey there, @. Watching a movie today?$1",
-        "Martin_TheaterMessage_Friday": "I've been working here for a while and I still don't know who owns these birds...$4",
-        "Martin_TheaterMessage_Saturday": "Lot's of good showings today. Which one are you seeing?$0",
-        "Martin_TheaterMessage_Rain": "Ever since you and Claire got married, I've been working more at the theater.$0#$b#I might get promoted soon if I keep it up!$1",
+        "Martin_TheaterMessage_Tuesday": "Bonjour, @. Vous regardez un film aujourd'hui?$1",
+        "Martin_TheaterMessage_Friday": "Je travaille ici depuis un moment et je ne sais toujours pas à qui appartiennent ces oiseaux...$4",
+        "Martin_TheaterMessage_Saturday": "Beaucoup de bonnes projections aujourd'hui. Laquelle vas-tu voir?$0",
+        "Martin_TheaterMessage_Rain": "Depuis que toi et Claire vous êtes mariés, je travaille encore plus au théâtre.$0#$b#Je pourrais bientôt être promu si je continue comme ça!$1",
       }
     },
     //Allows players to converse with Martin in the theater
@@ -37882,17 +37882,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I hope this movie is a good one.$1"
+                  "Text": "j'espère que ce film sera bien.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is getting good...$0"
+                  "Text": "Ça devient bien...$0"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thanks for inviting me!$1"
+                  "Text": "Merci de m'avoir invité!$1"
                 }
               },
               "ID": "reaction_2"
@@ -37905,7 +37905,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Come on! Lets grab a good seat before they're taken!$1"
+                  "Text": "Allez! Prenons une bonne place avant qu'elles ne soient toutes prise!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -37915,7 +37915,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Interesting film. Acting was not bad...$0"
+                  "Text": "Film intéressant. Le jeux d'acteur n'était pas mal...$0"
                 }
               },
               "ID": "reaction_3"
@@ -37928,17 +37928,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have a feeling I'm gonna love this film!$1"
+                  "Text": "Je sens que je vais adorer ce film!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "/shake Martin 2000/pause 500/message \"Martin is laughing.\"",
+                  "Script": "/shake Martin 2000/pause 500/message \"Martin rigole.\"",
                   "Text": "Haha!$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a blast! Thanks, @!$1"
+                  "Text": "C'était génial! Merci, @!$1"
                 }
               },
               "ID": "reaction_4"
@@ -37951,13 +37951,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm feeling like getting some candy.$0"
+                  "Text": "J'ai envie d'aller chercher des bonbons.$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I enjoyed the movie. Thanks!$1"
+                  "Text": "J'ai apprécié le film. Merci!$1"
                 }
               },
               "ID": "reaction_5"
@@ -37970,7 +37970,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Didn't this movie do bad in the box office?$0"
+                  "Text": "Ce film n'a-t-il pas mal marché au box-office?$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -37980,7 +37980,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I wouldn't watch that film again...$4"
+                  "Text": "Je ne regarderais plus jamais ce film...$4"
                 }
               },
               "ID": "reaction_6"
@@ -38040,14 +38040,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Martin": "My mom told me to get out of the house and socialize.$4#$e#At least Claire is here...$6"
+        "Martin": "Ma mère m'a dit de sortir de la maison et de me sociabiliser.$4#$e#Au moins Claire est là...$6"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Martin": "Hey there, @. Did you set up your grange display? It was empty when I checked it.$1#$e#Good luck in the contest.$0"
+        "Martin": "Hey Salut, @. As-tu préparé ton présentoir ? Il était vide quand j'ai vérifié.$1#$e#Bonne chance pour le concours.$0"
       }
     },
     {
@@ -38057,7 +38057,7 @@
         "IsOddYear": true
       },
       "Entries": {
-        "Martin": "I'm about to give up and grab some food.$2#$e#Are there consequences for cheating?$1#$e#%You tell Martin they shouldn't cheat the maze.#$e#Okay...$4"
+        "Martin": "Je suis sur le point d'abandonner et d'aller chercher de la nourriture.$2#$e#Y a-t-il des conséquences à tricher?$1#$e#%Tu dis à Martin qu'ils ne doit pas tricher dans le labyrinthe.#$e#Okay...$4"
       }
     },
     {
@@ -38067,7 +38067,7 @@
         "IsOddYear": false
       },
       "Entries": {
-        "Martin": "These monsters are super cool!$1"
+        "Martin": "Ces monstres sont super cool!$1"
       }
     },
     /*
@@ -38172,21 +38172,21 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Claire",
       "Entries": {
-        "ClaireSick": "*cough* I really don't feel too well today...$2#$e#I-I'll be fine...$2"
+        "ClaireSick": "*tousse* Je ne me sens vraiment pas bien aujourd'hui...$2#$e#Je-je vais bien...$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Martin",
       "Entries": {
-        "ClaireSick": "Thank you for your help ealier, @.$0#$e#Is Claire feeling okay?$2"
+        "ClaireSick": "Merci pour votre aide tout à l'heure, @.$0#$e#Est-ce que Claire se sent bien?$2"
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/MorrisTod",
       "Entries": {
-        "ClaireSick": "I've heard a lot of coughing in the store recently...$0"
+        "ClaireSick": "J'ai entendu beaucoup de gens tousser dans le magasin ces derniers temps...$0"
       },
     },
     { //Martin 8 heart event - The Confession
@@ -38204,14 +38204,14 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Martin",
       "Entries": {
-        "MartinConfession": "...$2#$e#... Sorry, @. A lot on my mind today.$2#$e#%Martin doesn't want to talk."
+        "MartinConfession": "...$2#$e#... Désolé, @. Beaucoup de choses en tête aujourd'hui.$2#$e#%Martin ne veut pas parler."
       },
     },
     {
       "Action": "EditData",
       "Target": "characters/dialogue/Claire",
       "Entries": {
-        "MartinConfession": "You should do something nice to cheer Martin up. He's feeling a bit down...$2#$e#Um. I shouldn't really talk about it...$1"
+        "MartinConfession": "Tu devrais faire quelque chose de gentil pour remonter le moral de Martin. Il se sent un peu déprimé...$2#$e#Hum. Je ne devrais pas vraiment en parler...$1"
       },
     },
     //Martin 10 heart event soon tm
@@ -38232,7 +38232,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "MorrisTod": "Ah! A gift worthy of my attention. Thank you, @./730 727 432 578/This is delightful!/72 348 430 428/I don't like this.../346 459 303 -81/What a despicable gift. Get this away from me./167 -74/That's generous of you./-75 -79 -80/"
+        "MorrisTod": "Ah ! Un cadeau digne de mon attention. Merci, @./730 727 432 578/C'est délicieux!/72 348 430 428/Je n'aime pas ça.../346 459 303 -81/Quel cadeau méprisable. Éloignez-moi ça./167 -74/C'est généreux de ta part./-75 -79 -80/"
       }
     },
     {
@@ -38345,7 +38345,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "MorrisTod": "Ah, @! Enjoying ourselves today?$1#$e#A well put-together festival is certain to win the hearts of the townsfolk!$5"
+        "MorrisTod": "Ah, @! Tu t'amuse aujourd'hui?$1#$e#Un festival bien organisé gagnera à coup sûr le cœur des citadins!$5"
       }
     },
     {

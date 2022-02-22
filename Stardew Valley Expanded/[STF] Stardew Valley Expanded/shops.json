@@ -5,7 +5,7 @@
 	"ShopName": "ClaireShop",
 	"PortraitPath": "Assets/Joja/Claire_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Welcome to Joja Mart.",
+	"Quote": "Bienvenue chez Joja Mart.",
 
 	"ItemStocks": [
 		{
@@ -427,7 +427,7 @@
 	"ShopName": "MartinShop",
 	"PortraitPath": "Assets/Joja/Martin_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Hello! How may I help you?",
+	"Quote": "Bonjour! Comment puis-je vous aider?",
 
 	"ItemStocks": [
 		{
@@ -848,7 +848,7 @@
 	"ShopName": "ClaireShopJojaDay",
 	"PortraitPath": "Assets/Joja/Claire_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "It's Joja Day. Seeds are 20 percent off.",
+	"Quote": "C'est le jour de Joja. Les graines sont à -20 %.",
 
 	"ItemStocks": [
 		
@@ -999,7 +999,7 @@
 	"ShopName": "MartinShopJojaDay",
 	"PortraitPath": "Assets/Joja/Martin_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "It's a Joja Day special! Everything is 20 percent off!",
+	"Quote": "C'est un spécial Joja Day ! Tout est à -20 %!",
 
 	"ItemStocks": [
 		
@@ -1153,7 +1153,7 @@
 	"ShopName": "AlesiaVendor",
 	"PortraitPath": "Assets/Adventurers/Alesia_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Do you need ammunition or potions?",
+	"Quote": "Avez-vous besoin de munitions ou de potions?",
 
 	"ItemStocks": [
 		{
@@ -1201,7 +1201,7 @@
 	"ShopName": "IsaacVendor",
 	"PortraitPath": "Assets/Adventurers/Isaac_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Your money isn't worth much here.",
+	"Quote": "Votre argent ne vaut pas grand chose ici.",
 
 	"ItemStocks": [
 		{
@@ -1236,7 +1236,7 @@
 	"ShopName": "CamillaVendor",
 	"PortraitPath": "Assets/Adventurers/Camilla_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "These elixirs give abilities some say are... unnatural.",
+	"Quote": "Ces élixirs donnent des capacités que certains disent être... surnaturelles.",
 
 	"ItemStocks": [
 		{
@@ -1650,7 +1650,7 @@
 	"ShopName": "BearVendor",
 	"PortraitPath": "Assets/Miscellaneous/Bear_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Rawr! Hello there.",
+	"Quote": "Rawr! Bonjour toi.",
 
 	"ItemStocks": [
 		{
@@ -1709,7 +1709,7 @@
 	"ShopName": "BlueJunimoVendor",
 	"PortraitPath": "Assets/Junimos/BlueJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "I hab rare fish!",
+	"Quote": "j'ai du poisson rare!",
 
 	"ItemStocks": [
 		{
@@ -1773,7 +1773,7 @@
 	"ShopName": "GreyJunimoVendor",
 	"PortraitPath": "Assets/Junimos/GreyJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "I trade rocks for yellow sparkle rocks!",
+	"Quote": "J'échange des pierres contre des pierres jaunes scintillantes!",
 
 	"ItemStocks": [
 		{
@@ -1849,7 +1849,7 @@
 	"ShopName": "RedJunimoVendor",
 	"PortraitPath": "Assets/Junimos/RedJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "Sell old things for yellow rocks!",
+	"Quote": "Vend vieilles choses contre des pierres jaunes!",
 
 	"ItemStocks": [
 		{
@@ -1991,7 +1991,7 @@
 	"ShopName": "YellowJunimoVendor",
 	"PortraitPath": "Assets/Junimos/YellowJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "I hab seeds!",
+	"Quote": "j'ai des graines!",
 
 	"ItemStocks": [
 		{
@@ -2037,7 +2037,7 @@
 	"ShopName": "OrangeJunimoVendor",
 	"PortraitPath": "Assets/Junimos/OrangeJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "Look here! Me sell decorations!",
+	"Quote": "Regarde ici ! Moi vends décorations!",
 
 	"ItemStocks": [
 		{
@@ -2258,7 +2258,7 @@
 	"ShopName": "PurpleJunimoVendor",
 	"PortraitPath": "Assets/Junimos/PurpleJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "Me have rare things! You want?",
+	"Quote": "Moi avoir choses rare! Tu veux?",
 
 	"ItemStocks": [
 		{
@@ -2299,7 +2299,7 @@
 	"ShopName": "BrooklynVendor",
 	"PortraitPath": "Assets/Joja/Brooklyn_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "These are realistic plastic decorations.",
+	"Quote": "Ce sont des décorations en plastique réalistes.",
 
 	"ItemStocks": [
 		{
@@ -2520,7 +2520,7 @@
 	"ShopName": "ZoeyVendor",
 	"PortraitPath": "Assets/Joja/Zoey_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Welcome to the seed shop.",
+	"Quote": "Bienvenue au magasin de graines.",
 
 	"ItemStocks": [
 		{
@@ -2600,7 +2600,7 @@
 	"ShopName": "ChloeVendor1",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "We have a lot of deserts today...",
+	"Quote": "Nous avons beaucoup de déserts aujourd'hui...",
 
 	"ItemStocks": [
 		{
@@ -2664,7 +2664,7 @@
 	"ShopName": "ChloeVendor2",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "The 'void delight' is kinda strange...",
+	"Quote": "Le 'délice vide' est un peu étrange...",
 
 	"ItemStocks": [
 		{
@@ -2704,7 +2704,7 @@
 	"ShopName": "ChloeVendor3",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Um. It's soup day...",
+	"Quote": "Hum. C'est le jour de la soupe...",
 
 	"ItemStocks": [
 		{
@@ -2756,7 +2756,7 @@
 	"ShopName": "ChloeVendor4",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Um. There's seating upstairs...",
+	"Quote": "Um. Il y a des sièges à l'étage...",
 
 	"ItemStocks": [
 		{
@@ -2802,7 +2802,7 @@
 	"ShopName": "JaceVendor",
 	"PortraitPath": "Assets/Joja/Jace_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Let me know if you want to inspect anything.",
+	"Quote": "Dites-moi si vous voulez inspecter quelque chose.",
 
 	"ItemStocks": [
 	    {
@@ -3052,7 +3052,7 @@
 	"ShopName": "AxelVendor1",
 	"PortraitPath": "Assets/Joja/Axel_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "These items are OUT of this WORLD!",
+	"Quote": "Ces articles sont HORS DE CE MONDE!",
 
 	"ItemStocks": [
 		{
@@ -3092,7 +3092,7 @@
 	"ShopName": "AxelVendor2",
 	"PortraitPath": "Assets/Joja/Axel_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Crimsonfish are DELICIOUS!",
+	"Quote": "Les poissons rouges sont DÉLICIEUX!",
 
 	"ItemStocks": [
 		{

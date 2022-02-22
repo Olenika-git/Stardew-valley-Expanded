@@ -50,8 +50,8 @@
   "Rainy_Day_4": "Mon objectif aujourd'hui est de rester à l'intérieur et d'être productif. Essayez quelque chose de nouveau peut-être...$1",
   //NIGHT DIALOGUE
   "Indoor_Night_0": "Bon retour à la maison! Comment étais ta journée?$1",
-  "Indoor_Night_1": "Oh, it's %time? The day went by so fast...$0",
-  "Indoor_Night_2": "I washed the dishes and swept the house while you were out.$1#$e#I had a pretty productive day!$5",
+  "Indoor_Night_1": "Oh, il est %time? La journée est passée si vite...$0",
+  "Indoor_Night_2": "J'ai lavé la vaisselle et balayé la maison pendant ton absence.$1#$e#j'ai eu une journée plutôt productive!$5",
   "Indoor_Night_3": "Hello, dear. Welcome back.$1#$e#Oh, mine? My day was gratifying.$5",
   "Indoor_Night_4": "I made dinner while you were away. Here's your plate. [606 209 207 214 224 235 236]$1#$e#So? How is it? I hope you think it's delicious.$5#$e#!!!$7",
   "Rainy_Night_0": "I wonder how birds sleep during these cold wet nights...$0",

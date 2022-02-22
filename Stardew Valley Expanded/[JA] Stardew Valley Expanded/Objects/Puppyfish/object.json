@@ -1,6 +1,6 @@
 {
 	"Name": "Puppyfish",
-	"Description": "This fish wants nothing but pets and snacks.",
+	"Description": "Ce poisson ne veut rien d'autre que des animaux de compagnie et des collations.",
 	"Category": "Fish",
 	"Edibility": 40,
 	"EdibleIsDrink": false,

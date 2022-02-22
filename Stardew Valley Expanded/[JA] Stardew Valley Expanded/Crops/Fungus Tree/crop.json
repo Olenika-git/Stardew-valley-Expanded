@@ -2,7 +2,7 @@
 	"Name": "Fungus Tree",
 	"Product": "Monster Mushroom",
 	"SeedName": "Fungus Seed",
-	"SeedDescription": "Plant these during fall. Takes 13 days to mature.",
+	"SeedDescription": "Plantez-les à l'automne. Met 13 jours à mûrir.",
 	"Type": "Vegetable",
 	"CropType": "Normal",
 	"Seasons": ["fall"],

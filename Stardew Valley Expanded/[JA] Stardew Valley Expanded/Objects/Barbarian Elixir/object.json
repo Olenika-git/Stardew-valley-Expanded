@@ -1,6 +1,6 @@
 {
 	"Name": "Barbarian Elixir",
-	"Description": "Doubles your attack damage for one minute. Stacks with speed potions.",
+	"Description": "Double vos dégâts d'attaque pendant une minute. Se cumule avec les potions de vitesse.",
 	"Category": "ArtisanGoods",
 	"Edibility": 1,
 	"EdibleIsDrink": false,

@@ -1,7 +1,7 @@
 {
 	"Name": "Green Mushroom",
 	"Price": 1250,
-	"Description": "Makes one feel as if they've gained another life.",
+	"Description": "Donne l'impression d'avoir gagné une autre vie.",
 	"Edibility": 500,
 	"EdibleBuffs": 
 	{

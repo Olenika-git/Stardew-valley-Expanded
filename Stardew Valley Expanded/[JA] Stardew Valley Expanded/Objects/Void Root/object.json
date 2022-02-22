@@ -1,7 +1,7 @@
 {
 	"Name": "Void Root",
 	"Price": 235,
-	"Description": "A strange dark energy is emitting from it.",
+	"Description": "Une étrange énergie sombre en émet.",
 	"Category": "Vegetable",
 	"CategoryTextOverride": "Monster Crop",
 	"CategoryColorOverride": "51, 0, 0, 255",

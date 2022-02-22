@@ -1,6 +1,6 @@
 {
 	"Name": "Void Soul",
-	"Description": "The corrupted life essence of what once was. It's a key ingredient in potion brewing.",
+	"Description": "L'essence de vie corrompue de ce qui était autrefois en vie. C'est un ingrédient clé dans la préparation de potions.",
 	"Category": "MonsterLoot",
 	"Edibility": -300,
 	"EdibleIsDrink": false,

@@ -1,6 +1,6 @@
 {
 	"Name": "Haste Elixir",
-	"Description": "You'll feel lighter on your feet. Stacks with attack and defense potions.",
+	"Description": "Vous vous sentirez plus léger sur vos pieds. Se cumule avec les potions d'attaque et de défense.",
 	"Category": "ArtisanGoods",
 	"Edibility": 2,
 	"EdibleIsDrink": true,

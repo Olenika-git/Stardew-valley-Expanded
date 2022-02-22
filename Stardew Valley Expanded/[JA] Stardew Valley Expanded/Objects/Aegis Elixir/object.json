@@ -1,6 +1,6 @@
 {
 	"Name": "Aegis Elixir",
-	"Description": "For a brief time, you become immune to damage. Stacks with speed potions.",
+	"Description": "Pendant un court instant, vous devenez immunisé contre les dégâts. Se cumule avec les potions de vitesse.",
 	"Category": "ArtisanGoods",
 	"Edibility": 1,
 	"EdibleIsDrink": false,

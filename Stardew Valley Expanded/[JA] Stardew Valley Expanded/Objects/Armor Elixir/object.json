@@ -1,6 +1,6 @@
 {
 	"Name": "Armor Elixir",
-	"Description": "Fortifies your body. Stacks with speed potions.",
+	"Description": "Fortifie votre corps. Se cumule avec les potions de vitesse.",
 	"Category": "ArtisanGoods",
 	"Edibility": 2,
 	"EdibleIsDrink": false,

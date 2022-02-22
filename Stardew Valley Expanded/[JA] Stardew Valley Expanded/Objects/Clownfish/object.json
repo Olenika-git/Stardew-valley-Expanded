@@ -1,6 +1,6 @@
 {
 	"Name": "Clownfish",
-	"Description": "Lives in sea anemones for protection.",
+	"Description": "Vit dans les anémones de mer pour se protéger.",
 	"Category": "Fish",
 	"Edibility": 20,
 	"EdibleIsDrink": false,

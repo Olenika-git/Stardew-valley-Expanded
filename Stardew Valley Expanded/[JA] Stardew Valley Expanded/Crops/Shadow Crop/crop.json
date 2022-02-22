@@ -2,7 +2,7 @@
 	"Name": "Shadow Crop",
 	"Product": "Void Root",
 	"SeedName": "Void Seed",
-	"SeedDescription": "Plant these during winter. Takes 8 days to mature.",
+	"SeedDescription": "Plantez-les pendant l'hiver. Met 8 jours à mûrir.",
 	"Type": "Vegetable",
 	"CropType": "Normal",
 	"Seasons": ["winter"],

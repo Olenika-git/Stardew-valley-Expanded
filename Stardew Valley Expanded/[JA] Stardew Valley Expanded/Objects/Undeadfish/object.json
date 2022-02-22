@@ -1,6 +1,6 @@
 {
 	"Name": "Undeadfish",
-	"Description": "Doesn't look dead to me.",
+	"Description": "Ne semble pas mort.",
 	"Category": "Fish",
 	"Edibility": -60,
 	"EdibleIsDrink": false,

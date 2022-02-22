@@ -1,6 +1,6 @@
 {
 	"Name": "Frog",
-	"Description": "It's very slimy.",
+	"Description": "C'est très visqueux.",
 	"Category": "Fish",
 	"Edibility": -30,
 	"EdibleIsDrink": false,

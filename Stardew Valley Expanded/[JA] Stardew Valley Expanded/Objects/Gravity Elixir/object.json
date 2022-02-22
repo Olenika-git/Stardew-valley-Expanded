@@ -1,6 +1,6 @@
 {
 	"Name": "Gravity Elixir",
-	"Description": "The radius at which you draw in objects is greatly increased. The effects last until the following sunrise, and stack with attack and defense potions.",
+	"Description": "Le rayon dans lequel vous attirer des objets est considérablement augmenté. Les effets durent jusqu'au lever du soleil suivant et se cumulent avec les potions d'attaque et de défense.",
 	"Category": "ArtisanGoods",
 	"Edibility": 1,
 	"EdibleIsDrink": true,

@@ -1,6 +1,6 @@
 {
 	"Name": "Seahorse",
-	"Description": "A tiny fish that makes a home in coral reefs.",
+	"Description": "Un petit poisson qui vit dans les récifs coralliens.",
 	"Category": "Fish",
 	"Edibility": 5,
 	"EdibleIsDrink": false,

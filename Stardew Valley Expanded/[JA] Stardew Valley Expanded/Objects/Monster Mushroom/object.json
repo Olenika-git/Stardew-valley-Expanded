@@ -1,7 +1,7 @@
 {
 	"Name": "Monster Mushroom",
 	"Price": 850,
-	"Description": "It's huge. Suspends itself on a high-up plant to avoid ground predators.",
+	"Description": "Il est énorme. Se suspend à une plante en hauteur pour éviter les prédateurs du sol.",
 	"Category": "Vegetable",
 	"CategoryTextOverride": "Monster Crop",
 	"CategoryColorOverride": "51, 0, 0, 255",

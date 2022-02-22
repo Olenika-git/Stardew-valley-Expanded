@@ -1,7 +1,7 @@
 {
 	"Name": "Dewdrop Berry",
 	"Price": 45,
-	"Description": "An aromatic enchanting fruit grown in my Nexus. Grants magical abilities until the next sunrise.",
+	"Description": "Un fruit enchanteur aromatique cultivé dans mon Nexus. Confère des capacités magiques jusqu'au prochain lever de soleil.",
 	"Category": "Fruit",
 	"Edibility": 90,
 	"Recipe": null,

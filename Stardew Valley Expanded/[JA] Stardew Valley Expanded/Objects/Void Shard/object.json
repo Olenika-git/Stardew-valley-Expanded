@@ -1,6 +1,6 @@
 {
 	"Name": "Void Shard",
-	"Description": "The stone is consumed by dark magic.",
+	"Description": "La pierre est consumée par de la magie noire.",
 	"Category": "MonsterLoot",
 	"Edibility": -300,
 	"EdibleIsDrink": false,

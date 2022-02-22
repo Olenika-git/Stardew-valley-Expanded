@@ -1,7 +1,7 @@
 {
 	"Name": "Super Joja Cola",
 	"Price": 350,
-	"Description": "DISCLAIMER: Small chance skin will turn blue after consumption.",
+	"Description": "AVIS DE NON-RESPONSABILITÉ : la peau a peu de chances de devenir bleue après consommation.",
 	"Edibility": 150,
 	"EdibleIsDrink": true,
 	"CanSell": false,

@@ -1,6 +1,6 @@
 {
 	"Name": "Lightning Elixir",
-	"Description": "Enables you to run extremely quickly for one minute. Stacks with attack and defense potions.",
+	"Description": "Vous permet de courir extrêmement rapidement pendant une minute. Se cumule avec les potions d'attaque et de défense.",
 	"Category": "ArtisanGoods",
 	"Edibility": 1,
 	"EdibleIsDrink": true,

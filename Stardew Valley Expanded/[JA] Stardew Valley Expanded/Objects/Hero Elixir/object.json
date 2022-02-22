@@ -1,6 +1,6 @@
 {
 	"Name": "Hero Elixir",
-	"Description": "Grants you heroic attributes. Stacks with speed potions.",
+	"Description": "Vous accorde des attributs héroïques. Se cumule avec les potions de vitesse.",
 	"Category": "ArtisanGoods",
 	"Edibility": 2,
 	"EdibleIsDrink": false,

@@ -1,7 +1,7 @@
 {
 	"Name": "Monster Fruit",
 	"Price": 1525,
-	"Description": "It has an eyeball-like pattern. It's the closest someone can get to tasting a Stardrop.",
+	"Description": "Il a un motif en forme de globe oculaire. C'est ce qui se rapproche le plus de la dégustation d'un carambole.",
 	"Category": "Fruit",
 	"CategoryTextOverride": "Monster Crop",
 	"CategoryColorOverride": "51, 0, 0, 255",

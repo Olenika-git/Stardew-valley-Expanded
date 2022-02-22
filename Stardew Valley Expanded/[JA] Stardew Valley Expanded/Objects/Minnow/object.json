@@ -1,6 +1,6 @@
 {
 	"Name": "Minnow",
-	"Description": "A small river fish.",
+	"Description": "Un petit poisson de rivière.",
 	"Category": "Fish",
 	"Edibility": 1,
 	"EdibleIsDrink": false,

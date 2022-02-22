@@ -2,7 +2,7 @@
 	"Name": "Joja Veggie Machine",
 	"Product": "Joja Veggie",
 	"SeedName": "Joja Veggie Seeds",
-	"SeedDescription": "Plant these in the spring, summer or fall. Takes 13 days to mature. The platform is impassable. A light turns red when ready to harvest.",
+	"SeedDescription": "Plantez-les au printemps, en été ou en automne. Met 13 jours à mûrir. La machine est infranchissable. Une lumière devient rouge lorsqu'elle est prête à récolter.",
 	"Type": "Vegetable",
 	"CropType": "Normal",
 	"Seasons": ["spring", "summer", "fall"],

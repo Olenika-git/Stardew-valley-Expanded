@@ -1,6 +1,6 @@
 {
 	"Name": "Void Pebble",
-	"Description": "Although small, it's dense and hot to the touch.",
+	"Description": "Bien que petit, il est dense et chaud au toucher.",
 	"Category": "MonsterLoot",
 	"Edibility": -300,
 	"EdibleIsDrink": false,

@@ -1,6 +1,6 @@
 {
 	"Name": "Ornate Treasure Chest",
-	"Description": "It's filled to the brim with gold and gems.",
+	"Description": "Il est rempli à ras bord d'or et de pierres précieuses.",
 	"Edibility": -300,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,

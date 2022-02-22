@@ -2,7 +2,7 @@
   "Name": "Fancy Wood Lamp-post",
   "Price": 4000,
   "ProvidesLight": false,
-  "Description": "Provides a moderate amount of light.",
+  "Description": "Fournit une quantité modérée de lumière.",
   "ProvidesLight": true,
   "CanPurchase": false,
 }

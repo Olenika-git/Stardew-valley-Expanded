@@ -1,6 +1,6 @@
 {
 	"Name": "Diamond Wand",
-	"Description": "A magic relic from Galdora. Teleports enemies away from the user. Effective against flyers.",
+	"Description": "Une relique magique de Galdora. Éloigne les ennemis de l'utilisateur. Efficace contre les monstres Volants.",
 	"Type": "Sword",
 	"MinimumDamage": 1,
 	"MaximumDamage": 2,

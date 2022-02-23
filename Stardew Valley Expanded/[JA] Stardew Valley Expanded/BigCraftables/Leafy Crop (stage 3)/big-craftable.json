@@ -2,6 +2,6 @@
   "Name": "Leafy Crop (stage 3)",
   "Price": 520,
   "ProvidesLight": false,
-  "Description": "A decorative crop. Changes seasonally into 'Kale', 'Red Cabbage', and 'Amaranth' when placed outdoors.",
+  "Description": "Une récolte décorative. Se transforme selon les saisons en 'chou frisé', ' chou rouge ' et ' amarante' lorsqu'il est placé à l'extérieur.",
   "CanPurchase": false,
 }

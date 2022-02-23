@@ -2,7 +2,7 @@
   "Name": "Shrub",
   "Price": 2000,
   "ProvidesLight": false,
-  "Description": "A decorative piece for your farm. Changes seasonally when placed outdoors.",
+  "Description": "Une pièce décorative pour votre ferme. Change selon les saisons lorsqu'il est placé à l'extérieur.",
   "ProvidesLight": false,
   "CanPurchase": false,
 }

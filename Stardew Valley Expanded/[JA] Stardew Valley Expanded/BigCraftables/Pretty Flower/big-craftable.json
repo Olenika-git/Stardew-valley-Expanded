@@ -2,7 +2,7 @@
   "Name": "Pretty Flower",
   "Price": 500,
   "ProvidesLight": false,
-  "Description": "A decorative piece for your farm. Changes seasonally when placed outdoors. Turns into a pile of snow during winter.",
+  "Description": "Une pièce décorative pour votre ferme. Change selon les saisons lorsqu'il est placé à l'extérieur. Se transforme en un tas de neige pendant l'hiver.",
   "ProvidesLight": false,
   "CanPurchase": false,
 }

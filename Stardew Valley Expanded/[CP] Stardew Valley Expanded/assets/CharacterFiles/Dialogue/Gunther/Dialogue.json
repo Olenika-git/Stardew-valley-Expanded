@@ -37,38 +37,38 @@
   "summer_28": "Il y a un livre dans la bibliothèque détaillant les découvertes scientifiques sur les méduses lunaires.$5#$b#Des créatures aquatiques véritablement remarquables.$1",
   
   "summer_Mon": "Vous pourriez trouver des objets enfouis dans votre ferme.$5#$e#Il y a eu beaucoup d'histoire à %farm.$5",
-  "summer_Mon6": "Les Slimes vivent depuis environ 40 000 ans. Vous pouvez découvrir des slimes pétrifiées lors de vos aventures.$5#$e#Haha! Monsters existed far before humans.$1",
+  "summer_Mon6": "Les Slimes vivent depuis environ 40 000 ans. Vous pouvez découvrir des slimes pétrifiées lors de vos aventures.$5#$e#Haha! Les monstres existaient bien avant l'apparition des humains.$1",
   "summer_Sat": "Vous pouvez découvrir d'anciennes épées dans la forêt à l'ouest.$5#$e#Il y eu une bataille il y a très longtemps là bas...$5#$e#Au revoir, Mr. @.$5^Au revoir, Ms. @.$5",
   "summer_Sat6": "Aujourd'hui, les oiseaux se font entendre.$5#$e#Ah. Ça me rappelle... Je dois remplir le mangeoire à oiseaux.$1",
   
   //FALL DIALOGUE
-  "fall_1": "Ah... do you hear that?$5#$b#The rustling sound of leaves travelling with the wind.$1",
-  "fall_5": "Willy shared a fishing story with me the other day.$1#$e#He was river fishing late at night in town...$5#$b#Suddenly... a glowing light from the river snatched the bait from his fishing rod!$1#$b#He tells me it was the doing of the 'Angler'.$5",
-  "fall_15": "Mayor Lewis says some couple dozen tourists are partaking in the festivities tomorrow.$5",
+  "fall_1": "Ah... tu entends ça?$5#$b#Le bruissement des feuilles qui se déplacent avec le vent.$1",
+  "fall_5": "Willy a partagé une histoire de pêche avec moi l'autre jour.$1#$e#Il pêchait en rivière tard dans la nuit...$5#$b#Soudainement ... une lumière brillante à arraché l'appât de sa canne à pêche!$1#$b#Il ma dit que c'était ça la vie d'un 'Pecheur'.$5",
+  "fall_15": "Le maire Lewis a déclaré que quelques dizaines de touristes participeront aux festivités demain.$5",
   
-  "fall_Tue": "I made incredible discoveries while pursuing my research at university as a young lad.$5#$e#Good day, Mr. @.$0^Good day, Ms. @.$5",
-  "fall_Tue8": "Thank you for your donations, Mr. @.$5^Thank you for your donations, Ms. @.$5#$e#You've done so much for one person!$1",
-  "fall_Fri": "Dwarfish gadgets sparked industrial revolutions across the globe.$5#$e#Their technology shapes the modern world we reside in.$1#$e#Oil and coal is dirty... but meets our societies energy needs.$5",
-  "fall_Fri8": "Sometimes I step outside to gaze at the community garden. Folks have put in a lot of work.$5#$b#If I see a crow land in there, I run out to scare it off!$1",
+  "fall_Tue": "J'ai fait des découvertes incroyables en poursuivant mes recherches à l'université quand j'étais jeune.$5#$e#Bonjour, Mr. @.$0^Bonjour, Mme. @.$5",
+  "fall_Tue8": "Merci pour vos dons, Mr. @.$5^Merci pour vos dons, Mme. @.$5#$e#Vous avez tant fait pour une personne$1",
+  "fall_Fri": "Les gadgets nains ont déclenché des révolutions industrielles à travers le monde.$5#$e#Leur technologie façonne le monde moderne dans lequel nous vivons.$1#$e#Le pétrole et le charbon sont sales... mais répondent aux besoins énergétiques de notre sociétés.$5",
+  "fall_Fri8": "Parfois, je sors pour contempler le jardin communautaire. Les gens ont beaucoup travaillé.$5#$b#Si je vois un corbeau atterrir là-dedans, je cours pour l'effrayer!$1",
   
   //WINTER DIALOGUE
-  "winter_1": "If you find yourself fatigued from the cold, consider visiting the library.$5#$b#The fire will keep you warm.$1",
-  "winter_24": "Many folks are excited for the Winter Star Festival.$1#$e#I'm assisting Gus with food preparations.$5",
-  "winter_28": "Snow is clearing soon.$5#$e#Good luck with the farming season Mr. @.$5^Good luck with the farming season Ms. @.$5",
+  "winter_1": "Si vous vous sentez fatigué par le froid, pensez à visiter la bibliothèque.$5#$b#Le feu vous réchauffera.$1",
+  "winter_24": "Beaucoup de gens sont ravis du Festival des étoiles d'hiver .$1#$e#J'aide Gus à préparer les repas.$5",
+  "winter_28": "La neige va bientôt fondre.$5#$e#Bon courage pour la saison à venir Mr. @.$5^Bon courage pour la saison à venir Mme. @.$5",
   
-  "winter_Tue": "Hmmm...$2#$e#...$2#$e#Oh, hello. I'm pondering about a... dilemma in my research.$5#$e#Good day, Mr. @$5^Good day, Ms. @.$5",
-  "winter_Tue8": "Clint told me he feels like an archaeologist at times.$5#$e#Well, that's because of the geodes you're having him open for you.$1",
-  "winter_Thu8": "I'll never forget your heroic actions in the mines.$5",
-  "winter_Sun": "Hello, Mr. @. I hope you're making the most out of your day!$1^Hello, Ms. @. I hope you're making the most out of your day!$1",
-  "winter_Sun6": "Oh, you use your hoe to unearth artifacts?$5#$e#I have a handy shovel I could lend you.$1",
+  "winter_Tue": "Hmmm...$2#$e#...$2#$e#Oh, Bonjour. Je réfléchis à un... dilemme dans mes recherches.$5#$e#Bonjour, Mr. @$5^Bonjour, Mme. @.$5",
+  "winter_Tue8": "Clint m'a dit qu'il se sentait parfois comme un archéologue.$5#$e#Eh bien, c'est à cause des géodes que tu lui fais ouvrir tout les jours.$1",
+  "winter_Thu8": "Je n'oublierai jamais tes actions héroïques dans les mines.$5",
+  "winter_Sun": "Bonjour, Mr. @. J'espère que vous profitez au maximum de votre journée!$1^Bonjour, Mme. @. J'espère que vous profitez au maximum de votre journée!$1",
+  "winter_Sun6": "Oh, tu utilises ta houe pour déterrer des artefacts?$5#$e#J'ai une pelle que je pourrais te prêter.$1",
   
   //EVENT DIALOGUE
-  "gunther_event1": "Yes. Several civilizations lived in this valley many hundreds of years ago. Elves, dwarfs, void spirits...$5#$b#I'm determined to unravel the mysteries surrounding these ancient societies.$5",
-  "gunther_event2": "I concur, Mr. @.$5^I concur, Ms. @.$5",
-  "gunther_event3": "Hmm... yes. Many weapons lie beneath the very soil we stand upon.$5#$b#Perhaps one day, we'll discover the origin of these ancient wars between other races...$5",
-  "gunther_event4": "Hmm...#$b#Allow me to draw my own conclusion in that case, Mr. @.^Allow me to draw my own conclusion in that case, Ms. @.$5",
-  "gunther_event5": "Well... yes. I am nervous.$2#$b#This is my first time exploring the mines.$5#$b#I'm honored a revered adventurer such as yourself is escorting me.$1",
-  "gunther_event6": "That's reassuring.$5#$b#I'm honored a revered adventurer such as yourself is escorting me.$1",
+  "gunther_event1": "Oui. Plusieurs civilisations vivaient dans cette vallée il y a plusieurs centaines d'années. Elfes, nains, esprits du vide...$5#$b#Je suis déterminé à percer les mystères qui entourent ces anciennes civilisations.$5",
+  "gunther_event2": "Je suis d'accord, Mr. @.$5^Je suis d'accord, Mme. @.$5",
+  "gunther_event3": "Hmm... oui. De nombreuses armes se trouvent enfoui sous le sol même sur lequel nous nous tenons actuellement.$5#$b#Peut-être qu'un jour, nous découvrirons l'origine de ces guerres anciennes entre les autres races...$5",
+  "gunther_event4": "Hmm...#$b#Permettez-moi de tirer ma propre conclusion dans ce cas, Mr. @.^Permettez-moi de tirer ma propre conclusion dans ce cas, Mme. @.$5",
+  "gunther_event5": "Well... oui. je suis nerveux.$2#$b#C'est la première fois que j'explore les mines.$5#$b#Je suis honoré qu'un aventurier tel que vous m'escorte.$1",
+  "gunther_event6": "That's reassuring.$5#$b#Je suis honoré qu'un aventurier tel que vous m'escorte.$1",
   "gunther_event7": "Je serai juste derrière toi.$5",
   "gunther_event8": "Je serai juste derrière toi.$5"
   

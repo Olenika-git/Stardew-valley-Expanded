@@ -1,9 +1,9 @@
 ﻿{
 
-"Mon": "If you see anything out of the ordinary, tell Alesia. She's tracking monsters' movements to report to the Guild.$0",
-"Tue": "Think we might be in for a battle tonight. I've seen some strange things on the horizon.$3",
-"Wed": "*grumble* I can never get enough to drink on hot days like this. Feels like I'm drying up from the inside out.$2",
-"Sat": "Staying alert, @? You never know when something could come creeping up on you around here.$0#$e#Luckily for me, I'm always two steps ahead.$5#$b#Just stay out of my way.$0"
+"Mon": "Si vous voyez quelque chose qui sort de l'ordinaire, dites-le à Alésia. Elle suit les mouvements des monstres pour les signaler à la Guilde.$0",
+"Tue": "Je pense qu'on pourrait se battre ce soir. J'ai vu d'étranges choses à l'horizon.$3",
+"Wed": "*grognement* Je n'arrive jamais à boire assez par temps chaud. J'ai l'impression de sécher de l'intérieur.$2",
+"Sat": "Reste vigilant, @? Vous ne savez jamais quand quelque chose pourrait vous attaquer.$0#$e#Heureusement pour moi, j'ai toujours une longueur d'avance.$5#$b#Reste simplement hors de mon chemin.$0"
 
 //Self doubt can poison even the strongest of men.
 }

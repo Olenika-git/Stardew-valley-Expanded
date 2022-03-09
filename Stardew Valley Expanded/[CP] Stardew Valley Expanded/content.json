@@ -48223,12 +48223,12 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
-        "Town_97_77": "Nice of you to say hi in my backyard.",
-        "Town4_97_77": "Nice of you to say hi in my backyard.",
-        "Town_102_77": "Nice of you to say hi in my backyard.",
-        "Town_98_77": "Nice of you to say hi in my backyard.",
-        "Town_100_81": "%Clint is checking the machine.",
-        "Town_103_98": "Folks put a lot of time into the community garden. I come to admire the work.",
+        "Town_97_77": "C'est gentil de ta part de dire bonjour quand tu passe dans mon jardin.",
+        "Town4_97_77": "C'est gentil de ta part de dire bonjour quand tu passe dans mon jardin.",
+        "Town_102_77": "C'est gentil de ta part de dire bonjour quand tu passe dans mon jardin.",
+        "Town_98_77": "C'est gentil de ta part de dire bonjour quand tu passe dans mon jardin.",
+        "Town_100_81": "%Clint vérifie la machine.",
+        "Town_103_98": "Les gens investissent beaucoup de temps dans le jardin communautaire. Je viens admirer leur travail.",
       }
     },
     { //CLINT INTRODUCTION DIALOGUE - IF2R
@@ -48238,7 +48238,7 @@
         "HasMod": "flashshifter.immersivefarm2remastered"
       },
       "Entries": {
-        "Introduction": "Er... hi. I'm Clint.#$e#I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.#$e#Those tools I made for you working out? Spent a couple days smithing them.$1",
+        "Introduction": "Er... salut. je m'appelle Clint.#$e#I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.#$e#Those tools I made for you working out? Spent a couple days smithing them.$1",
       }
     },
     { //LEAH SCHEDULE EDITS
@@ -51110,7 +51110,7 @@
         "PelicanTown.47": "-Le Saloon du Fruit Étoilé-",
         "PelicanTown.48": "Le signe est écrit en texte rouge vif. Ça indique:^^\"CHIEN\"",
         "PelicanTown.49": "Il y a du bois stocké dans cette cour",
-        "PelicanTown.50": "Residents here in Pelican Town use these kegs and barrels to turn their produce into wine and jelly.",
+        "PelicanTown.50": "Les habitants de Pélican Ville utilisent ces fûts et tonneaux pour transformer leurs produits en vin et en gelée.",
         "PelicanTown.51": "C'est le jardin du maire Lewis.",
         "PelicanTown.52": "Evelyn prend bien soin de ce parterre de fleurs.",
         "PelicanTown.53": "\"FERMER\"",

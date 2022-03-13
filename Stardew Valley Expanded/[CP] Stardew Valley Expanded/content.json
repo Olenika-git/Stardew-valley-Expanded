@@ -20645,7 +20645,7 @@
         "Thu6": "J'ai accompli beaucoup de choses aujourd'hui ! j'espère que toi aussi.$1",
         "Fri8": "Salut maman. Partage un verre de vin Blue Moon avec moi![{{spacechase0.JsonAssets/ObjectId:Blue Moon Wine}}]$3#$e#Gus en garde toujours en stock au saloon.$1",
         "summer_Mon8": "Le temps va être superbe cette semaine.$1",
-        "summer_Thu8": "Tu rêvais d'être agricultrice quand tu étais jeune, maman?$0#$e#IJe t'admire de suivre ta passion de cette façon. Plus que tu ne le sais.$3#$e#Tu est dévoué. Je sens que j'ai beaucoup à apprendre de toi.$3",
+        "summer_Thu8": "Tu rêvais d'être agricultrice quand tu étais jeune, maman?$0#$e#Je t'admire de suivre ta passion de cette façon. Plus que tu ne le sais.$3#$e#Tu est dévoué. Je sens que j'ai beaucoup à apprendre de toi.$3",
         "summer_Sat8": "Il y a une partie d'un roman que j'ai récemment terminé qui décrit les anciennes villes des nains dans la chaîne des montagnes Cascadiennes.$1#$e#Leurs villes étaient autrefois d'énormes plaques tournantes du commerce pour les anciens peuples nains.$7#$b#A ce jour, on ne sait toujours pas grand chose sur eux...$2#$b#On retrouve leurs gadgets ici et là et on connaît une partie de leur histoire, mais c'est vraiment tout..$0#$e#Au revoir, maman.$3",
         "summer_Sun8": "Tu pourrais peut-être m'emmener à l'aventure un jour, maman.$1#$e#Oh. Euh. Je m'assis à l'arrière je regarde.$0#$b#Je suis pas vraiment taillé pour le combat...$2",
         "fall_15": "Bonjour, maman. J'attends avec impatience la foire de Stardew Valley demain?$3#$b#Vous êtes en train de mettre en place un étals pas vrai?$0#$e#Super, bonne chance! Je suis certain que tout iras bien.$1",
@@ -35717,7 +35717,7 @@
         "Day": "25"
       },
       "Entries": {
-        "Thu": "%Drake: The valley is in good hands with a revered adventurer like Marlon at the helm."
+        "Thu": "%Drake: La vallée est entre de bonnes mains avec un aventurier comme Marlon à la sa tête."
       },
     },
     {
@@ -35776,7 +35776,7 @@
         "Day": "8"
       },
       "Entries": {
-        "Wed": "%Edmund: The geography here is very different from where I come from."
+        "Wed": "%Edmund: Le paysage ici est très différent d'ici où je suis originaire."
       },
     },
     {
